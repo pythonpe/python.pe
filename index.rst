@@ -1,20 +1,28 @@
-.. Python Peru documentation master file, created by
-   sphinx-quickstart on Thu Feb 24 02:46:02 2011.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Bienvenido a Python Peru!
+=========================
 
-Welcome to Python Peru's documentation!
-=======================================
-
-Contents:
+Comunidad peruana de usuarios de `Python`_.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-Indices and tables
-==================
+   noticias
+   eventos
+   miembros
+   empresas
+   proyectos
+   irc
+   listas
+   faq
+
+
+Para actualizar este sitio, hacer un pull request a https://bitbucket.org/tabo/python.pe
+
+Índices y tablas
+================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
 
+.. _Python: http://www.python.org/
