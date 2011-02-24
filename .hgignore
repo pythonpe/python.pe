@@ -1,0 +1,5 @@
+\.coverage
+^_build/
+\..*\.swp$
+\..*\.swo$
+\.pyc$
