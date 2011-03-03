@@ -15,4 +15,9 @@ Gustavo Picón
 http://tabo.pe/
 
 
+Nicolas Valcárcel
+-----------------
+
+http://launchpad.net/~nvalcarcel
+
 .. _Python: http://www.python.org/
