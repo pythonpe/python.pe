@@ -11,6 +11,7 @@ Comunidad peruana de usuarios de `Python`_.
    miembros
    empresas
    proyectos
+   charlas
    irc
    listas
    faq
