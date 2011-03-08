@@ -77,7 +77,8 @@ div.footer-left {
     width: 400px;
 }
 
-div.footer p {
+p.footer {
     margin: 0 auto;
+    font-size: 10px;
 }
 
