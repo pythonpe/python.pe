@@ -1,4 +1,4 @@
-Bienvenido a Python Peru!
+Bienvenido a Python Perú!
 =========================
 
 Comunidad peruana de usuarios de `Python`_.
