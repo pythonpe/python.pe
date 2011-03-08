@@ -6,22 +6,23 @@
   </head>
   <body>
       <div class="header">
-	  <!-- YOUR NAVIGATION GOES HERE -->
-	  <ul class="navigation">
-	    <li><a href="{{ pathto('index')}}">Inicio</a>
-	    <li><a href="{{ pathto('charlas')}}">Charlas</a>
-	    <li><a href="{{ pathto('miembros')}}">Miembros</a>
-	    <li><a href="{{ pathto('proyectos')}}">Proyectos</a>
-	    <li><a href="{{ pathto('empresas')}}">Empresas</a>
-	    <li><a href="{{ pathto('faq')}}">FAQ</a>
-	  </ul>
+	<!-- YOUR NAVIGATION GOES HERE -->
+	<ul class="navigation">
+	  <li><a href="{{ pathto('index')}}"><img src="{{ pathto('_static/pythonperu.png', 1) }}" /></a>
+	  <li><a href="{{ pathto('index')}}">Inicio</a>
+	  <li><a href="{{ pathto('charlas')}}">Charlas</a>
+	  <li><a href="{{ pathto('miembros')}}">Miembros</a>
+	  <li><a href="{{ pathto('proyectos')}}">Proyectos</a>
+	  <li><a href="{{ pathto('empresas')}}">Empresas</a>
+	  <li><a href="{{ pathto('faq')}}">FAQ</a>
+	</ul>
       </div>
       <div class="bodycontent">
 	<div class="contentwrapper">
           <div class="content">
-              <!-- YOUR DATA GOES HERE -->
-                {% block content %}
-                {% endblock %}
+            <!-- YOUR DATA GOES HERE -->
+            {% block content %}
+            {% endblock %}
           </div>
 	  {% if pagename == "index" %}
 	  <div class="widgetpanel">
