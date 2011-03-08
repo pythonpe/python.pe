@@ -18,6 +18,14 @@ pythonistas.
 Todos son bienvenidos a contribuir con la página, fíjate como puedes
 empezar **ya** en el `faq`_
 
+.. toctree::
+   :hidden:
+   
+   charlas
+   miembros
+   proyectos
+   faq
+
 .. _Python: http://www.python.org/
 .. _lista: http://groups.google.com/group/python-peru/subscribe
 .. _archivos: http://groups.google.com/group/python-peru/topics
