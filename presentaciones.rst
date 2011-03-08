@@ -1,5 +1,5 @@
-Charlas
-=======
+Presentaciones
+==============
 
 
 PyCon 2010:Distributed Programming with Pyro
