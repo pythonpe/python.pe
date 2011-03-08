@@ -6,7 +6,8 @@ body {
 }
 
 div.header {
-    height: 25px;
+    background: url(mainHeader.png) repeat-x center top;
+    height: 40px;
     margin: 0 auto;
 }
 
@@ -37,6 +38,8 @@ div.header ul.navigation li a {
     line-height: 28px!important;
     height: 28px!important;
     font-weight: bold;
+    font-size: 16px;
+    color: white;
     text-decoration: none;
     letter-spacing: 0.5px;
 }
