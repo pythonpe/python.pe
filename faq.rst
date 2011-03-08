@@ -1,7 +1,11 @@
 Preguntas Frecuentes
 ====================
 
-What... is the air-speed velocity of an unladen swallow?
---------------------------------------------------------
+¿Cómo puedo contribuir con la página?
+-------------------------------------
 
-What do you mean? An African or European swallow? 
+El proyecto está alojado en https://bitbucket.org/tabo/python.pe, empieza
+clonando el proyecto y cuando termines tus modificaciones no olvides hacer un *pull request*.
+
+Si no has trabajado antes con mercurial, te recomendamos que le des un vistazo a
+http://hginit.com, si te quedan dudas pregunta en la lista de correo.
