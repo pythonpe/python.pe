@@ -68,9 +68,16 @@ div.widgetpanel {
 
 div.footer {
     clear: both;
-    margin: 0 auto;
+    margin: 25px auto;
+    width: 900px;
+}
+
+div.footer-left {
+    border-right: 1px solid #d8d8d8;
+    width: 400px;
 }
 
 div.footer p {
     margin: 0 auto;
 }
+
