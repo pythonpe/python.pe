@@ -21,7 +21,7 @@ empezar **ya** en el `faq`_
 .. toctree::
    :hidden:
    
-   charlas
+   presentaciones
    miembros
    proyectos
    faq
