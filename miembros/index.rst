@@ -9,53 +9,11 @@ Profesionales/estudiantes/aficionados de `Python`_.
 
    *
 
-Template para agregarse como miembro:
-
-Encontrarás este contenido en el archivo `miembros/plantilla.rst`, simplemente cópialo y edítalo.
-
-.. code-block:: rest
-
-   Nombre Apellido
-   ===============
-
-   :nombre: Nombre Apellido
-   :aliases: elnick
-   :ciudad: Lima
-   :homepage: https://www.python.org/
-   :bitbucket: https://bitbucket.org/elnick
-   :github: https://github.com/elnick
-   :launchpad: https://launchpad.net/~elnick
-   :google code: https://code.google.com/u/elnick/
-   :linkedin: http://www.linkedin.com/in/elnick
-   :twitter: `@elnick <http://twitter.com/elnick>`_
-   :facebook: http://facebook.com/elnick
-
-   ¿Quién eres y a qué te dedicas?
-   -------------------------------
-
-   ¿Cómo programas en Python?
-   --------------------------
-
-   ¿Qué hardware y software usas?
-   ------------------------------
-
-   ¿Que software/productos has publicado?
-   --------------------------------------
-
-   ¿Qué intereses tienes?
-   ----------------------
-
-   ¿Estás disponible para trabajar?
-   --------------------------------
-
-   ¿Estás disponible para hacer consultorías?
-   ------------------------------------------
-
-   ¿Estás disponible para dar charlas en eventos?
-   ----------------------------------------------
-
-   ¿Algo más?
-   ----------
-
+Para agregarte como miembro, crea un archivo con tu alias en el
+`directorio de miembros`_, usando la `plantilla`_, como base.
 
 .. _Python: http://www.python.org/
+.. _directorio de miembros:
+    https://bitbucket.org/tabo/python.pe/src/tip/miembros/
+.. _plantilla:
+    https://bitbucket.org/tabo/python.pe/src/tip/miembros/plantilla.rst
