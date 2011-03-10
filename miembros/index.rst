@@ -11,6 +11,8 @@ Profesionales/estudiantes/aficionados de `Python`_.
 
 Template para agregarse como miembro:
 
+Encontrarás este contenido en el archivo `miembros/plantilla.rst`, simplemente cópialo y edítalo.
+
 .. code-block:: rest
 
    Nombre Apellido
@@ -20,11 +22,13 @@ Template para agregarse como miembro:
    :aliases: elnick
    :ciudad: Lima
    :homepage: https://www.python.org/
-   :linkedin: `elnick <http://www.linkedin.com/in/elnick>`_
+   :bitbucket: https://bitbucket.org/elnick
+   :github: https://github.com/elnick
+   :launchpad: https://launchpad.net/~elnick
+   :google code: https://code.google.com/u/elnick/
+   :linkedin: http://www.linkedin.com/in/elnick
    :twitter: `@elnick <http://twitter.com/elnick>`_
-   :facebook: `elnick <http://facebook.com/elnick>`_
-   :github: `elnick <http://github.com/elnick/>`_
-   :bitbucket: `elnick <http://bitbucket.org/elnick/>`_
+   :facebook: http://facebook.com/elnick
 
    ¿Quién eres y a qué te dedicas?
    -------------------------------

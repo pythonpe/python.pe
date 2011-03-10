@@ -5,7 +5,10 @@ Alfredo Deza
 :aliases: alfredodeza
 :ciudad: Atlanta
 :homepage: http://www.alfredodeza.com
-:linkedin: `alfredodeza <http://www.linkedin.com/in/alfredodeza>`_
+:bitbucket: https://bitbucket.org/alfredodeza
+:github: https://github.com/alfredodeza
+:google code: https://code.google.com/u/alfredodeza/
+:linkedin: http://www.linkedin.com/in/alfredodeza
 :twitter: `@alfredodeza <http://twitter.com/alfredodeza>`_
 
 ¿Quién eres y a qué te dedicas?

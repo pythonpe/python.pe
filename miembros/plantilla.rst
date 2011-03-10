@@ -1,14 +1,17 @@
-Nicolas Valcárcel
-=================
+Nombre Apellido
+===============
 
-:nombre: Nicolas Valcárcel
-:aliases: nxvl
+:nombre: Nombre Apellido
+:aliases: elnick
 :ciudad: Lima
-:homepage: http://launchpad.net/~nvalcarcel
-:bitbucket: https://bitbucket.org/nxvl
-:launchpad: http://launchpad.net/~nvalcarcel
-:linkedin: http://pe.linkedin.com/pub/nicolas-valcarcel/11/65a/9a5
-:twitter: `@nxvl <http://twitter.com/nxvl>`_
+:homepage: https://www.python.org/
+:bitbucket: https://bitbucket.org/elnick
+:github: https://github.com/elnick
+:launchpad: https://launchpad.net/~elnick
+:google code: https://code.google.com/u/elnick/
+:linkedin: http://www.linkedin.com/in/elnick
+:twitter: `@elnick <http://twitter.com/elnick>`_
+:facebook: http://facebook.com/elnick
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
@@ -36,3 +39,6 @@ Nicolas Valcárcel
 
 ¿Algo más?
 ----------
+
+
+.. _Python: http://www.python.org/
