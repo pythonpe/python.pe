@@ -18,11 +18,11 @@ Gustavo Picón
 :aliases: tabo, gpicon
 :ciudad: Callao
 :homepage: https://tabo.pe/
-:bitbucket: `tabo <https://bitbucket.org/tabo>`_
-:github: `tabo <https://github.com/tabo>`_
-:launchpad: `tabo <https://launchpad.net/~tabo>`_
-:google code: `gpicon <https://code.google.com/u/gpicon/>`_
-:linkedin: `gpicon <http://www.linkedin.com/in/gpicon>`_
+:bitbucket: https://bitbucket.org/tabo
+:github: https://github.com/tabo
+:launchpad: https://launchpad.net/~tabo
+:google code: https://code.google.com/u/gpicon/
+:linkedin: http://www.linkedin.com/in/gpicon
 
 
 ¿Quién eres y a qué te dedicas?

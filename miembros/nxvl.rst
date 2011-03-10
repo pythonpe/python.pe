@@ -5,8 +5,8 @@ Nicolas Valcárcel
 :aliases: nxvl
 :ciudad: Lima
 :homepage: http://launchpad.net/~nvalcarcel
-:bitbucket: `nxvl <https://bitbucket.org/nxvl>`_
-:launchpad: `nvalcarcel <http://launchpad.net/~nvalcarcel>`_
+:bitbucket: https://bitbucket.org/nxvl
+:launchpad: http://launchpad.net/~nvalcarcel
 :linkedin: http://pe.linkedin.com/pub/nicolas-valcarcel/11/65a/9a5
 :twitter: `@nxvl <http://twitter.com/nxvl>`_
 
