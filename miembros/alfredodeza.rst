@@ -20,7 +20,7 @@ Alfredo Deza
 ¿Qué hardware y software usas?
 ------------------------------
 
-¿Que software/productos has publicado?
+¿Qué software/productos has publicado?
 --------------------------------------
 
 ¿Qué intereses tienes?

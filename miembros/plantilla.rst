@@ -22,7 +22,7 @@ Nombre Apellido
 ¿Qué hardware y software usas?
 ------------------------------
 
-¿Que software/productos has publicado?
+¿Qué software/productos has publicado?
 --------------------------------------
 
 ¿Qué intereses tienes?
@@ -40,5 +40,3 @@ Nombre Apellido
 ¿Algo más?
 ----------
 
-
-.. _Python: http://www.python.org/

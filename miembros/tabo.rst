@@ -130,7 +130,7 @@ Software que uso a diario:
  - Manejo de tareas: `OmniFocus`_ ordena mi vida
  - Autocontrol: `Concentrate`_
 
-¿Que software/productos has publicado?
+¿Qué software/productos has publicado?
 --------------------------------------
 
 Solo listo software open source escrito en Python:
