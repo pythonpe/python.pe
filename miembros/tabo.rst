@@ -49,8 +49,8 @@ el día en sandalias con Drago:
          height="375"
          alt="!flash" /></a>
 
-Abrieron un starbucks a tres cuadras de mi casa asi que las únicas
-ocasiones donde subo a un taxi (porque no sé manejar) es cuando me invitan
+Abrieron un starbucks a tres cuadras de mi casa asi que la única
+ocasión donde subo a un taxi (porque no sé manejar) es cuando me invitan
 a comer cebiche.
 
 
