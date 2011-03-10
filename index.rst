@@ -42,11 +42,10 @@ empezar **ya** en el `faq`_
 
 .. toctree::
    :hidden:
-   
-   presentaciones
-   miembros
-   proyectos
-   faq
+   :glob:
+ 
+   *
+   miembros/index
 
 .. _Python: http://www.python.org/
 .. _faq: faq.html#como-puedo-contribuir-con-la-pagina
