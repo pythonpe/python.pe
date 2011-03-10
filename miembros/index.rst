@@ -23,6 +23,8 @@ Template para agregarse como miembro:
    :linkedin: `elnick <http://www.linkedin.com/in/elnick>`_
    :twitter: `@elnick <http://twitter.com/elnick>`_
    :facebook: `elnick <http://facebook.com/elnick>`_
+   :github: `elnick <http://github.com/elnick/>`_
+   :bitbucket: `elnick <http://bitbucket.org/elnick/>`_
 
    ¿Quién eres y a qué te dedicas?
    -------------------------------
