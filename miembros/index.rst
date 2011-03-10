@@ -20,6 +20,10 @@ Template para agregarse como miembro:
    :aliases: elnick
    :ciudad: Lima
    :homepage: https://www.python.org/
+   :bitbucket: `elnick <https://bitbucket.org/elnick>`_
+   :github: `elnick <https://github.com/elnick>`_
+   :launchpad: `elnick <https://launchpad.net/~elnick>`_
+   :google code: `elnick <https://code.google.com/u/elnick/>`_
    :linkedin: `elnick <http://www.linkedin.com/in/elnick>`_
    :twitter: `@elnick <http://twitter.com/elnick>`_
    :facebook: `elnick <http://facebook.com/elnick>`_
