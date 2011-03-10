@@ -22,7 +22,7 @@ Template para agregarse como miembro:
    :homepage: https://www.python.org/
    :linkedin: `elnick <http://www.linkedin.com/in/elnick>`_
    :twitter: `@elnick <http://twitter.com/elnick>`_
-   :facebook: `elnick <http://facebook.com/elnick`_
+   :facebook: `elnick <http://facebook.com/elnick>`_
 
    ¿Quién eres y a qué te dedicas?
    -------------------------------
