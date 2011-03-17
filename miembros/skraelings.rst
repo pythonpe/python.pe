@@ -30,6 +30,7 @@ Hardware:
 Software:
   Intento tener llevar aplicaciones super ligeras por las limitaciones de
   hardware, pero si tuviera otro pc las utilizaría de cualquier forma.
+
   - Sistema operativo: `Archlinux`_
   - Terminal: `Xterm`_ y `Guake`_
   - Correo: `Claws Mail`_
