@@ -40,10 +40,30 @@ para nuestra próxima reunión.
 Todos son bienvenidos a contribuir con la página, fíjate cómo puedes
 empezar **ya** en el `faq`_
 
+
+Reunión de Marzo
+----------------
+Estuvimos:
+
+- Gustavo Picon
+- Alex Picon
+- Antonio Ognio
+- Juan Pablo Escaletti
+- Miguel Muñoz
+- John Montero
+- Yonsy Solis
+- Reynaldo Baquerizo
+
+Algunas fotos:
+
+.. raw:: html
+
+  <a href="http://www.flickr.com/photos/gpicon/5536719080/" title="IMG_1161 por gustavopicon, en Flickr"><img src="http://farm6.static.flickr.com/5098/5536719080_f1c9c6eb3c.jpg" width="500" height="374" alt="IMG_1161" /></a>
+
 .. toctree::
    :hidden:
    :glob:
- 
+
    *
    miembros/index
 
