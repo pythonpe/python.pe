@@ -45,14 +45,14 @@ Reunión de Marzo
 ----------------
 Estuvimos:
 
-- Gustavo Picon
-- Alex Picon
+- :doc:`miembros/tabo`
+- Alexander Picón
 - Antonio Ognio
-- Juan Pablo Escaletti
+- Juan Pablo Scaletti
 - Miguel Muñoz
 - John Montero
 - Yonsy Solis
-- Reynaldo Baquerizo
+- :doc:`miembros/skraelings`
 
 Algunas fotos:
 
