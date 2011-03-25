@@ -71,6 +71,7 @@ div.widgetpanel {
 
 div.footer {
     clear: both;
+    padding: 3em 0 0;
     margin: 25px auto;
     width: 900px;
 }
@@ -80,7 +81,16 @@ div.footer-left {
     width: 400px;
 }
 
+div.footer-right {
+    text-align: right;
+    padding: 1em 0 0;
+    border-top: 1px dotted #B3B3B3;
+    margin: 1em 2em;
+    width: 900px auto;
+}
+
 p.footer {
+    text-align: right;
     margin: 0 auto;
     font-size: 10px;
 }
