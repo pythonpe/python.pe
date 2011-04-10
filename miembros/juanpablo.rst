@@ -7,6 +7,7 @@ Juan Pablo Scaletti
     width="245" height="300" alt="Juan Pablo" />
 
 
+
 :nombre: Juan Pablo Scaletti
 :aliases: jpscaletti, juanpablo
 :ciudad: Lima
@@ -21,21 +22,23 @@ Juan Pablo Scaletti
 ¿Quién eres y a qué te dedicas?
 -------------------------------
 
-Soy Juan Pablo Scaletti, programador y socio fundador de `Lúcuma labs`_, donde
-hacemos sistemas y aplicaciones web.
+Soy programador y socio fundador de `Lúcuma labs`_, donde hacemos sistemas y
+aplicaciones web.
 
 Empezé en Python con `TurboGears`_ (la olvidada versión 1!), lanzándome
 inocentemente a hacer `PreZentit`_, un editor colaborativo de presentaciones,
 basadas en HTML.
+
 Fue un camino cuesta arriba aprendiendo Python –esa fue la mejor parte–, CSS,
-JavasScript, cosas sobre la web en general y como trabajar sin usar control de
-versiones es muy mala idea. 
+JavasScript, cosas sobre la web en general y que es muy mala idea trabajar 
+sin usar control de versiones.
+
 Google nunca lo compró (será que no se enteraron que existía), pero la
 experiencia sirvió como carta de presentación y punto de partida a todo lo
 demás.
 
-Después pasé mucho tiempo pensando que `web.py`_ era lo máximo (no lo era) y
-finalmente he terminado haciendo mi propio framework web, llamado `Shake`_.
+Después pasé mucho tiempo pensando que `web.py`_ era lo máximo (no lo era).
+Terminé haciendo mi propio framework web, llamado `Shake`_.
 
 
 ¿Cómo programas en Python?
@@ -43,7 +46,7 @@ finalmente he terminado haciendo mi propio framework web, llamado `Shake`_.
 
 Presiono teclas y las letras salen en la pantalla.
 
-Soy fan del `ipython`_ y para cada carpeta de código, ejecuto esto: 
+Soy fan del `ipython`_. Además, en cada carpeta de código, ejecuto esto: 
 
 
     `virtualenv`_ --no-site-packages env
