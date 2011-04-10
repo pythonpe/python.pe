@@ -48,10 +48,12 @@ Presiono teclas y las letras salen en la pantalla.
 
 Soy fan del `ipython`_. Además, en cada carpeta de código, ejecuto esto: 
 
+.. code-block:: bash
 
-    `virtualenv`_ --no-site-packages env
+    virtualenv --no-site-packages env
 
-`Aquí`_ hay un tutorial para usarlos juntos.
+
+`Aquí`_ hay un tutorial para usar ipython y `virtualenv`_ juntos.
 
 
 ¿Qué hardware y software usas?
