@@ -6,8 +6,16 @@
     </div>
     
     <div class="page-header">
-        <h1>Bienvenido a Python Perú! <small>Comunidad peruana de usuarios de <a href="www.python.org">Python</a></small></h1>
-    </div>
+        <h1>Bienvenido</h1>
+    </div><!-- /row -->
+    <div class="row">
+        <div class="span-one-third">
+            <a href="{{ pathto('index')}}"><img class="thumbnail"  src="_static/images/pythonperu-logo.png" width="250" height="174" /></a>
+        </div>
+        <div class="span-one-third">
+         <h2>Comunidad peruana de usuarios de <a href="www.python.org">Python</a></h2>
+        </div>
+    </div> 
 
     <div class="row">
         <div class="span-one-third">
