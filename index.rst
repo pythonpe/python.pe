@@ -9,7 +9,7 @@ Involúcrate
 
 Nos vamos a reunir este Viernes 28 de Octubre!
 
-Lugar: Jr huamachuco 1408, oficina 401.
+Lugar: Jr Huamachuco 1408, oficina 401.
 
 Hora : 07:00pm - 11:00pm 
 
