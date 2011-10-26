@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" />
+    <title>{{title}} | Grupo de Usuarios de Python en Perú</title>
+  </head>
+  <body>
+      <div class="header">
+	<!-- YOUR NAVIGATION GOES HERE -->
+	<ul class="navigation">
+	  <li><a href="{{ pathto('index')}}"><img src="{{ pathto('_static/pythonperu.png', 1) }}" /></a>
+	  <li><a href="{{ pathto('index')}}">Inicio</a>
+	  <li><a href="{{ pathto('presentaciones')}}">Presentaciones</a>
+	  <li><a href="{{ pathto('miembros/index')}}">Miembros</a>
+	  <li><a href="{{ pathto('proyectos')}}">Proyectos</a>
+     <li><a href="{{ pathto('recetario')}}">Recetario</a>
+      <li><a href="{{ pathto('faq')}}">FAQ</a>
+	</ul>
+      </div>
+      <div class="bodycontent">
+	<div class="contentwrapper">
+          <div class="content">
+            <!-- YOUR DATA GOES HERE -->
+            {% block content %}
+            {% endblock %}
+          </div>
+	  {% if pagename == "index" %}
+	  <div class="widgetpanel">
+	    <h3>Lista de Correos</h3>
+	    <div id="widgetpanel-bottom">
+<script type="text/javascript" src="http://www.google.com/reader/ui/publisher-en.js"></script>
+<script type="text/javascript" src="http://www.google.com/reader/public/javascript/user/07392795949697622067/label/pythonpe?n=10&callback=GRC_p(%7Bc%3A%22gray%22%2Ct%3A%22%22%2Cs%3A%22false%22%2Cn%3A%22true%22%2Cb%3A%22false%22%7D)%3Bnew%20GRC"></script>
+
+	    </div>
+	  </div>
+	  {% endif %}
+	</div>
+      </div>
+      <!-- COMMON FOOTER -->
+      <div class="footer">
+	<div class="footer-right">
+	  <table>
+	    <tr>
+	      <td><p><img src="{{ pathto('_static/python-powered.png', 1) }}"></p></td>
+	      <td><p class="footer">Este sitio es generado de <a href="http://docutils.sourceforge.net/rst.html">reStructredText</a> utilizando el sistema de documentación <a href="http://sphinx.pocoo.org/">Sphinx</a>.</p>
+          <p class="footer">  El <a href="https://bitbucket.org/pythonpe/python.pe">código fuente</a> esta disponible en bitbucket (o en <a href="https://github.com/pythonpe/python.pe">github</a>), y puedes enviar mejoras o <a href="https://bitbucket.org/pythonpe/python.pe/issues">hacer sugerencias</a>.</p></td>
+	    </tr>
+	  </table>
+	  <p class="footer">Copyright Python Perú 2011</p>
+	</div>
+      </div>
+  </body>
+</html>
