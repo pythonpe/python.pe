@@ -1,7 +1,7 @@
 
 .. raw:: html
 
-    <div class="alert-message info fade in" data-alert="alert">
+    <div class="alert-message error fade in" data-alert="alert">
         <p><strong>Proxima Reunión: Viernes 28 de Octubre</strong></p>
     </div>
     
