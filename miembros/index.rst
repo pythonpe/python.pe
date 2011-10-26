@@ -14,6 +14,6 @@ Para agregarte como miembro, crea un archivo con tu alias en el
 
 .. _Python: http://www.python.org/
 .. _directorio de miembros:
-    https://bitbucket.org/tabo/python.pe/src/tip/miembros/
+    https://bitbucket.org/pythonpe/python.pe/src/tip/miembros/
 .. _plantilla:
-    https://bitbucket.org/tabo/python.pe/src/tip/miembros/plantilla.rst
+    https://bitbucket.org/pythonpe/python.pe/src/tip/miembros/plantilla.rst
