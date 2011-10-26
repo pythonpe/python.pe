@@ -7,21 +7,30 @@ Comunidad peruana de usuarios de `Python`_.
 Involúcrate
 ===========
 
-Nos reunimos los jueves de la tercera semana de cada mes. Fíjate el calendario
-para nuestra próxima reunión.
+Nos vamos a reunir este Viernes 28 de Octubre!
+
+Lugar: Jr huamachuco 1408, oficina 401.
+
+Hora : 07:00pm - 11:00pm 
+
+Vamos a sortear 2 polos de Python donados por Rosa María Orellana, y luego a
+tomar unas cervezas en el Treff.
 
 .. raw:: html
-
-   <table>
-   <tr>
-   <td>
-   <img src="_static/mailinglist.png">
-   </td>
-   <td>
-   <p>Puedes subscribirte a la <a href="http://groups.google.com/group/python-peru/subscribe">lista</a> o ver los <a href="http://groups.google.com/group/python-peru/topics">archivos</a></p>
-   </td>
-   </tr>
-   </table>
+ 
+    <table>
+    <tr>
+    <td>
+    <img src="_static/mailinglist.png">
+    </td>
+    <td>
+    <p>Puedes subscribirte a la <a
+     href="http://groups.google.com/group/python-peru/subscribe">lista</a> o
+     ver los <a
+     href="http://groups.google.com/group/python-peru/topics">archivos</a></p>
+    </td>
+    </tr>
+    </table>
 
 .. raw:: html
 
