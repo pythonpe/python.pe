@@ -58,12 +58,13 @@
             En Jr. Huamachuco 1408, oficina 401 - Jesús María<br><br>
             De 07:15pm a 9:20pm
             </p>
-            <p>
-            <div id="map_canvas">
-			</div>
-            </p>
         </div>
-          <div class="span-one-third">
+        <div class="span-one-third">
+            <h3>Mapa</h3>
+            <iframe class="thumbnail" width="250" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.es/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=Huamachuco+1408+-+Jes%C3%BAs+Mar%C3%ADa&amp;aq=&amp;sll=-12.077806,-77.050402&amp;sspn=0.012736,0.01929&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=Huamachuco,+Jes%C3%BAs+Mar%C3%ADa,+Miraflores,+Lima,+Per%C3%BA&amp;t=m&amp;ll=-12.077811,-77.050397&amp;spn=0.009316,0.013754&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.es/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=Huamachuco+1408+-+Jes%C3%BAs+Mar%C3%ADa&amp;aq=&amp;sll=-12.077806,-77.050402&amp;sspn=0.012736,0.01929&amp;vpsrc=6&amp;ie=UTF8&amp;hq=&amp;hnear=Huamachuco,+Jes%C3%BAs+Mar%C3%ADa,+Miraflores,+Lima,+Per%C3%BA&amp;t=m&amp;ll=-12.077811,-77.050397&amp;spn=0.009316,0.013754&amp;z=14" style="color:#0000FF;text-align:left">Ver mapa más grande</a></small>            
+        </div>
+
+        <div class="span-one-third">
             <h3>Agenda</h3>
             <ul>
             <li><strong>7:15pm a 7:30pm</strong> Establecer las Reuniones (periodicidad, fechas, quincenales, semanales, hora, lugar).</li>
@@ -74,7 +75,7 @@
             <li><strong>9:00pm a 9:10pm</strong> Sorteo de Polos.</li>
             <li><strong>9:20 pm</strong> Salida al Treff.</li> 
             </ul>
-          </div>
+        </div>
     </div><!-- /row -->
 
 
