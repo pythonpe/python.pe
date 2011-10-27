@@ -2,7 +2,7 @@
 .. raw:: html
 
     <div class="alert-message error fade in" data-alert="alert">
-        <p><strong>Proxima Reunión: Viernes 28 de Octubre</strong></p>
+        <p><strong>Próxima Reunión: Viernes 28 de Octubre</strong></p>
     </div>
     
     <div class="page-header">
@@ -10,10 +10,14 @@
     </div><!-- /row -->
     <div class="row">
         <div class="span-one-third">
-            <a href="{{ pathto('index')}}"><img class="thumbnail"  src="_static/images/pythonperu-logo.png" width="250" height="174" /></a>
+            <a href="/"><img class="thumbnail"  src="_static/images/pythonperu-logo.png" width="250" height="174" /></a>
         </div>
         <div class="span-one-third">
          <h2>Comunidad peruana de usuarios de <a href="www.python.org">Python</a></h2>
+        </div>
+        <div class="span-one-third">
+          <h3>Síguenos en @pythonperu:</h3>
+          <div class="tweet"></div>
         </div>
     </div> 
 
@@ -53,6 +57,10 @@
             <p>
             En Jr. Huamachuco 1408, oficina 401 - Jesús María<br><br>
             De 07:15pm a 9:20pm
+            </p>
+            <p>
+            <div id="map_canvas">
+			</div>
             </p>
         </div>
           <div class="span-one-third">
