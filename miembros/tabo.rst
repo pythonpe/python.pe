@@ -3,10 +3,9 @@ Gustavo Picón
 
 .. raw:: html
 
-
   <a href="http://www.flickr.com/photos/gpicon/2586566454/"
      title="Python - Ica 2004 by gustavopicon, on Flickr">
-    <img src="http://farm4.static.flickr.com/3183/2586566454_eeea491fe4.jpg"
+    <img src="http://farm4.static.flickr.com/3183/2586566454_c143541a43.jpg"
          width="500"
          height="375"
          alt="Python - Ica 2004" />
@@ -51,7 +50,8 @@ el día en sandalias con Drago:
     <img src="http://farm5.static.flickr.com/4137/4749714016_99786a12a0.jpg"
          width="500"
          height="375"
-         alt="!flash" /></a>
+         alt="!flash" />
+  </a>
 
 Abrieron un starbucks a tres cuadras de mi casa asi que la única
 ocasión donde subo a un taxi (porque no sé manejar) es cuando me invitan
@@ -104,7 +104,7 @@ Mi oficina móvil es una `MacBook Pro`_ de 15" con disco SSD, un
 
   <a href="http://www.flickr.com/photos/gpicon/4938262332/"
      title="Starcraft 2: Gaming with my newborn daughter by gustavopicon, on Flickr">
-    <img src="http://farm5.static.flickr.com/4076/4938262332_94d4fc1e08.jpg"
+    <img src="http://farm5.static.flickr.com/4076/4938262332_c57d4cb365.jpg"
          width="500"
          height="375"
          alt="Starcraft 2: Gaming with my newborn daughter" />
@@ -184,7 +184,7 @@ No. Pero puedes contactar a `Aureal`_ y pedirles que apoye tu proyecto.
 
   <a href="http://www.flickr.com/photos/gpicon/2796529237/"
      title="Python talk by gustavopicon, on Flickr">
-    <img src="http://farm4.static.flickr.com/3173/2796529237_9120539996.jpg"
+    <img src="http://farm4.static.flickr.com/3173/2796529237_722ce0d898.jpg"
          width="500"
          height="375"
          alt="Python talk" />
