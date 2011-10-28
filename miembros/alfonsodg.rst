@@ -24,10 +24,10 @@ Alfonso de la Guarda
 ¿Quién eres y a qué te dedicas?
 -------------------------------
 
-Un apasionado de la tecnología, old-school hacker que gerencia proyectos de
+Un apasionado de la tecnología, old-school hacker que gerencia proyectos
 high-tech (con integración hardware / software) para sectores que van
-desde defensa (fuerzas armadas) hasta salud pasando por minería entre otras
-áreas.
+desde defensa (fuerzas armadas) hasta salud pasando por minería, entre otras
+áreas de impacto social.
 
 
 ¿Cómo programas en Python?
@@ -57,11 +57,11 @@ GPL, lo que sí, cuando veo el código me da asco (pero funciona).
 ¿Qué intereses tienes?
 ----------------------
 
-*Creo en la cultura libre.
+* Creo en la cultura libre.
 
 * La solidaridad y responsabilidad social.
 
-*La educación integrada a la tecnología sin etnocentrismo.
+* La educación integrada a la tecnología sin etnocentrismo.
 
 * El cine y las series de TV.
 
