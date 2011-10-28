@@ -24,10 +24,10 @@ Alfonso de la Guarda
 ¿Quién eres y a qué te dedicas?
 -------------------------------
 
-Un apasionado de la tecnología, old-school hacker que gerencia proyectos de
+Un apasionado de la tecnología, old-school hacker que gerencia proyectos
 high-tech (con integración hardware / software) para sectores que van
-desde defensa (fuerzas armadas) hasta salud pasando por minería entre otras
-áreas.
+desde defensa (fuerzas armadas) hasta salud pasando por minería, entre otras
+áreas de impacto social.
 
 
 ¿Cómo programas en Python?
