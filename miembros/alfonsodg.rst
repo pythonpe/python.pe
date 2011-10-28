@@ -57,11 +57,11 @@ GPL, lo que sí, cuando veo el código me da asco (pero funciona).
 ¿Qué intereses tienes?
 ----------------------
 
-*Creo en la cultura libre.
+* Creo en la cultura libre.
 
 * La solidaridad y responsabilidad social.
 
-*La educación integrada a la tecnología sin etnocentrismo.
+* La educación integrada a la tecnología sin etnocentrismo.
 
 * El cine y las series de TV.
 
