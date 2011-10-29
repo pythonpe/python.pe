@@ -14,6 +14,6 @@ Proyectos de los miembros de Python Peru.
 .. _django-taggable: https://tabo.pe/projects/django-taggable/
 .. _django-treebeard: https://tabo.pe/projects/django-treebeard/
 .. _pacha: http://pacha.cafepais.com/
-.. _pecan:  https://github.com/cleverdevil/pecan
+.. _pecan:  https://github.com/pecan/pecan
 .. _supay: http://code.google.com/p/supay/
 

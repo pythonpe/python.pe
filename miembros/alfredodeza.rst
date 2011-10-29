@@ -23,8 +23,8 @@ Alfredo Deza
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
-Trabajo como developer en `ShootQ`_ , una empresa que se dedica a mantener
-y producir SaaS (Software as a Service) para fotografos profesionales. 
+Trabajo como developer en `Cox Inc`_ ,es una empresa de medios digitales que
+integra publicaciones, television y marketing directo.
 
 Contribuyo para varios proyectos Open Source como `Pecan`_, `TurboGears`_
 y `Pylons`_. 

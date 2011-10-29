@@ -3,7 +3,7 @@ Juan Pablo Scaletti
 
 .. raw:: html
 
-  <img src="http://jpscaletti.com/static/juanpablo.jpg"
+  <img class="thumbnail" src="http://jpscaletti.com/static/juanpablo.jpg"
     width="245" height="300" alt="Juan Pablo" />
 
 
@@ -116,7 +116,7 @@ import antigravity
 .. _TurboGears: http://turbogears.org/
 .. _PreZentit: http://prezentit.com/
 .. _web.py: http://webpy.org/
-.. _Shake: https://bitbucket.org/lucuma/shake/
+.. _Shake: https://github.com/lucuma/Shake
 
 .. _ipython: http://iPython.scipy.org/
 .. _virtualenv: http://www.virtualenv.org/
