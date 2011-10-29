@@ -1,9 +1,5 @@
 
 .. raw:: html
-
-    <div class="alert-message error fade in" data-alert="alert">
-        <p><strong>Próxima Reunión: Viernes 28 de Octubre</strong></p>
-    </div>
     
     <div class="page-header">
         <h1>Bienvenido</h1>
@@ -47,7 +43,7 @@
     </div><!-- /row -->
 
  <div class="page-header">
-        <h1>Proxima Reunión Viernes 28 de Octubre</h1>
+        <h1>Reunión de Octubre - 2011</h1>
     </div>
 
     <div class="row">
@@ -81,7 +77,7 @@
 
 
     <div class="page-header">
-        <h1>Reunión de Marzo</h1>
+        <h1>Reunión de Marzo - 2011</h1>
     </div>
     <div class="row">
          <div class="span-one-third">
