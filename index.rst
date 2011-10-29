@@ -13,7 +13,7 @@
             <a href="{{ pathto('index')}}"><img class="thumbnail"  src="_static/images/pythonperu-logo.png" width="250" height="174" /></a>
         </div>
         <div class="span-one-third">
-         <h2>Comunidad peruana de usuarios de <a href="www.python.org">Python</a></h2>
+         <h2>Comunidad peruana de usuarios de <a href="http://python.org">Python</a></h2>
         </div>
     </div> 
 
