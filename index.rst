@@ -15,9 +15,6 @@
           <h3>Síguenos en @pythonperu:</h3>
           <div class="tweet"></div>
         </div>
-        <div class="span-one-third">
-          <div class="tweet"></div>  
-        </div>
     </div> 
 
     <div class="row">
