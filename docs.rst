@@ -13,6 +13,8 @@ Control de Versiones
 
 * Control de Versiones: http://www.etnassoft.com/biblioteca/categoria/control_de_versiones/
 * Control Distribuido de Revisiones con Mercurial (Español):  http://devnull.li/~ikks/hgbook/hgbook.pdf
+* Git (Español): http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/
+
 
 Rest Framework
 --------------
