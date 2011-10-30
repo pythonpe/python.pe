@@ -1,12 +1,5 @@
 
 .. raw:: html
-<<<<<<< local
-
-    <div class="alert-message error fade in" data-alert="alert">
-        <p><strong>Próxima Reunión: Viernes 28 de Octubre</strong></p>
-    </div>
-=======
->>>>>>> other
     
     <div class="page-header">
         <h1>Bienvenido</h1>
