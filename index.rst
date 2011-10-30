@@ -1,5 +1,12 @@
 
 .. raw:: html
+<<<<<<< local
+
+    <div class="alert-message error fade in" data-alert="alert">
+        <p><strong>Próxima Reunión: Viernes 28 de Octubre</strong></p>
+    </div>
+=======
+>>>>>>> other
     
     <div class="page-header">
         <h1>Bienvenido</h1>
@@ -14,6 +21,9 @@
         <div class="span-one-third">
           <h3>Síguenos en @pythonperu:</h3>
           <div class="tweet"></div>
+        </div>
+        <div class="span-one-third">
+          <div class="tweet"></div>  
         </div>
     </div> 
 

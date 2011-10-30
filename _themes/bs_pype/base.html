@@ -47,6 +47,10 @@
   <script src="{{ pathto('_static/javascript/bootstrap/1.3.0/bootstrap-dropdown.js', 1) }}"></script>
   <script src="{{ pathto('_static/javascript/bootstrap/1.3.0/bootstrap-modal.js', 1) }}"></script>
   <script src="{{ pathto('_static/javascript/bootstrap/1.3.0/bootstrap-popover.js', 1) }}"></script>
+<<<<<<< local
+  <script src="{{ pathto('_static/javascript/bootstrap//1.3.0/bootstrap-tabs.js', 1) }}"></script>
+  <script src="{{ pathto('_static/javascript/libs/jquery.tweet.js', 1) }}"></script> 
+=======
   <script src="{{ pathto('_static/javascript/bootstrap/1.3.0/bootstrap-tabs.js', 1) }}"></script>
   <script src="{{ pathto('_static/javascript/bootstrap/1.3.0/bootstrap-twipsy.js', 1) }}"></script>
   
@@ -61,7 +65,18 @@
         });
     });
 </script> 
+>>>>>>> other
 
+  <script type='text/javascript'>
+    $(document).ready(function(){
+        $(".tweet").tweet({
+            username: "pythonperu",
+            avatar_size: 32,
+            count: 10,
+            loading_text: "Cargando tweets..."
+        });
+    });
+  </script> 
   <!--[if lt IE 7 ]>
   <script src={{ pathto('_static/javascript/libs/dd_belatedpng.js', 1) }}"></script>
   <script> DD_belatedPNG.fix('img, .png_bg');</script>
