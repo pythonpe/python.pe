@@ -4,16 +4,19 @@ Documentación
 reStructuredText
 ----------------
 
+
 * Editor: http://rst.ninjs.org/
 
 Control de Versiones
 --------------------
+
 
 * Control de Versiones: http://www.etnassoft.com/biblioteca/categoria/control_de_versiones/
 * Control Distribuido de Revisiones con Mercurial (Español):  http://devnull.li/~ikks/hgbook/hgbook.pdf
 
 Rest Framework
 --------------
+
 
 * Web2py integra experimentalmente REST EASY: http://vimeo.com/21133657
 * Pecan: http://pecan.readthedocs.org/en/latest/rest.html
@@ -25,6 +28,7 @@ Rest Framework
 
 Pycamp
 ------
+
 
 * Como funciona un pycamp: http://protocultura.tumblr.com/post/11869339316/como-funciona-un-pycamp
 
