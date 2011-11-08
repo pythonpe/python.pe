@@ -36,7 +36,7 @@
         <div class="span-one-third">
         <h3>Aprende</h3>
 	<ul>
-	<li>Tenemos <a href="presentaciones.html">Presentaciones</a> y <a href="recetario">tutoriales</a></li>
+	<li>Tenemos <a href="presentaciones.html">Presentaciones</a> y <a href="recetario.html">tutoriales</a></li>
 	<li>Además en la sección <a href="docs.html">Docs</a> puede encontrar referencias acerca de python y otros temas</li>
           </div>
     </div><!-- /row -->
