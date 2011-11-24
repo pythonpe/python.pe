@@ -44,9 +44,6 @@
  <div class="page-header">
         <h1>pycamp - 26 de Noviembre 2011</h1>
     </div>
-
-    <div class="well" style="background-color: #888; border: none; padding: 40px;">
-    </div>
     <div class="row">
 
         <div class="span-one-third">
@@ -60,13 +57,8 @@
         <div class="span-one-third">
             <h3>Agenda</h3>
             <ul>
-            <li><strong>7:15pm a 7:30pm</strong> Establecer las Reuniones (periodicidad, fechas, quincenales, semanales, hora, lugar).</li>
-            <li><strong>7:30pm a 8:20 pm</strong> Establecer un equipo de Voluntarios para las diferentes tareas de comunicaciones y organización de las diferentes actividades.</li>
-            <li><strong>8:20pm - 8:30pm</strong> Reconfirmar los canales de comunicación Oficiales de Python Perú, Lista, site, twitter (como quedan cuales serán)</li>
-            <li><strong>8:30pm a 9:00pm</strong> Establecimiento Inicial y Coordinación para un próximo PyDay o PyCamp o alguna desconferencia, la que se acuerde.</li>
-            <li><strong>9:00 a 9:15pm</strong> Presentación de alguien que quiera mostrar algun desarrollo Aplicación o lo que sea..</li>
-            <li><strong>9:00pm a 9:10pm</strong> Sorteo de Polos.</li>
-            <li><strong>9:20 pm</strong> Salida al Treff.</li> 
+            <li>Mejorar nuestro site.</li>
+            <li>Desarrollar un mini-proyecto.</li>
             </ul>
         </div>
     </div><!-- /row -->
