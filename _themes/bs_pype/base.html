@@ -8,7 +8,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         
-  <title>{% block title %}{% if pagename == "index" %}{% else %}{{title}} | {% endif %}Grupo de Usuarios de Python en Perú{% endblock %}</title>
+  <title>{% block title %}{% if pagename in ("index","pycamp","reuniones") %}{% else %}{{title}} | {% endif %}Grupo de Usuarios de Python en Perú{% endblock %}</title>
   {% block extrahead %}{% endblock %}
   <meta name="description" content="">
   <meta name="author" content="">

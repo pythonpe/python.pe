@@ -1,6 +1,6 @@
 
 .. raw:: html
-    
+  
     <div class="page-header">
         <h1>Bienvenido</h1>
     </div><!-- /row -->
@@ -41,26 +41,8 @@
           </div>
     </div><!-- /row -->
 
- <div class="page-header">
-        <h1>pycamp - 26 de Noviembre 2011</h1>
-    </div>
-    <div class="row">
+ 
 
-        <div class="span-one-third">
-            <h3>Lugar y Hora</h3>
-            <p>
-            En Jr. Gral. Cordova 1926 - Lince - Lima / Perú<br><br>
-            De 10:00am a 6:00pm
-            </p>
-        </div>
-
-        <div class="span-one-third">
-            <h3>Agenda</h3>
-            <ul>
-            <li>Mejorar nuestro site.</li>
-            <li>Desarrollar un mini-proyecto.</li>
-            </ul>
-        </div>
-    </div><!-- /row -->
+.. _pycamp: http://python.pe/pycamp.html
 
 
