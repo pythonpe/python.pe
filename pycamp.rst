@@ -1,91 +1,56 @@
-.. raw:: html
+PyCamp Diciembre 2011
+=====================
 
-    <div class="page-header">
-        <h1>PyCamp 2011</h1>
-    </div><!-- /row -->
-    <div class="row">
-        <div class="span-one-third">
-            <a href="/"><img class="thumbnail"  src="_static/images/python-3.jpg" width="250" height="200" /></a>
-        </div>
-        <div class="span-one-third">
-         <h3>¿Cúando y Dónde?</h3>
-         <ul>
-            <li>17 de Diciembre, 2011.</li>
-            <li>De 03:00pm a 8:00pm.</li>
-            <li>En la Cámara de Comercio de Lima<br>Av. Giuseppe Garibaldi Nº 396<br>( ex Gregorio Escobedo), Jesús María.</li>
-          </ul>
-        </div>
+¿Cúando y Dónde?
+----------------
 
-        <div class="span-one-third">
-         <h3>Objetivos</h3>
-         <p>El 1°PyCamp tiene como objetivo integrar a los actuales miembros de la Comunidad y compartir un momento de code sprint mediante la realización de pequeños módulos en mini proyectos de diferentes tipos como son:</p>
-         <ul>
-            <li>Realización de un Proyecto Web Básico utilizando Python.</li>
-            <li>Realización de Pequeños Scripts útiles en Python.</li>
-            <li>Contribuir con mejorar el site de python.pe ese mismo día.</li>
-            <li>Proyecto Blender Game con Python.</li>
-          </ul>
-        </div>
+* 17 de Diciembre, 2011.
+* De 03:00pm a 8:00pm.
+* Cámara de Comercio de Lima.
+  Av. Giuseppe Garibaldi Nº 396 (ex Gregorio Escobedo), Jesús María
 
-    </div>      
+Objetivos
+---------
 
+El primer PyCamp tiene como objetivo integrar a los actuales miembros de
+la Comunidad y compartir un momento de code sprint mediante la realización
+de pequeños módulos en mini proyectos de diferentes tipos como son:
 
-    <div class="page-header">
-      <br>
-    </div><!-- /row -->
+* Proyecto Web Básico utilizando Python.
+* Pequeños Scripts útiles en Python.
+* Mejorar el site de python.pe ese mismo día.
+* Proyecto Blender Game con Python.
 
-    <div class="row">
-        <div class="span12 columns">
-          <h1>¿Qué es un PyCamp?</h1>
-          <p>PyCamp es un evento organizado por la comunidad de python en el que nos reunimos un grupo de programadores, no importa si eres novato o experto, la idea es compatir, aprender y hacer lo que más nos gusta: <strong>codear</strong>.
-          </p>  
-        </div>
-    </div>
-    
+¿Qué es un PyCamp?
+------------------
 
-    <div class="row">
-        <div class="span12 columns">
-          <h1>¿Qué llevar?</h1>
-          <ul>
-               <li>Laptop con el Sistema Operativo que te sientas comodo.</li>
-               <li>Ambiente virtual para programar.</li>
-               <li>Muchas ganas de codear.</li>
-          </ul>  
-        </div>
-    </div>
-    
-    <div class="row">
-        <div class="span12 columns">
-          <h1>¿Qué es Ambiente virtual?</h1>
-      
-          <p> Es un entorno donde tienes una instalación de python y todas las librerias que necesitas o deseas probar, sin que afecte la instalación base de tu sistema operativo. Si usas windows, debes instalar primero python.<br><br>
+PyCamp es un evento organizado por la comunidad de python en el que nos
+reunimos un grupo de programadores, no importa si eres novato o experto,
+la idea es compatir, aprender y hacer lo que más nos gusta: **programar**.
 
-          Para crear tu ambiente virtual, debes seguir estos pasos:
-          </p>
+¿Qué llevar?
+------------
 
-          <pre class="prettyprint linenums"> 
-            $ sudo aptitude install python-virtualenv
-            $ mkdir pycamp
-            $ cd pycamp
-            $ virtualenv --no-site-packages env
-            $ source ./env/bin/activate
-            (pycamp)$ pip install mercurial
-            (pycamp)$ pip install sphinx</pre>
-
-          <p> Para instalar librerias adicionales solo debes seguir usando <strong>pip install</strong> y el nombre de la libreria que deseas.
-          </p>
-
-          <pre class="prettyprint linenums"> 
-            (pycamp)$ pip install django</pre>
-
-        </div>
-    </div>
-
-    </div><!-- /row -->
+* Laptop con el Sistema Operativo que te sientas comodo.
+* Ambiente virtual para programar.
+* Muchas ganas de programar.
 
 
-    
+¿Qué es Ambiente virtual?
+-------------------------
 
- 
+Es un entorno donde tienes una instalación de python y todas las librerias
+que necesitas o deseas probar, sin que afecte la instalación base de tu
+sistema operativo. Si usas windows, debes instalar primero python.
 
+Para crear tu ambiente virtual, debes seguir estos pasos::
 
+    $ sudo pip install virtualenv mercurial sphinx
+    $ virtualenv --no-site-packages --distribute pycamp
+    $ source ./pycamp/bin/activate
+    (pycamp)$ echo $VIRTUAL_ENV
+
+Para instalar librerias adicionales solo debes seguir usando pip install
+y el nombre de la libreria que deseas::
+
+    pip install django
