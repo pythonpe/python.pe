@@ -6,13 +6,20 @@
     </div><!-- /row -->
     <div class="row">
         <div class="span-one-third">
+            <br><br>
             <a href="/"><img class="thumbnail"  src="_static/images/pythonperu-logo.png" width="250" height="174" /></a>
         </div>
         <div class="span-one-third">
+         <br><br><br><br><br>
          <h2>Comunidad peruana de usuarios de <a href="http://python.org">Python</a></h2>
         </div>
         <div class="span-one-third">
-          <h3>Síguenos en @pythonperu:</h3>
+          <h3>
+          <p>
+              <a href="http://twitter.com/pythonperu" class="twitter-follow-button">Síguenos @pythonperu</a>
+              <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+          </p>
+          </h3>
           <div class="tweet"></div>
         </div>
     </div> 

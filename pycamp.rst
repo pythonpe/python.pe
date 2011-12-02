@@ -8,10 +8,11 @@
             <a href="/"><img class="thumbnail"  src="_static/images/python-3.jpg" width="250" height="200" /></a>
         </div>
         <div class="span-one-third">
-         <h3>¿Cúando?</h3>
+         <h3>¿Cúando y Dónde?</h3>
          <ul>
             <li>17 de Diciembre, 2011.</li>
-            <li>De 09:00am a 6:00pm.</li>
+            <li>De 03:00pm a 8:00pm.</li>
+            <li>En la Cámara de Comercio de Lima<br>Av. Giuseppe Garibaldi Nº 396<br>( ex Gregorio Escobedo), Jesús María.</li>
           </ul>
         </div>
 

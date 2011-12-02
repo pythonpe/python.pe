@@ -10,8 +10,8 @@
         
   <title>{% block title %}{% if pagename in ("index","pycamp","reuniones") %}{% else %}{{title}} | {% endif %}Grupo de Usuarios de Python en Perú{% endblock %}</title>
   {% block extrahead %}{% endblock %}
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <meta name="description" content="Comunidad de Usuarios de Python en Perú">
+  <meta name="author" content="Python.pe">
         
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
         
@@ -56,7 +56,7 @@
         $(".tweet").tweet({
             username: "pythonperu",
             avatar_size: 20,
-            count: 1,
+            count: 3,
             loading_text: "Cargando tweets..."
         });
     });
