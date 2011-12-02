@@ -166,6 +166,8 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'PythonPerudoc'
 
+html_add_permalinks = None
+
 
 # -- Options for LaTeX output --------------------------------------------------
 
