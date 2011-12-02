@@ -1,6 +1,6 @@
 
 .. raw:: html
-  
+
     <div class="page-header">
         <h1>Bienvenido</h1>
     </div><!-- /row -->
@@ -12,6 +12,9 @@
         <div class="span-one-third">
          <br><br><br><br><br>
          <h2>Comunidad peruana de usuarios de <a href="http://python.org">Python</a></h2>
+         <p><br><br>
+         <a data-placement="below" href="pycamp.html" class="btn danger" rel="popover">PyCamp 2011, 17 de Diciembre</a>
+         </p>
         </div>
         <div class="span-one-third">
           <h3>
