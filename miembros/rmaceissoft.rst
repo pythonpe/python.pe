@@ -48,6 +48,7 @@ Software:
 --------------------------------------
 * `python-apply-linkedin`_ :     libreria para facilitar el procesamiento de aplicaciones a ofertas de empleo, provenientes de linkedin mediante `Apply-with-Linkedin`_
 * `django-ya-stripe`_ : aplicacion de django para sincronizar instancias de modelos (ej: una order de compra) con los pagos almacenados en  `stripe`_, para luego ser reembolzados.
+* `django-user-metrics`_ : aplicacion de django para obtener metricas por usuario de sus acciones. Luego podras generar reportes con las agregaciones por intervalos (diario, mensual, etc.) de dichas metricas
 
 
 ¿Qué intereses tienes?
@@ -94,3 +95,4 @@ hay mucho por hacer...el camino es largoooo....
 .. _PEP8:        http://www.python.org/dev/peps/pep-0008/
 .. _django-ya-stripe: https://github.com/rmaceissoft/django-ya-stripe
 .. _stripe : https://stripe.com/
+.. _django-user-metrics : https://github.com/rmaceissoft/django-user-metrics
