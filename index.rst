@@ -7,12 +7,22 @@ Comunidad de Usuarios de Python en Perú
    
 
 
+Colabora con: 
+-------------
+
+:doc:`plan_estrategico`
+
+:doc:`material_difusion`
+
+
 Reunión Mensual Febrero 2012
 ----------------------------
 
 * Día: Miércoles 15
 * Local: Por determinar
 * Hora: 19:00
+
+* Estado: Pendiente.
 
 
 Reunión Mensual Enero 2012
@@ -22,7 +32,7 @@ Reunión Mensual Enero 2012
 * Local: Joe Dayz (Jr. Huamachuco 1408, Of. 503 - Jesus Maria)
 * Hora: 10:00
 
-* Estado: Realizada.  Reporte: doc:`reunion_210112`
+* Estado: Realizada.  Reporte: :doc:`reunion_210112`
 
 
 Únete
