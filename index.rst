@@ -4,25 +4,25 @@ Comunidad de Usuarios de Python en Perú
 .. image:: _static/images/pythonperu-logo.png
    :width: 250px
    :height: 174px
+   
 
-PyCamp
-------
 
-.. warning::
+Reunión Mensual Febrero 2012
+----------------------------
 
-   Nos vamos a reunir a programar el 17 de Diciembre!
+* Día: Miércoles 15
+* Local: Por determinar
+* Hora: 19:00
 
-   Entérate en la sección :doc:`pycamp`
 
-   .. raw:: html
+Reunión Mensual Enero 2012
+--------------------------
 
-      <a data-placement="below"
-         href="pycamp.html"
-         class="btn danger"
-         rel="popover">
-        PyCamp 2011, 17 de Diciembre
-      </a>
-      <br/><br/>
+* Día: Sábado 21 
+* Local: Joe Dayz (Jr. Huamachuco 1408, Of. 503 - Jesus Maria)
+* Hora: 10:00
+
+* Estado: Realizada.  Reporte: doc:`reunion_210112`
 
 
 Únete
