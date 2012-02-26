@@ -14,15 +14,24 @@ Colabora con:
 
 :doc:`material_difusion`
 
+Reunión Mensual Marzo 2012
+--------------------------
+
+* Día: Miercoles 21
+* Local: C.O.S
+* Hora: 19:00
+
+* Estado: Pendiente
+
 
 Reunión Mensual Febrero 2012
 ----------------------------
 
-* Día: Miércoles 15
-* Local: Por determinar
+* Día: Miércoles 22
+* Local: C.O.S
 * Hora: 19:00
 
-* Estado: Pendiente.
+* Estado: Realizada.
 
 
 Reunión Mensual Enero 2012
