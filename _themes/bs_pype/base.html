@@ -1,56 +1,61 @@
-<!doctype html>
-<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
-<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
-<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
-<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<!DOCTYPE html>
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        
+  <meta charset="utf-8">
   <title>{% block title %}{% if pagename in ("index","pycamp") %}{% else %}{{title}} | {% endif %}Comunidad de Usuarios de Python en Per&uacute;{% endblock %}</title>
   {% block extrahead %}{% endblock %}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Comunidad de Usuarios de Python en Perú">
   <meta name="author" content="Python.pe">
-        
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-  <link rel="shortcut icon" href="{{ pathto('_static/images/favicon.ico', 1) }}">
-  <link rel="apple-touch-icon" href="{{ pathto('_static/images/apple-touch-icon.png', 1) }}">
-  <script src="{{ pathto('_static/javascript/libs/modernizr-1.7.min.js', 1) }}"></script>
-    
+
   <!-- bootstrap -->
-  <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" />
+  <link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="http://twitter.github.com/bootstrap/assets/css/bootstrap-responsive.css" type="text/css" />
+
   {% block extra %}
   <!-- Include extra css/js  -->
   {% endblock %}
+
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link rel="shortcut icon" href="{{ pathto('_static/images/favicon.ico', 1) }}">
+  <link rel="apple-touch-icon" href="{{ pathto('_static/images/apple-touch-icon.png', 1) }}">
+  <link rel="apple-touch-icon" href="{{ pathto('_static/images/apple-touch-icon.png', 1) }}">
+  <link rel="apple-touch-icon" sizes="72x72" href="{{ pathto('_static/images/apple-touch-icon-72x72.png', 1) }}">
+  <link rel="apple-touch-icon" sizes="114x114" href="{{ pathto('_static/images/apple-touch-icon-114x114.png', 1) }}">
+
 </head>
 <body>
-    <header>        
-    {% block header %}
-    {% endblock %}
-    </header>
+  {% block header %}
+  {% endblock %}
 
-    <div class="container">
-      <br><br><br>
-      {% block content %}
-      {% endblock %}
-      <footer>
+  <div class="container">
+    {% block content %}
+    {% endblock %}
+    <hr>
+    <footer>
       {% block footer %}
       {% include "footer.html" %}
       {% endblock %} 
-      </footer>
-    </div> <!-- /container -->
+    </footer>
+  </div> <!-- /container -->
   
-  <script src="{{ pathto('_static/javascript/libs/jquery-1.5.1.min.js', 1) }}"></script>
-  <script src="{{ pathto('_static/javascript/bootstrap/1.4.0/bootstrap-alerts.js', 1) }}"></script>
-  <script src="{{ pathto('_static/javascript/bootstrap/1.4.0/bootstrap-buttons.js', 1) }}"></script>
-  <script src="{{ pathto('_static/javascript/bootstrap/1.4.0/bootstrap-dropdown.js', 1) }}"></script>
-  <script src="{{ pathto('_static/javascript/bootstrap/1.4.0/bootstrap-modal.js', 1) }}"></script>
-  <script src="{{ pathto('_static/javascript/bootstrap/1.4.0/bootstrap-popover.js', 1) }}"></script>
-  <script src="{{ pathto('_static/javascript/bootstrap/1.4.0/bootstrap-tabs.js', 1) }}"></script>
-  <script src="{{ pathto('_static/javascript/bootstrap/1.4.0/bootstrap-twipsy.js', 1) }}"></script>
-  
+  <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-transition.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-alert.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-modal.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-dropdown.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-scrollspy.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-tab.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-tooltip.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-popover.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-button.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-collapse.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-carousel.js"></script>
+  <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-typeahead.js"></script>
+
   <script src="{{ pathto('_static/javascript/libs/jquery.tweet.js', 1) }}"></script>
   <script type='text/javascript'>
     $(document).ready(function(){
@@ -62,9 +67,6 @@
         });
     });
   </script> 
-  <!--[if lt IE 7 ]>
-  <script src={{ pathto('_static/javascript/libs/dd_belatedpng.js', 1) }}"></script>
-  <script> DD_belatedPNG.fix('img, .png_bg');</script>
-  <![endif]-->
+
 </body>
 </html>

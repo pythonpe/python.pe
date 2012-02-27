@@ -1,24 +1,28 @@
 
-    <!-- Topbar
-    ================================================== -->
-    <div class="topbar">
-      <div class="topbar-inner">
-        <div class="container">
-          <h3><a href="{{ pathto('index')}}">Python.pe</a></h3>
-          <ul class="nav">
-            <li><a href="{{ pathto('pycamp')}}">PyCamp</a>
-            <li><a href="{{ pathto('presentaciones')}}">Presentaciones</a>
-            <li><a href="{{ pathto('miembros/index')}}">Miembros</a>
-            <li><a href="{{ pathto('proyectos')}}">Proyectos</a>
-            <li><a href="{{ pathto('recetario')}}">Recetario</a>
-            <li><a href="{{ pathto('docs')}}">Docs</a>
-            <li><a href="{{ pathto('faq')}}">FAQ</a>
-          </ul>
+<div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+      <a class="brand" href="{{ pathto('index')}}">Python.pe</a>
 
-          <ul class="nav secondary-nav">
-            <li><a href="http://webchat.freenode.net/?channels=python.pe">#python.pe</a>
-          </ul>
-        </div>
-      </div>
+      <div class="nav-collapse">
+        <ul class="nav">
+          <!-- <li class="active"><a href="#">Home</a></li> -->
+          <li><a href="{{ pathto('pycamp')}}">PyCamp</a></li>
+          <li><a href="{{ pathto('presentaciones')}}">Presentaciones</a></li>
+          <li><a href="{{ pathto('miembros/index')}}">Miembros</a></li>
+          <li><a href="{{ pathto('proyectos')}}">Proyectos</a></li>
+          <li><a href="{{ pathto('recetario')}}">Recetario</a></li>
+          <li><a href="{{ pathto('docs')}}">Docs</a></li>
+          <li><a href="{{ pathto('faq')}}">FAQ</a><li>
+        </ul>
+        <p class="navbar-text pull-right"><a href="http://webchat.freenode.net/?channels=python.pe">#python.pe</a></p>
+      </div><!--/.nav-collapse -->
+    </div>
   </div>
+</div>
 
