@@ -3,7 +3,7 @@ Frank Moreno
 
 :nombre: Frank Moreno
 :aliases: kranfix
-:ciudad: Lima
+:ciudad: Lima, Peru
 :bitbucket: https://bitbucket.org/kranfix
 :github: https://github.com/kranfix
 :linkedin: http://www.linkedin.com/in/kranfix
@@ -43,8 +43,9 @@ electrónicos, assembler para controladores electrónicos y actualmente estoy tr
 
 ¿Qué intereses tienes?
 ----------------------
-
-* 
+Soy partidario de la cultura libre y quiero difundirla, al mismo tiempo que
+conozco personas que manejan el lenguaje y diversas tecnologías que pueda
+aprender y seguir difundiendo.
 
 ¿Estás disponible para trabajar?
 --------------------------------
