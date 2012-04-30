@@ -14,10 +14,10 @@ Colabora con:
 
 :doc:`material_difusion`
 
-Reunión Mensual Marzo 2012
+Reunión Mensual Mayo 2012
 --------------------------
 
-* Día: Miercoles 21
+* Día: Miércoles 16
 * Local: C.O.S
 * Hora: 19:00
 
