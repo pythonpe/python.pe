@@ -31,16 +31,19 @@ Soy `Gustavo Picón`_. Llevo varios años trabajando como
 `Ingeniero de Software`_ a pesar de nunca haber terminado
 `la universidad`_ (no le digan al `CIP`_).
 
-Tengo años de experiencia como administrador de sistemas y analista de
-seguridad, pero lo que en verdad me gusta es programar. He tenido
-éxito en evitar estancarme en cargos gerenciales: no quiero ser otra
-víctima del `Peter Principle`_.
+Tengo años de experiencia como administrador de sistemas
+y analista de seguridad, pero lo que en verdad me gusta
+es programar. He tenido éxito en evitar estancarme en
+cargos gerenciales: no quiero ser otra víctima del
+`Peter Principle`_.
 
-Soy socio fundador y Advisor de `Aureal`_, una empresa especializada en
-desarrollos en `Django`_ a empresas peruanas y norteamericanas.
+Soy socio fundador y Advisor de `Aureal`_, una empresa
+especializada en desarrollos en `Django`_ a empresas
+peruanas y norteamericanas.
 
-Llevo años haciendo telecommuting a empresas de USA. Trabajo desde mi casa.
-No sé lo que es una corbata, pantalones, camisas o zapatos. Paso todo
+Llevo años haciendo `telecommuting`_ a empresas de
+USA. `Trabajo desde mi casa`_. No sé lo que es una
+corbata, pantalones, camisas o zapatos. Paso todo
 el día en sandalias con Drago:
 
 .. raw:: html
@@ -53,52 +56,42 @@ el día en sandalias con Drago:
          alt="!flash" />
   </a>
 
-Abrieron un starbucks a tres cuadras de mi casa asi que la única
-ocasión donde subo a un taxi (porque no sé manejar) es cuando me invitan
-a comer cebiche.
+Abrieron un starbucks a tres cuadras de mi casa asi
+que la única ocasión donde subo a un taxi (porque
+no sé manejar) es cuando me invitan a comer cebiche.
 
 
 ¿Cómo programas en Python?
 --------------------------
 
-Lo mas cercano que tengo a una religión es `PEP 8`_. Cada archivo que
-escribo lo paso por este script:
+Lo mas cercano que tengo a una religión es `PEP 8`_.
+`Mi editor`_ tiene `flake8`_ integrado, y me grita
+cada vez que escribo código que no es PEP8.
 
-
-.. code-block:: bash
-
-    #!/bin/sh
-
-    echo '### pylint' $*
-    pylint --reports=n $*
-
-    echo '### pep8.py' $*
-    pep8.py --repeat $*
-
-    echo '### pyflakes' $*
-    pyflakes $*
-
-
-Creo que en el desarrollo de software lo que separa al amateur del
-profesional es la disciplina para escribir tests. No soy un seguidor
-de `TDD`_, pero si de tener un alto porcentaje de
+Creo que en el desarrollo de software lo que separa
+al amateur del profesional es la disciplina para
+escribir tests. No soy un seguidor de `TDD`_, pero
+si de tener un alto porcentaje de
 `code y branch coverage`_.
 
-Considero que cada vez que se descubre un bug en un proyecto serio,
-se debe escribir un test que exponga el problema.
+Considero que cada vez que se descubre un bug en un
+proyecto serio, se debe escribir un test que exponga
+el problema.
 
-Uso mucho `virtualenv`_ y `pip`_. No recuerdo la vida antes de virtualenv,
-pero no debe haber sido muy placentera.
+Uso mucho `virtualenv`_ y `pip`_. No recuerdo la
+vida antes de virtualenv, pero no debe haber sido
+muy placentera.
 
-No hay excusa para no usar control de versiones. El mejor es `mercurial`_.
+No hay excusa para no usar control de versiones.
+El mejor es `mercurial`_.
 
 
 ¿Qué hardware y software usas?
 ------------------------------
 
-Mi oficina móvil es una `MacBook Pro`_ de 15" con disco SSD, un
-`iPhone 4`_ y un `iPad`_: esta combinación es como vivir en el futuro.
-
+Mi oficina móvil es una `MacBook Pro`_ de 15" con
+disco SSD, un `iPhone 4s`_ y un `iPad`_: esta
+combinación es como vivir en el futuro.
 
 .. raw:: html
 
@@ -110,23 +103,38 @@ Mi oficina móvil es una `MacBook Pro`_ de 15" con disco SSD, un
          alt="Starcraft 2: Gaming with my newborn daughter" />
   </a>
 
+En `mi data center`_ tengo un `hackintosh`_ con una
+cantidad excesiva de gigabytes y gigahertz. Tiene
+`dos discos SSD`_, y está conectado a un
+`Ultrasharp de 27"`_ y un Dell LED de 24".
+
+Me gano la vida aplastando teclas, así que soy
+bastante exquisito en el uso de teclados.
+Tengo mas de una docena de `Model M`_ y varios
+otros con switches Cherry MX. Mi actual favorito
+es el `Poker KBC con Cherry MX Blue`_, que cargo
+conmigo hasta cuando uso la laptop.
+
 Software que uso a diario:
 
- - Sistema operativo: `OS X`_ en desktop, `iOS`_ en dispositivos móviles,
-   `FreeBSD`_ en servers personales, y `Ubuntu LTS`_ en servers de
-   la chamba.
+ - Sistema operativo: `OS X`_ en desktop,
+   `iOS`_ en dispositivos móviles,
+   `OS X Server`_ en servers personales (python.pe por ejemplo
+   corre en Lion Server),
+   y `Ubuntu LTS`_ en servers de la chamba.
  - $EDITOR: `macvim`_
- - $SHELL: `tcsh`_, aunque activo `bash`_ cuando uso `virtualenv`_
+ - $SHELL: `tcsh`_ y `bash`_, aunque últimamente me encuentro
+   usando `tcsh`_ cada vez menos.
  - Control de versiones: `mercurial`_
- - Web Framework: `Django`_
- - Base de datos: `MySQL`_ pero prefiero `PostgreSQL`_
- - "nosql": `redis`_ y `mongoDB`_
- - Browser: `Safari`_ (sin flash: lo desinstalé de OS X y vivo feliz)
+ - Web Framework: `CherryPy`_
+ - Base de datos: `PostgreSQL`_ y `mongoDB`_
+ - Browser: `Safari`_ para uso personal, Firefox y Chrome para
+   probar cosas.
  - Correo/Calendario: `Apple Mail+iCal`_ con un estricto `Inbox 0`_
  - Música: `iTunes`_ escuchando `The Beatles`_ 24/7
  - Backups: `Time Machine`_ en un `Time Capsule`_ es la única manera
    civilizada de hacer backups en un desktop.
- - Chat: `Adium`_
+ - Chat: `Linkinus`_
  - Manejo de tareas: `OmniFocus`_ ordena mi vida
  - Autocontrol: `Concentrate`_
 
@@ -174,24 +182,13 @@ No.
 ¿Estás disponible para hacer consultorías?
 ------------------------------------------
 
-No. Pero puedes contactar a `Aureal`_ y pedirles que apoye tu proyecto.
+No.
 
 
 ¿Estás disponible para dar charlas en eventos?
 ----------------------------------------------
 
-.. raw:: html
-
-  <a href="http://www.flickr.com/photos/gpicon/2796529237/"
-     title="Python talk by gustavopicon, on Flickr">
-    <img src="http://farm4.static.flickr.com/3173/2796529237_722ce0d898.jpg"
-         width="500"
-         height="375"
-         alt="Python talk" />
-  </a>
-
-Sí, pero debes correr con todos mis gastos. Además, si tu evento es
-comercial te cobraré como capacitación de personal.
+Lamentablemente por falta de tiempo, no.
 
 
 ¿Algo más?
@@ -217,13 +214,14 @@ Live long and Prosper.
     https://secure.wikimedia.org/wikipedia/en/wiki/Test-driven_development
 .. _code y branch coverage: http://nedbatchelder.com/code/coverage/
 .. _Macbook Pro: http://www.apple.com/macbookpro/
-.. _iPhone 4: http://www.apple.com/iphone/
+.. _iPhone 4s: http://www.apple.com/iphone/
 .. _iPad: http://www.apple.com/ipad/
 .. _OS X: http://www.apple.com/macosx/
 .. _iOS: http://www.apple.com/ios/
-.. _FreeBSD: http://www.freebsd.org/
+.. _FreeBSD: http://www.apple.com/macosx/server/
 .. _Ubuntu LTS: http://www.ubuntu.com/
 .. _macvim: http://code.google.com/p/macvim/
+.. _Mi editor: http://code.google.com/p/macvim/
 .. _tcsh: http://www.tcsh.org/
 .. _bash: http://tiswww.case.edu/php/chet/bash/bashtop.html
 .. _virtualenv: http://www.virtualenv.org/
@@ -253,4 +251,15 @@ Live long and Prosper.
    http://inventwithpython.com/
 .. _reddit: http://www.reddit.com/
 .. _Planescape: http://en.wikipedia.org/wiki/Planescape
-
+.. _telecommuting: https://en.wikipedia.org/wiki/Telecommuting
+.. _Trabajo desde mi casa: http://theoatmeal.com/comics/working_home
+.. _flake8: http://pypi.python.org/pypi/flake8/
+.. _mi data center: http://www.flickr.com/photos/gpicon/sets/72157626682788319/
+.. _hackintosh: http://tonymacx86.blogspot.com/
+.. _dos discos SSD: http://eshop.macsales.com/shop/SSD/OWC/Mercury_Extreme_Pro_6G/
+.. _Ultrasharp de 27": http://reviews.cnet.com/lcd-monitors/dell-ultrasharp-u2711/4505-3174_7-33913833.html
+.. _Model M: https://en.wikipedia.org/wiki/Model_M_keyboard
+.. _Poker KBC con Cherry MX Blue: http://www.flickr.com/photos/gpicon/6863028614/
+.. _Django: https://www.djangoproject.com/
+.. _CherryPy: http://www.cherrypy.org/
+.. _Linkinus: http://conceitedsoftware.com/products/linkinus
