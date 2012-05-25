@@ -3,7 +3,7 @@ Rosa María Orellana
 
 .. raw:: html
 
-<a href="http://www.flickr.com/photos/assoritam/7263777524/" title="python2 por assoritam, en Flickr"><img src="http://farm9.staticflickr.com/8008/7263777524_fab4f91283.jpg" width="323" height="429" alt="python2"></a>
+   <a href="http://www.flickr.com/photos/assoritam/7263777524/" title="python2 por assoritam, en Flickr"><img src="http://farm9.staticflickr.com/8008/7263777524_fab4f91283.jpg" width="323" height="429" alt="python2"></a>
 
 
 
