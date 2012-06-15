@@ -28,11 +28,11 @@ Trabajo para `Taller Tecnologies`_ como python developer, asignado a `Ampush Soc
 
 Trabaje para `Canonical`_ como ingeniero de seguridad en el equipo de infraestructura de soluciones OEM, donde ademas contribuyo desarrollando applicaciones para facilitar el trabajo de los ingenieros del area.
 
-Tambien `contribuyo`_ a `debian`_ donde soy `Debian Maintainer`_
+Tambien `contribuyo`_ a `debian`_
 
 ¿Cómo programas en Python?
 --------------------------
-Con `VIM`_ obviamente.
+Con `VIM`_, obviamente.
 
 ¿Qué hardware y software usas?
 ------------------------------
@@ -59,9 +59,13 @@ Software que uso diario:
   - Música: `banshee`_ con toneladas de punk
   - Control de versiones: `git`_, `mercurial`_ o `bzr`_
   - Python shell: `ipython`_
+  - Sandbox: `virtualenvwrapper`_ (no se como vivia sin el)
 
 ¿Qué software/productos has publicado?
 --------------------------------------
+Nada interesante pero tengo un `repositorio`_ de herramientas simples.
+
+Contribuyo/he contribuido codigo a `apparmor`_, `sudo`_, `terminator`_, `augeas`_ entre otros.
 
 ¿Qué intereses tienes?
 ----------------------
@@ -115,8 +119,11 @@ To infinity and beyond!
 .. _git: http://git-scm.com/
 .. _mercurial: http://mercurial.selenic.com/
 .. _bzr: http://bazaar.canonical.com/en/
-.. _Synergy: http://synergy2.sourceforge.net/
-.. _conky: http://conky.sourceforge.net/
 .. _ipython: http://ipython.scipy.org/moin/
+.. _virtualenvwrapper: http://www.doughellmann.com/projects/virtualenvwrapper/
+.. _repositorio: https://bitbucket.org/nxvl/tools
+.. _apparmor: http://wiki.apparmor.net/index.php/Main_Page
+.. _sudo: http://www.sudo.ws/
+.. _augeas: http://augeas.net/
 .. _Krav Maga: http://kravmagaperu.com.pe/
 .. _Diablo III: http://www.diablo3.com/
