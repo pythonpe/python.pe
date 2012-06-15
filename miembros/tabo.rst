@@ -208,7 +208,6 @@ Live long and Prosper.
     https://secure.wikimedia.org/wikipedia/en/wiki/Peter_Principle
 .. _Aureal: http://aureal.pe/
 .. _Mercurial: http://mercurial.selenic.com/
-.. _Django: http://www.djangoproject.com/
 .. _PEP 8: http://www.python.org/dev/peps/pep-0008/
 .. _TDD:
     https://secure.wikimedia.org/wikipedia/en/wiki/Test-driven_development
