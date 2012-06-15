@@ -24,7 +24,7 @@ Nicolas Valcárcel
 -------------------------------
 Contribuyo en `Ubuntu`_ desde el 2007, donde soy `MOTU`_ desde el 2008.
 
-Trabajo para `Taller Tecnologies`_ como python developer, asignado a `Ampush Social`_ donde soy generalista, programando en Django, administrando los servidores, bases de datos, etc...
+Trabajo para `Taller Technologies`_ como python developer, asignado a `Ampush Social`_ donde soy generalista, programando en Django, administrando los servidores, bases de datos, etc...
 
 Trabaje para `Canonical`_ como ingeniero de seguridad en el equipo de infraestructura de soluciones OEM, donde ademas contribuyo desarrollando applicaciones para facilitar el trabajo de los ingenieros del area.
 
