@@ -4,10 +4,10 @@ Comunidad de Usuarios de Python en Perú
 .. image:: _static/images/pythonperu-logo.png
    :width: 250px
    :height: 174px
-   
 
 
-Colabora con: 
+
+Colabora con:
 -------------
 
 :doc:`plan_estrategico`
@@ -37,7 +37,7 @@ Reunión Mensual Febrero 2012
 Reunión Mensual Enero 2012
 --------------------------
 
-* Día: Sábado 21 
+* Día: Sábado 21
 * Local: Joe Dayz (Jr. Huamachuco 1408, Of. 503 - Jesus Maria)
 * Hora: 10:00
 

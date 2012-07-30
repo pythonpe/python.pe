@@ -1,6 +1,8 @@
 Presentaciones
 ==============
 
+:doc:`propuestas`
+
 
 PyCon 2010:Distributed Programming with Pyro
 --------------------------------------------
