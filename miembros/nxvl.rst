@@ -16,15 +16,18 @@ Nicolas Valcárcel
 :ciudad: Lima
 :homepage: http://nxvl.blogspot.com
 :bitbucket: https://bitbucket.org/nxvl
+:github: https://github.com/nxvl
 :launchpad: http://launchpad.net/~nvalcarcel
 :linkedin: http://pe.linkedin.com/pub/nicolas-valcarcel/11/65a/9a5
 :twitter: `@nxvl <http://twitter.com/nxvl>`_
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
-Contribuyo en `Ubuntu`_ desde el 2007, donde soy `MOTU`_ desde el 2008.
+Contribui en `Ubuntu`_ desde el 2007, donde fui `MOTU`_ del 2008 al 2012, cuando encuentre algo mas tiempo planeo retomarlo.
 
-Trabajo para `Taller Technologies`_ como python developer, asignado a `Ampush Social`_ donde soy generalista, programando en Django, administrando los servidores, bases de datos, etc...
+Soy co-fundador y CTO en `B2C Corp S.A.C.`_ donde hacemos desarrollos en Django.
+
+Trabajo haciendo `telecommuting`_ para `Talent Trust`_ como python developer, asignado a `Ampush`_ donde soy generalista, programando en Django, administrando los servidores, bases de datos, etc...
 
 Trabaje para `Canonical`_ como ingeniero de seguridad en el equipo de infraestructura de soluciones OEM, donde ademas contribuyo desarrollando applicaciones para facilitar el trabajo de los ingenieros del area.
 
@@ -37,9 +40,8 @@ Con `VIM`_, obviamente.
 ¿Qué hardware y software usas?
 ------------------------------
 Hardware:
-  - Laptop de trabajo: Dell Studio14 (Mac en camino)
+  - Laptop de trabajo: `MacBook Pro`_ Mid-2012 de 13"
   - Teclado tipo ThinkPad
-  - Monitor externo: Flatron E2290
 
 .. raw:: html
 
@@ -52,20 +54,20 @@ Hardware:
   </a>
 
 Software que uso diario:
-  - Sistema operativo: `Ubuntu`_
-  - Terminal: `terminator`_
-  - Correo: `mutt`_ con `offlineimap`_ y `esmtp`_
+  - Sistema operativo: `OS X`_
+  - Terminal: `iTerm2`_
   - Web browser: `chrome`_
-  - Música: `banshee`_ con toneladas de punk
+  - Música: `iTunes`_ con toneladas de punk
   - Control de versiones: `git`_, `mercurial`_ o `bzr`_
   - Python shell: `ipython`_
   - Sandbox: `virtualenvwrapper`_ (no se como vivia sin el)
 
 ¿Qué software/productos has publicado?
 --------------------------------------
-Nada interesante pero tengo un `repositorio`_ de herramientas simples.
 
-Contribuyo/he contribuido codigo a `apparmor`_, `sudo`_, `terminator`_, `augeas`_ entre otros.
+  - `Django-transactional`_
+  - Tengo un `repositorio`_ de herramientas simples.
+  - Contribuyo/he contribuido codigo a `apparmor`_, `sudo`_, `terminator`_, `augeas`_ entre otros.
 
 ¿Qué intereses tienes?
 ----------------------
@@ -82,7 +84,7 @@ En mi tiempo libre de comun mortal entreno `Krav Maga`_, intento ir al gimnasio,
          alt="IMG_2884" />
   </a>
 
-En mi tiempo libre de Geek juego `Diablo III`_, sigo programado y contribuyo arreglando los bugs que me molestan en los programas que uso, leyendo sobre seguridad informatica y desarrollo de software.
+En mi tiempo libre de Geek sigo programado y contribuyo arreglando los bugs que me molestan en los programas que uso, leyendo sobre seguridad informatica y desarrollo de software.
 
 ¿Estás disponible para trabajar?
 --------------------------------
@@ -101,10 +103,11 @@ Si, pero debes avisarme con tiempo sobretodo si es fuera de Lima.
 To infinity and beyond!
 
 
+.. _B2C Corp S.A.C.: http://www.corpb2c.com/
 .. _Ubuntu: http://www.ubuntu.com
 .. _MOTU: https://wiki.ubuntu.com/MOTU
-.. _Taller Technologies: http://www.tallertechnologies.com/
-.. _Ampush Social: http://www.ampushsocial.com/
+.. _Talent Trust: http://www.talenttrust.com/
+.. _Ampush: http://www.ampush.com/
 .. _Canonical: http://www.canonical.com
 .. _contribuyo: http://qa.debian.org/developer.php?login=nicolas.valcarcel%40canonical.com&comaint=yes
 .. _debian: http://www.debian.org
@@ -127,3 +130,9 @@ To infinity and beyond!
 .. _augeas: http://augeas.net/
 .. _Krav Maga: http://kravmagaperu.com.pe/
 .. _Diablo III: http://www.diablo3.com/
+.. _OS X: http://www.apple.com/macosx/
+.. _MacBook Pro: http://www.apple.com/macbookpro/
+.. _iTerm2: http://www.iterm2.com/
+.. _Django-transactional: http://pypi.python.org/pypi/Django-transactional
+.. _telecommuting: https://en.wikipedia.org/wiki/Telecommuting
+.. _iTunes: http://www.apple.com/itunes/
