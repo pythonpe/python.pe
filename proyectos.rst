@@ -11,6 +11,7 @@ Proyectos de los miembros de Python Peru.
  * `supay`_ Una libreria para tener Python Daemons
  * `tweetmob`_ Publicar tweets recibidos como mensajes directos
  * `dozo`_ Ejecutar tu propio código en python como una opción de dozo
+ * `django-transactional`_ transacciones simples en django
 
 .. _django-taggable: https://tabo.pe/projects/django-taggable/
 .. _django-treebeard: https://tabo.pe/projects/django-treebeard/
@@ -19,4 +20,5 @@ Proyectos de los miembros de Python Peru.
 .. _supay: http://code.google.com/p/supay/
 .. _tweetmob: https://github.com/johnmontero/tweetmob
 .. _dozo: https://github.com/johnmontero/dozo
+.. _django-transactional: http://code.corpb2c.com/django-transactional
 
