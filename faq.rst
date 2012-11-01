@@ -20,7 +20,7 @@ Los pasos para contribuir por primera vez son:
   - Probar los cambios en un browser: open _build/html/index.html 
   - Hacer commit de los cambios: hg commit 
   - Hacer push a bitbucket: hg push 
-  - Mandar un pull request: open https://bitbucket.org/pythonpe/python.pe/pull 
+  - Mandar un pull request: open https://bitbucket.org/$USER/python.pe/pull-request/new 
 
 Los commandos para actualizar el fork local son:
   - hg pull https://bitbucket.org/pythonpe/python.pe
