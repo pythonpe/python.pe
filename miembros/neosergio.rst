@@ -20,7 +20,7 @@ Sergio Infante Montero
 -------------------------------
 Trabajo como Ingeniero de Software desde hace varios años.
 
-Actulamente laboro en `Taller Technologies`_, es una firma internacional parte del grupo `Talent Trust`_, que se dedica al desarrollo de software.
+Actualmente laboro en `Taller Technologies`_, una firma internacional parte del grupo `Talent Trust`_, que se dedica al desarrollo de software.
 
 Contribuyo a algunos proyectos de Software Libre y Open Source como `GNOME`_, `Libreoffice`_ 
 
@@ -34,12 +34,12 @@ Como sistema operativo uso Ubuntu en mi laptop una Lenovo Thinkpad T420
 
 ¿Qué software/productos has publicado?
 --------------------------------------
-He contribuido con varios parches y código en diversos proyectos, pero los que he publicado como material educativo son:
+He contribuido con varios parches y código en diversos proyectos, pero los que he publicado independiente y como material educativo son:
   
   - `Legolax`_
   - `Arwenx`_
 
-He elaborado un curso de Django que se ha hecho muy leído en Latinoamérica, llegando a los 20000 lectores, con versiones descargables, incluyendo `su publicación en la Kindle Store de Amazon`_.
+He elaborado un curso de Django que se ha hecho muy popular en Latinoamérica, llegando a los 20000 lectores, con versiones descargables, incluyendo `su publicación en la Kindle Store de Amazon`_.
 
   - `Curso de Django`_
 
