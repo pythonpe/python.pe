@@ -14,7 +14,7 @@ Colabora con:
 
 :doc:`material_difusion`
 
-Reunión Mensual Mayo 2012
+Reunión Mayo 2012
 --------------------------
 
 * Día: Miércoles 16
@@ -24,7 +24,7 @@ Reunión Mensual Mayo 2012
 * Estado: Pendiente
 
 
-Reunión Mensual Febrero 2012
+Reunión Febrero 2012
 ----------------------------
 
 * Día: Miércoles 22
@@ -34,7 +34,7 @@ Reunión Mensual Febrero 2012
 * Estado: Realizada.
 
 
-Reunión Mensual Enero 2012
+Reunión Enero 2012
 --------------------------
 
 * Día: Sábado 21
