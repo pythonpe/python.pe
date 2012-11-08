@@ -262,3 +262,4 @@ Live long and Prosper.
 .. _Django: https://www.djangoproject.com/
 .. _CherryPy: http://www.cherrypy.org/
 .. _Linkinus: http://conceitedsoftware.com/products/linkinus
+.. _OS X Server: http://www.apple.com/osx/server/
