@@ -3,11 +3,11 @@ Alfredo Deza
 
 .. raw:: html
 
-    <a href="http://www.flickr.com/photos/aldegaz/57280085/" 
+    <a href="http://www.flickr.com/photos/aldegaz/57280085/"
         title="santa lucia by alfredodeza, on Flickr">
-        <img src="http://farm1.static.flickr.com/27/57280085_e285cb8815.jpg" 
-            width="375" 
-            height="500" 
+        <img src="http://farm1.static.flickr.com/27/57280085_e285cb8815.jpg"
+            width="375"
+            height="500"
             alt="santa lucia">
     </a>
 
@@ -23,11 +23,11 @@ Alfredo Deza
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
-Trabajo como developer en `Cox Inc`_, es una empresa de medios digitales que
+Trabajo como developer en `YouGov`_, es una empresa de medios digitales que
 integra publicaciones, television y marketing directo.
 
 Contribuyo para varios proyectos Open Source como `Pecan`_, `TurboGears`_
-y `Pylons`_. 
+y `Pylons`_.
 
 ¿Cómo programas en Python?
 --------------------------
@@ -50,7 +50,7 @@ guste pero aprender de las opciones.
 Hardware:
   - MacBook Pro
   - ZFS en una PC armada para alamacenaje
- 
+
 Software:
   - Sistemas Operativos: Mac OSX y `OpenIndiana`_ de vez en cuando
   - Terminal: `iTerm2`_
@@ -83,11 +83,11 @@ ver peliculas cuando necesito apagar la computadora.
 
 ¿Estás disponible para trabajar?
 --------------------------------
-Nop.
+No.
 
 ¿Estás disponible para hacer consultorías?
 ------------------------------------------
-Nop.
+No.
 
 ¿Estás disponible para dar charlas en eventos?
 ----------------------------------------------
@@ -102,6 +102,8 @@ Escribe tests o si no...
 .. _Guachi:      http://pypi.python.org/pypi/guachi
 .. _Pytest.vim:  http://www.vim.org/scripts/script.php?script_id=3424
 .. _Chapa.vim:   http://www.vim.org/scripts/script.php?script_id=3395
+.. _Khuno.vim:   http://github.com/alfredodeza/khuno.vim
+.. _Posero.vim:  http://github.com/alfredodeza/posero.vim
 .. _Supay:       http://pypi.python.org/pypi/supay
 .. _Waskr:       http://pypi.python.org/pypi/waskr
 .. _Pygora:      http://pypi.python.org/pypi/pygora
@@ -117,4 +119,4 @@ Escribe tests o si no...
 .. _iTerm2:      http://www.iterm2.com/#/section/home
 .. _ipython:     http://ipython.scipy.org/moin
 .. _git:         http://git-scm.com
-.. _Cox Inc:     http://www.coxenterprises.com/ 
+.. _YouGov:     http://today.yougov.com/
