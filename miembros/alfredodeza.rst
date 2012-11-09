@@ -3,11 +3,11 @@ Alfredo Deza
 
 .. raw:: html
 
-    <a href="http://www.flickr.com/photos/aldegaz/57280085/" 
+    <a href="http://www.flickr.com/photos/aldegaz/57280085/"
         title="santa lucia by alfredodeza, on Flickr">
-        <img src="http://farm1.static.flickr.com/27/57280085_e285cb8815.jpg" 
-            width="375" 
-            height="500" 
+        <img src="http://farm1.static.flickr.com/27/57280085_e285cb8815.jpg"
+            width="375"
+            height="500"
             alt="santa lucia">
     </a>
 
@@ -23,11 +23,13 @@ Alfredo Deza
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
-Trabajo como developer en `Cox Inc`_, es una empresa de medios digitales que
-integra publicaciones, television y marketing directo.
+Trabajo como developer en `YouGov`_, una empresa de estadisticas y consultorias
+pionera en el uso de la tecnología para recoger datos de alta calidad para
+empresas, gobiernos e instituciones para que puedan servir mejor a las personas
+que las sustentan.
 
-Contribuyo para varios proyectos Open Source como `Pecan`_, `TurboGears`_
-y `Pylons`_. 
+He contribuido a varios proyectos Open Source como `Pecan`_, `TurboGears`_,
+`Pylons`_, y `Pytest`_ .
 
 ¿Cómo programas en Python?
 --------------------------
@@ -38,8 +40,9 @@ a ser un poco mas rapido para moverme y editar en Python.
 Para correr tests uso `Pytest.vim`_ que me deja correr el test, la clase o todo
 el archivo en el que este escribiendo.
 
-Por ultimo tengo ``pyflakes.vim`` que verifica que mi codigo no tenga variables
-sin usar y problemas con syntaxis.
+Por ultimo tengo `Khuno.vim`_ que verifica que mi codigo no tenga variables sin
+usar y problemas con syntaxis, es un plugin que habla con ``flake8`` y hace
+varios chequeos asyncronos.
 
 No me caso con ninguna tecnologia. Y asi como ayer decia que mercurial era lo
 maximo y ahora uso git, siento que no hay nada mejor que user lo que a uno le
@@ -50,27 +53,28 @@ guste pero aprender de las opciones.
 Hardware:
   - MacBook Pro
   - ZFS en una PC armada para alamacenaje
- 
+
 Software:
   - Sistemas Operativos: Mac OSX y `OpenIndiana`_ de vez en cuando
   - Terminal: `iTerm2`_
   - Python shell: `ipython`_
-  - Control de versiones: `git`_
+  - Control de versiones: `git`_ aunque ahora me obligan a usar mercurial :(
 
 ¿Qué software/productos has publicado?
 --------------------------------------
-* `Konira`_ :     Un DSL para escribir (y correr) tests
-* `Pacha`_ :      Administrador de configuraciones en servidores
-* `Guachi`_:      Configuraciones persistentes en diccionarios
-* `Pytest.vim`_:  Un plugin para poder correr py.test en Vim
 * `Chapa.vim`_:   Un plugin para poder editar Python mas rapido en Vim
+* `Coima`_:       Super simple motor de templates
+* `Guachi`_:      Configuraciones persistentes en diccionarios
+* `Khuno.vim`_:   Como Pyflakes para Vim pero totalmente async. Super rapido.
+* `Konira`_ :     Un DSL para escribir (y correr) tests
+* `Notario`_:     Validacion de diccionarios
+* `Pacha`_ :      Administrador de configuraciones en servidores
+* `Posero.vim`_:  Un plugin para Vim para hacer presentaciones desde el editor.
+* `Pygora`_:      Averigua el ratio de tests vs source
+* `Pytest.vim`_:  Un plugin para poder correr py.test en Vim
 * `Supay`_:       Una libreria para crear daemons
 * `Waskr`_:       Un WSGI Middleware para manejar estadisticas de aplicaciones
-* `Pygora`_:      Averigua el ratio de tests vs source
-* `Teja`_:        Un MetaTest Runner para correr tests con `Pecan`_
 * `yoPyPi`_:      Balancea requests a PyPi si este no funciona
-* `PecanRaw`_:    Muestra datos de requests en `Pecan`_
-* `Coima`_:       Super simple motor de templates
 
 ¿Qué intereses tienes?
 ----------------------
@@ -83,11 +87,11 @@ ver peliculas cuando necesito apagar la computadora.
 
 ¿Estás disponible para trabajar?
 --------------------------------
-Nop.
+No.
 
 ¿Estás disponible para hacer consultorías?
 ------------------------------------------
-Nop.
+No.
 
 ¿Estás disponible para dar charlas en eventos?
 ----------------------------------------------
@@ -97,24 +101,26 @@ Por lo general, si.
 ----------
 Escribe tests o si no...
 
-.. _Konira:      http://pypi.python.org/pypi/konira
-.. _Pacha:       http://pypi.python.org/pypi/pacha
-.. _Guachi:      http://pypi.python.org/pypi/guachi
-.. _Pytest.vim:  http://www.vim.org/scripts/script.php?script_id=3424
 .. _Chapa.vim:   http://www.vim.org/scripts/script.php?script_id=3395
-.. _Supay:       http://pypi.python.org/pypi/supay
-.. _Waskr:       http://pypi.python.org/pypi/waskr
-.. _Pygora:      http://pypi.python.org/pypi/pygora
-.. _Teja:        http://pypi.python.org/pypi/teja
-.. _yoPyPi:      http://pypi.python.org/pypi/yopypi
-.. _PecanRaw:    http://pypi.python.org/pypi/pecanraw
 .. _Coima:       http://pypi.python.org/pypi/coima
-.. _ShootQ:      http://web.shootq.com
-.. _Pylons:      http://pylonshq.com
-.. _TurboGears:  http://turbogears.org
-.. _Pecan:       http://pecanpy.org
+.. _Guachi:      http://pypi.python.org/pypi/guachi
+.. _Khuno.vim:   http://github.com/alfredodeza/khuno.vim
+.. _Konira:      http://pypi.python.org/pypi/konira
+.. _Notario:     http://github.com/alfredodeza/notario
 .. _OpenIndiana: http://openindiana.org
+.. _Pacha:       http://pypi.python.org/pypi/pacha
+.. _Pecan:       http://pecanpy.org
+.. _Posero.vim:  http://github.com/alfredodeza/posero.vim
+.. _Pygora:      http://pypi.python.org/pypi/pygora
+.. _Pylons:      http://pylonshq.com
+.. _Pytest.vim:  http://www.vim.org/scripts/script.php?script_id=3424
+.. _Pytest:      http://pytest.org/latest/
+.. _ShootQ:      http://web.shootq.com
+.. _Supay:       http://pypi.python.org/pypi/supay
+.. _TurboGears:  http://turbogears.org
+.. _Waskr:       http://pypi.python.org/pypi/waskr
+.. _YouGov:      http://today.yougov.com/
+.. _git:         http://git-scm.com
 .. _iTerm2:      http://www.iterm2.com/#/section/home
 .. _ipython:     http://ipython.scipy.org/moin
-.. _git:         http://git-scm.com
-.. _Cox Inc:     http://www.coxenterprises.com/ 
+.. _yoPyPi:      http://pypi.python.org/pypi/yopypi
