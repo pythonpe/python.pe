@@ -26,8 +26,8 @@ Alfredo Deza
 Trabajo como developer en `YouGov`_, es una empresa de medios digitales que
 integra publicaciones, television y marketing directo.
 
-Contribuyo para varios proyectos Open Source como `Pecan`_, `TurboGears`_
-y `Pylons`_.
+He contribuido a varios proyectos Open Source como `Pecan`_, `TurboGears`_,
+`Pylons`_, y `Pytest`_ .
 
 ¿Cómo programas en Python?
 --------------------------
@@ -112,11 +112,12 @@ Escribe tests o si no...
 .. _Pygora:      http://pypi.python.org/pypi/pygora
 .. _Pylons:      http://pylonshq.com
 .. _Pytest.vim:  http://www.vim.org/scripts/script.php?script_id=3424
+.. _Pytest:      http://pytest.org/latest/
 .. _ShootQ:      http://web.shootq.com
 .. _Supay:       http://pypi.python.org/pypi/supay
 .. _TurboGears:  http://turbogears.org
 .. _Waskr:       http://pypi.python.org/pypi/waskr
-.. _YouGov:     http://today.yougov.com/
+.. _YouGov:      http://today.yougov.com/
 .. _git:         http://git-scm.com
 .. _iTerm2:      http://www.iterm2.com/#/section/home
 .. _ipython:     http://ipython.scipy.org/moin
