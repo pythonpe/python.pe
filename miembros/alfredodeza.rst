@@ -106,7 +106,7 @@ Escribe tests o si no...
 .. _Guachi:      http://pypi.python.org/pypi/guachi
 .. _Khuno.vim:   http://github.com/alfredodeza/khuno.vim
 .. _Konira:      http://pypi.python.org/pypi/konira
-.. _Notario.vim: http://github.com/alfredodeza/notario
+.. _Notario:     http://github.com/alfredodeza/notario
 .. _OpenIndiana: http://openindiana.org
 .. _Pacha:       http://pypi.python.org/pypi/pacha
 .. _Pecan:       http://pecanpy.org
