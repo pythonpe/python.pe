@@ -1,5 +1,5 @@
 Fernando Gutiérrez
-===============
+==================
 
 :nombre: Fernando Gutiérrez
 :aliases: xbito
