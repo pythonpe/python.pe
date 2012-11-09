@@ -51,7 +51,7 @@ aprender y seguir difundiendo.
 --------------------------------
 Por el momento sí, pero me gusta más poder trabajar a distancia ya que no
 me gusta perder mucho tiempo en viajes y sobre todo tiene que ser con
-tecnologías libres 
+tecnologías libres
 
 ¿Estás disponible para hacer consultorías?
 ------------------------------------------
@@ -64,7 +64,7 @@ Siempre que el tiempo me lo permita.
 ¿Algo más?
 ----------
 * Soy muy sociable la mayoría del tiempo, pero como se intuirá a veces no lo
-soy.
+  soy.
 
 * Detesto la ciudad ya que prefiero ir a acampar y si es así me gusta que
-sea desconectandome de todo.
+  sea desconectandome de todo.
