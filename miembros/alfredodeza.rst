@@ -59,18 +59,19 @@ Software:
 
 ¿Qué software/productos has publicado?
 --------------------------------------
-* `Konira`_ :     Un DSL para escribir (y correr) tests
-* `Pacha`_ :      Administrador de configuraciones en servidores
-* `Guachi`_:      Configuraciones persistentes en diccionarios
-* `Pytest.vim`_:  Un plugin para poder correr py.test en Vim
 * `Chapa.vim`_:   Un plugin para poder editar Python mas rapido en Vim
+* `Coima`_:       Super simple motor de templates
+* `Guachi`_:      Configuraciones persistentes en diccionarios
+* `Khuno.vim`_:   Como Pyflakes para Vim pero totalmente async. Super rapido.
+* `Konira`_ :     Un DSL para escribir (y correr) tests
+* `Notario`_:     Validacion de diccionarios
+* `Pacha`_ :      Administrador de configuraciones en servidores
+* `Posero.vim`_:  Un plugin para Vim para hacer presentaciones desde el editor.
+* `Pygora`_:      Averigua el ratio de tests vs source
+* `Pytest.vim`_:  Un plugin para poder correr py.test en Vim
 * `Supay`_:       Una libreria para crear daemons
 * `Waskr`_:       Un WSGI Middleware para manejar estadisticas de aplicaciones
-* `Pygora`_:      Averigua el ratio de tests vs source
-* `Teja`_:        Un MetaTest Runner para correr tests con `Pecan`_
 * `yoPyPi`_:      Balancea requests a PyPi si este no funciona
-* `PecanRaw`_:    Muestra datos de requests en `Pecan`_
-* `Coima`_:       Super simple motor de templates
 
 ¿Qué intereses tienes?
 ----------------------
@@ -97,26 +98,25 @@ Por lo general, si.
 ----------
 Escribe tests o si no...
 
-.. _Konira:      http://pypi.python.org/pypi/konira
-.. _Pacha:       http://pypi.python.org/pypi/pacha
-.. _Guachi:      http://pypi.python.org/pypi/guachi
-.. _Pytest.vim:  http://www.vim.org/scripts/script.php?script_id=3424
 .. _Chapa.vim:   http://www.vim.org/scripts/script.php?script_id=3395
-.. _Khuno.vim:   http://github.com/alfredodeza/khuno.vim
-.. _Posero.vim:  http://github.com/alfredodeza/posero.vim
-.. _Supay:       http://pypi.python.org/pypi/supay
-.. _Waskr:       http://pypi.python.org/pypi/waskr
-.. _Pygora:      http://pypi.python.org/pypi/pygora
-.. _Teja:        http://pypi.python.org/pypi/teja
-.. _yoPyPi:      http://pypi.python.org/pypi/yopypi
-.. _PecanRaw:    http://pypi.python.org/pypi/pecanraw
 .. _Coima:       http://pypi.python.org/pypi/coima
-.. _ShootQ:      http://web.shootq.com
-.. _Pylons:      http://pylonshq.com
-.. _TurboGears:  http://turbogears.org
-.. _Pecan:       http://pecanpy.org
+.. _Guachi:      http://pypi.python.org/pypi/guachi
+.. _Khuno.vim:   http://github.com/alfredodeza/khuno.vim
+.. _Konira:      http://pypi.python.org/pypi/konira
+.. _Notario.vim: http://github.com/alfredodeza/notario
 .. _OpenIndiana: http://openindiana.org
+.. _Pacha:       http://pypi.python.org/pypi/pacha
+.. _Pecan:       http://pecanpy.org
+.. _Posero.vim:  http://github.com/alfredodeza/posero.vim
+.. _Pygora:      http://pypi.python.org/pypi/pygora
+.. _Pylons:      http://pylonshq.com
+.. _Pytest.vim:  http://www.vim.org/scripts/script.php?script_id=3424
+.. _ShootQ:      http://web.shootq.com
+.. _Supay:       http://pypi.python.org/pypi/supay
+.. _TurboGears:  http://turbogears.org
+.. _Waskr:       http://pypi.python.org/pypi/waskr
+.. _YouGov:     http://today.yougov.com/
+.. _git:         http://git-scm.com
 .. _iTerm2:      http://www.iterm2.com/#/section/home
 .. _ipython:     http://ipython.scipy.org/moin
-.. _git:         http://git-scm.com
-.. _YouGov:     http://today.yougov.com/
+.. _yoPyPi:      http://pypi.python.org/pypi/yopypi
