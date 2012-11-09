@@ -23,8 +23,10 @@ Alfredo Deza
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
-Trabajo como developer en `YouGov`_, es una empresa de medios digitales que
-integra publicaciones, television y marketing directo.
+Trabajo como developer en `YouGov`_, una empresa de estadisticas y consultorias
+pionera en el uso de la tecnología para recoger datos de alta calidad para
+empresas, gobiernos e instituciones para que puedan servir mejor a las personas
+que las sustentan.
 
 He contribuido a varios proyectos Open Source como `Pecan`_, `TurboGears`_,
 `Pylons`_, y `Pytest`_ .
