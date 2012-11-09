@@ -38,8 +38,9 @@ a ser un poco mas rapido para moverme y editar en Python.
 Para correr tests uso `Pytest.vim`_ que me deja correr el test, la clase o todo
 el archivo en el que este escribiendo.
 
-Por ultimo tengo ``pyflakes.vim`` que verifica que mi codigo no tenga variables
-sin usar y problemas con syntaxis.
+Por ultimo tengo `Khuno.vim`_ que verifica que mi codigo no tenga variables sin
+usar y problemas con syntaxis, es un plugin que habla con ``flake8`` y hace
+varios chequeos asyncronos.
 
 No me caso con ninguna tecnologia. Y asi como ayer decia que mercurial era lo
 maximo y ahora uso git, siento que no hay nada mejor que user lo que a uno le
@@ -55,7 +56,7 @@ Software:
   - Sistemas Operativos: Mac OSX y `OpenIndiana`_ de vez en cuando
   - Terminal: `iTerm2`_
   - Python shell: `ipython`_
-  - Control de versiones: `git`_
+  - Control de versiones: `git`_ aunque ahora me obligan a usar mercurial :(
 
 ¿Qué software/productos has publicado?
 --------------------------------------
