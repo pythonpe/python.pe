@@ -14,34 +14,14 @@ Colabora con:
 
 :doc:`material_difusion`
 
-Reunión Mayo 2012
+Reunión Noviembre 2012
 --------------------------
 
-* Día: Miércoles 16
-* Local: C.O.S
+* Día: Viernes 23
+* Local: Calle Bolivar 151 dpto 901. Miraflores
 * Hora: 19:00
 
 * Estado: Pendiente
-
-
-Reunión Febrero 2012
-----------------------------
-
-* Día: Miércoles 22
-* Local: C.O.S
-* Hora: 19:00
-
-* Estado: Realizada.
-
-
-Reunión Enero 2012
---------------------------
-
-* Día: Sábado 21
-* Local: Joe Dayz (Jr. Huamachuco 1408, Of. 503 - Jesus Maria)
-* Hora: 10:00
-
-* Estado: Realizada.  Reporte: :doc:`reunion_210112`
 
 
 Únete
