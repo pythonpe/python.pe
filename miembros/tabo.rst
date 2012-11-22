@@ -3,14 +3,13 @@ Gustavo Picón
 
 .. raw:: html
 
-  <a href="http://www.flickr.com/photos/gpicon/2586566454/"
-     title="Python - Ica 2004 by gustavopicon, on Flickr">
-    <img src="http://farm4.static.flickr.com/3183/2586566454_c143541a43.jpg"
+  <a href="http://www.flickr.com/photos/gpicon/7641883188/"
+     title="Mirrors by gustavopicon, on Flickr">
+    <img src="http://farm9.staticflickr.com/8421/7641883188_420697c2b2.jpg"
          width="500"
          height="375"
-         alt="Python - Ica 2004" />
+         alt="Mirrors" />
   </a>
-
 
 
 :nombre: Gustavo Picón
@@ -27,19 +26,13 @@ Gustavo Picón
 ¿Quién eres y a qué te dedicas?
 -------------------------------
 
-Soy `Gustavo Picón`_. Llevo varios años trabajando como
-`Ingeniero de Software`_ a pesar de nunca haber terminado
-`la universidad`_ (no le digan al `CIP`_).
-
-Tengo años de experiencia como administrador de sistemas
-y analista de seguridad, pero lo que en verdad me gusta
-es programar. He tenido éxito en evitar estancarme en
-cargos gerenciales: no quiero ser otra víctima del
-`Peter Principle`_.
-
-Soy socio fundador y Advisor de `Aureal`_, una empresa
-especializada en desarrollos en `Django`_ a empresas
-peruanas y norteamericanas.
+Soy `Gustavo Picón`_. Trabajo como
+`Ingeniero de Software`_ remoto en `YouGov`_,
+una empresa que tiene un stack de tecnología
+bastante variado basado en Python. En `YouGov`_
+trabajo junto a otros miembros de Python Perú:
+:doc:`/miembros/jj`, :doc:`/miembros/xbito`, y
+:doc:`/miembros/alfredodeza`.
 
 Llevo años haciendo `telecommuting`_ a empresas de
 USA. `Trabajo desde mi casa`_. No sé lo que es una
@@ -49,30 +42,29 @@ el día en sandalias con Drago:
 .. raw:: html
 
   <a href="http://www.flickr.com/photos/gpicon/4749714016/"
-     title="!flash by gustavopicon, on Flickr">
+     title="Drago Anakin Skywalker Picón by gustavopicon, on Flickr">
     <img src="http://farm5.static.flickr.com/4137/4749714016_99786a12a0.jpg"
          width="500"
          height="375"
-         alt="!flash" />
+         alt="Drago Anakin Skywalker Picón" />
   </a>
-
-Abrieron un starbucks a tres cuadras de mi casa asi
-que la única ocasión donde subo a un taxi (porque
-no sé manejar) es cuando me invitan a comer cebiche.
-
 
 ¿Cómo programas en Python?
 --------------------------
 
-Lo mas cercano que tengo a una religión es `PEP 8`_.
-`Mi editor`_ tiene `flake8`_ integrado, y me grita
-cada vez que escribo código que no es PEP8.
+Hace poco migré profesionalmente a `PyCharm`_
+luego de mas de 10 años usando `Vim`_ a tiempo
+completo.
+El debugging, análisis de código y refactoring
+que hace PyCharm es incomparable.
+He probado *TODOS* los IDEs y editores (con sus
+plugins!), y PyCharm es, para mí, el mejor.
 
 Creo que en el desarrollo de software lo que separa
 al amateur del profesional es la disciplina para
-escribir tests. No soy un seguidor de `TDD`_, pero
-si de tener un alto porcentaje de
-`code y branch coverage`_.
+escribir tests. Sigo `TDD`_ mientras puedo (no es
+fácil con legacy code), pero siempre apunto a tener
+un porcentaje alto de `code y branch coverage`_.
 
 Considero que cada vez que se descubre un bug en un
 proyecto serio, se debe escribir un test que exponga
@@ -83,30 +75,23 @@ vida antes de virtualenv, pero no debe haber sido
 muy placentera.
 
 No hay excusa para no usar control de versiones.
-El mejor es `mercurial`_.
+El mejor es `Mercurial`_, aunque es posible
+que mi opinión cambie en `Pycon`_ porque
+un `compañero de trabajo`_ ha prometido
+convertirme a `Git`_ 
+
+Estoy intentando aplicar varias técnicas de
+`Clean Coders`_. Lo chévere de esta carrera es
+que uno nunca deja de aprender.
 
 
 ¿Qué hardware y software usas?
 ------------------------------
 
-Mi oficina móvil es una `MacBook Pro`_ de 15" con
-disco SSD, un `iPhone 4s`_ y un `iPad`_: esta
-combinación es como vivir en el futuro.
-
-.. raw:: html
-
-  <a href="http://www.flickr.com/photos/gpicon/4938262332/"
-     title="Starcraft 2: Gaming with my newborn daughter by gustavopicon, on Flickr">
-    <img src="http://farm5.static.flickr.com/4076/4938262332_c57d4cb365.jpg"
-         width="500"
-         height="375"
-         alt="Starcraft 2: Gaming with my newborn daughter" />
-  </a>
-
-En `mi data center`_ tengo un `hackintosh`_ con una
-cantidad excesiva de gigabytes y gigahertz. Tiene
-`dos discos SSD`_, y está conectado a un
-`Ultrasharp de 27"`_ y un Dell LED de 24".
+`MacBook Pro`_ conectada a un `Ultrasharp de 27"`_
+y una red local demasiado extensa para describir
+en pocas líneas (tuve que construir
+`un data center`_ para tantos equipos).
 
 Me gano la vida aplastando teclas, así que soy
 bastante exquisito en el uso de teclados.
@@ -115,28 +100,29 @@ otros con switches Cherry MX. Mi actual favorito
 es el `Poker KBC con Cherry MX Blue`_, que cargo
 conmigo hasta cuando uso la laptop.
 
+.. raw:: html
+
+  <a href="http://www.flickr.com/photos/gpicon/7983513378/"
+     title="KBC Poker keyboard (Cherry MX Blue) with blank white key caps">
+    <img src="http://farm9.staticflickr.com/8443/7983513378_c0457b60d3.jpg"
+         width="500"
+         height="331"
+         alt="KBC Poker keyboard (Cherry MX Blue) with blank white key caps" />
+  </a>
+
 Software que uso a diario:
 
  - Sistema operativo: `OS X`_ en desktop,
    `iOS`_ en dispositivos móviles,
    `OS X Server`_ en servers personales (python.pe por ejemplo
-   corre en Lion Server),
+   corre en Mountain Lion Server),
    y `Ubuntu LTS`_ en servers de la chamba.
- - $EDITOR: `macvim`_
- - $SHELL: `tcsh`_ y `bash`_, aunque últimamente me encuentro
-   usando `tcsh`_ cada vez menos.
- - Control de versiones: `mercurial`_
+ - $EDITOR: `PyCharm`_ con `IdeaVim`_
+ - $SHELL: `bash`_ (aunque extraño `tcsh`_)
  - Web Framework: `CherryPy`_
- - Base de datos: `PostgreSQL`_ y `mongoDB`_
- - Browser: `Safari`_ para uso personal, Firefox y Chrome para
-   probar cosas.
- - Correo/Calendario: `Apple Mail+iCal`_ con un estricto `Inbox 0`_
- - Música: `iTunes`_ escuchando `The Beatles`_ 24/7
- - Backups: `Time Machine`_ en un `Time Capsule`_ es la única manera
-   civilizada de hacer backups en un desktop.
- - Chat: `Linkinus`_
- - Manejo de tareas: `OmniFocus`_ ordena mi vida
- - Autocontrol: `Concentrate`_
+ - Control de versiones: `SourceTree`_ para `Mercurial`_
+ - Base de datos: `Navicat Premium`_ para `PostgreSQL`_ y
+   `MongoHub`_ para `mongoDB`_.
 
 ¿Qué software/productos has publicado?
 --------------------------------------
@@ -157,7 +143,6 @@ Solo listo software open source escrito en Python:
    Flickr (FlickrSerializer), Delicious (DeliciousSerializer) and tag
    separation with commas (CommaSerializer). Handles customizable
    per-tag normalization to avoid tag duplicates.
-
 
 ¿Qué intereses tienes?
 ----------------------
@@ -202,45 +187,30 @@ Live long and Prosper.
 .. _Gustavo Picón: https://tabo.pe/
 .. _Ingeniero de Software:
     https://secure.wikimedia.org/wikipedia/en/wiki/Software_engineer
-.. _la universidad: http://www.ulima.edu.pe/
-.. _CIP: http://www.cip.org.pe/
-.. _Peter Principle:
-    https://secure.wikimedia.org/wikipedia/en/wiki/Peter_Principle
-.. _Aureal: http://aureal.pe/
+.. _YouGov: http://www.yougov.com/
 .. _Mercurial: http://mercurial.selenic.com/
+.. _SourceTree: http://www.sourcetreeapp.com
 .. _PEP 8: http://www.python.org/dev/peps/pep-0008/
 .. _TDD:
     https://secure.wikimedia.org/wikipedia/en/wiki/Test-driven_development
 .. _code y branch coverage: http://nedbatchelder.com/code/coverage/
 .. _Macbook Pro: http://www.apple.com/macbookpro/
-.. _iPhone 4s: http://www.apple.com/iphone/
-.. _iPad: http://www.apple.com/ipad/
 .. _OS X: http://www.apple.com/macosx/
 .. _iOS: http://www.apple.com/ios/
-.. _FreeBSD: http://www.apple.com/macosx/server/
 .. _Ubuntu LTS: http://www.ubuntu.com/
-.. _macvim: http://code.google.com/p/macvim/
-.. _Mi editor: http://code.google.com/p/macvim/
+.. _PyCharm: http://www.jetbrains.com/pycharm/
+.. _IdeaVim: https://github.com/JetBrains/ideavim
+.. _Vim: http://www.vim.org
 .. _tcsh: http://www.tcsh.org/
 .. _bash: http://tiswww.case.edu/php/chet/bash/bashtop.html
 .. _virtualenv: http://www.virtualenv.org/
 .. _pip: http://www.pip-installer.org/
-.. _MySQL: http://www.mysql.com/
 .. _PostgreSQL: http://www.postgresql.org/
-.. _redis: http://redis.io/
 .. _mongoDB: http://www.mongodb.org/
-.. _Safari: http://www.apple.com/safari/
-.. _Apple Mail+iCal:
-    http://www.apple.com/macosx/what-is-macosx/mail-ical-address-book.html
-.. _Inbox 0: http://inboxzero.com/
-.. _iTunes: http://www.apple.com/itunes/
-.. _The Beatles: http://www.apple.com/the-beatles/
-.. _Time Machine:
-    http://www.apple.com/macosx/what-is-macosx/time-machine.html
-.. _Time Capsule: http://www.apple.com/timecapsule/
-.. _Adium: http://adium.im/
-.. _Omnifocus: http://www.omnigroup.com/products/omnifocus/
-.. _Concentrate: http://getconcentrating.com/
+.. _MongoHub: http://mongohub.todayclose.com
+.. _Navicat Premium:
+   http://www.navicat.com/en/products/navicat_premium/premium_detail_mac.html
+.. _Clean Coders: http://www.cleancoders.com
 .. _feedjack: http://www.feedjack.org/
 .. _numconv: https://tabo.pe/projects/numconv/
 .. _tagtools: https://tabo.pe/projects/tagtools/
@@ -248,18 +218,22 @@ Live long and Prosper.
 .. _django-taggable: https://tabo.pe/projects/django-taggable/
 .. _Invent Your Own Computer Games with Python:
    http://inventwithpython.com/
+.. _Pycon: https://us.pycon.org
+.. _compañero de trabajo: http://archlinux.me/dusty/about-2/
+.. _Git: http://git-scm.com
 .. _reddit: http://www.reddit.com/
 .. _Planescape: http://en.wikipedia.org/wiki/Planescape
 .. _telecommuting: https://en.wikipedia.org/wiki/Telecommuting
 .. _Trabajo desde mi casa: http://theoatmeal.com/comics/working_home
 .. _flake8: http://pypi.python.org/pypi/flake8/
-.. _mi data center: http://www.flickr.com/photos/gpicon/sets/72157626682788319/
+.. _un data center: http://www.flickr.com/photos/gpicon/sets/72157626682788319/
 .. _hackintosh: http://tonymacx86.blogspot.com/
-.. _dos discos SSD: http://eshop.macsales.com/shop/SSD/OWC/Mercury_Extreme_Pro_6G/
-.. _Ultrasharp de 27": http://reviews.cnet.com/lcd-monitors/dell-ultrasharp-u2711/4505-3174_7-33913833.html
+.. _Ultrasharp de 27":
+   http://reviews.cnet.com/lcd-monitors/dell-ultrasharp-u2711/4505-3174_7-33913833.html
 .. _Model M: https://en.wikipedia.org/wiki/Model_M_keyboard
-.. _Poker KBC con Cherry MX Blue: http://www.flickr.com/photos/gpicon/6863028614/
+.. _Poker KBC con Cherry MX Blue:
+   http://www.flickr.com/photos/gpicon/6863028614/
 .. _Django: https://www.djangoproject.com/
 .. _CherryPy: http://www.cherrypy.org/
-.. _Linkinus: http://conceitedsoftware.com/products/linkinus
+.. _Textual: http://codeux.com/textual/
 .. _OS X Server: http://www.apple.com/osx/server/
