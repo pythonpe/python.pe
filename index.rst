@@ -21,6 +21,10 @@ Reunión Noviembre 2012
 * Local: Calle Bolivar 151 dpto 901. Miraflores
 * Hora: 19:00
 
+.. image:: _static/media/localreunion23nov2012.png
+   :width: 300px
+   :height: 300px
+
 * Estado: Pendiente
 
 
