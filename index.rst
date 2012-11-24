@@ -6,14 +6,6 @@ Comunidad de Usuarios de Python en Perú
    :height: 174px
 
 
-
-Colabora con:
--------------
-
-:doc:`plan_estrategico`
-
-:doc:`material_difusion`
-
 Reunión Noviembre 2012
 --------------------------
 
