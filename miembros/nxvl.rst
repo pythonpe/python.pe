@@ -3,12 +3,12 @@ Nicolas Valcárcel
 
 .. raw:: html
 
-  <a href="http://www.flickr.com/photos/nxvl/4638821349/"
-     title="@ Canonical HQ - Londres by nxvl, on Flickr">
-    <img src="http://farm5.static.flickr.com/4072/4638821349_dcc99a453b.jpg"
+  <a href="http://www.flickr.com/photos/nxvl/8227350578/"
+     title="Untitled by nxvl, on Flickr">
+    <img src="http://farm9.staticflickr.com/8201/8227350578_57547150c2.jpg"
          width="375"
          height="500"
-         alt="@ Canonical HQ - Londres" />
+         alt="Untitled">
   </a>
 
 :nombre: Nicolas Valcárcel
@@ -27,9 +27,9 @@ Contribui en `Ubuntu`_ desde el 2007, donde fui `MOTU`_ del 2008 al 2012, cuando
 
 Soy co-fundador y CTO en `B2C Corp S.A.C.`_ donde hacemos desarrollos en Django.
 
-Trabajo haciendo `telecommuting`_ para `Talent Trust`_ como python developer, asignado a `Ampush`_ donde soy generalista, programando en Django, administrando los servidores, bases de datos, etc...
+Trabajo haciendo `telecommuting`_ para `Juju, Inc.`_ como `DevOps`_.
 
-Trabaje para `Canonical`_ como ingeniero de seguridad en el equipo de infraestructura de soluciones OEM, donde ademas contribuyo desarrollando applicaciones para facilitar el trabajo de los ingenieros del area.
+Trabaje para `Talent Trust`_ como python developer, asignado a `Ampush`_ donde soy generalista, programando en Django, administrando los servidores, bases de datos, etc... y `Canonical`_ como ingeniero de seguridad en el equipo de infraestructura de soluciones OEM, donde ademas contribuyo desarrollando applicaciones para facilitar el trabajo de los ingenieros del area.
 
 Tambien `contribuyo`_ a `debian`_
 
@@ -82,6 +82,13 @@ En mi tiempo libre de comun mortal entreno `Krav Maga`_, intento ir al gimnasio,
          width="500"
          height="333"
          alt="IMG_2884" />
+  </a>
+  <a href="http://www.flickr.com/photos/nxvl/5941266164/"
+     title="IMG_1664 by nxvl, on Flickr">
+    <img src="http://farm7.staticflickr.com/6146/5941266164_97cd575632.jpg"
+         width="375"
+         height="500"
+         alt="IMG_1664">
   </a>
 
 En mi tiempo libre de Geek sigo programado y contribuyo arreglando los bugs que me molestan en los programas que uso, leyendo sobre seguridad informatica y desarrollo de software.
@@ -136,3 +143,5 @@ To infinity and beyond!
 .. _Django-transactional: http://pypi.python.org/pypi/Django-transactional
 .. _telecommuting: https://en.wikipedia.org/wiki/Telecommuting
 .. _iTunes: http://www.apple.com/itunes/
+.. _Juju, Inc.: http://www.juju.com
+.. _DevOps: http://en.wikipedia.org/wiki/DevOps
