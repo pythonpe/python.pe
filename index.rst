@@ -6,18 +6,15 @@ Comunidad de Usuarios de Python en Perú
    :height: 174px
 
 
-Reunión Noviembre 2012
---------------------------
+PyDay Diciembre 2012
+--------------------
 
-* Día: Viernes 23
-* Local: Calle Bolivar 151 dpto 901. Miraflores
-* Hora: 19:00
+* Día: Sábado 15 de Diciembre
+* Hora: De 9am a 5pm
+* Local: `PUCP`_ Aula Z412
+* Contacto: Rosa María Orellana
 
-.. image:: _static/media/localreunion23nov2012.png
-   :width: 300px
-   :height: 300px
-
-* Estado: Pendiente
+.. image:: http://i.imgur.com/aCOAQ.png
 
 
 Únete
@@ -56,5 +53,4 @@ Aprende
 .. _archivos: http://groups.google.com/group/python-peru/topics
 .. _#python.pe: http://webchat.freenode.net/?channels=python.pe
 .. _Python: http://www.python.org/
-
-
+.. _PUCP: http://www.pucp.edu.pe/
