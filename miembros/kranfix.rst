@@ -9,22 +9,25 @@ Frank Moreno
 :linkedin: http://www.linkedin.com/in/kranfix
 :twitter: `@kranfix <http://twitter.com/kranfix>`_
 :google plus: https://plus.google.com/u/0/110028286585464918505/posts
-:facebook: http://facebook.com/kranfox
+:facebook: http://facebook.com/kranfix
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
 Estudio ingeniería electrónica en la Universidad Nacional de Ingeniería,
-egreso en diciembre del 2013 y caí en la programación por ser entretenido
-empezando con java siguido por assembler, algo de arduino y actualmente
-python y no es necesario decir que me enamoré de la sintaxis.
+egreso en diciembre del 2013 y caí en la programación por ser entretenido.
+Empezando usando php como experimentando en el 2003 y dejé de codear hasta
+el 2010 que empezé a probar java, luego, por el echo de estudiar
+ing. electrónica, aprendí assembler para cierto tipo de arquitecturas,
+seguido de arduino y en la actualidad uso C/C++, Octave(MatLab) y sobretodo 
+python, y no es necesario decir que me enamoré de la sintaxis.
 
 ¿Cómo programas en Python?
 --------------------------
 Inicialmente usaba gedit para codear, sin embargo, me aburri de usarlo y
-pasé a nano y como era muy parecido a gedit no había gran diferencia así que
-actualemte programa en vim por lo simple que es usarlo, aunque confieso que
-intenté usar eclipce con pydev y terminé aburriendome más rápido que con
-gedit (solo duré horas u.u).
+pasé a GNU Nano y como era muy parecido a gedit no había gran diferencia.
+Seguí probrando editores de texto y terminé usando VIM por lo simple que es
+usarlo. Cabe resalta que tambien pasé por Eclipse con PyDev y también
+Ninja IDE, pero por cuestiones de gustos personales me quedé con VIM.
 
 ¿Qué hardware y software usas?
 ------------------------------
@@ -38,8 +41,11 @@ grocería).
 
 ¿Qué software/productos has publicado?
 --------------------------------------
-Aún no he publicado ninguno por diversos motivos pero pronto estaré publicando algunos códigos de fuente,  he trabajado sobre MatLab para filtros
-electrónicos, assembler para controladores electrónicos y actualmente estoy trabajando en AI en medicina en c++ y python y esté se publicará pronto.
+Aún no he publicado ninguno por diversos motivos pero pronto estaré
+publicando algunos códigos de fuente,  he trabajado sobre MatLab para
+filtros electrónicos, assembler para controladores electrónicos y
+actualmente estoy trabajando en AI en medicina en c++ y python y esté se
+publicará pronto.
 
 ¿Qué intereses tienes?
 ----------------------
