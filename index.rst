@@ -6,17 +6,6 @@ Comunidad de Usuarios de Python en Perú
    :height: 174px
 
 
-PyDay Diciembre 2012
---------------------
-
-* Día: Sábado 15 de Diciembre
-* Hora: De 9am a 5pm
-* Local: `PUCP`_ Aula Z412
-* Contacto: Rosa María Orellana
-
-.. image:: http://i.imgur.com/aCOAQ.png
-
-
 Únete
 -----
 
