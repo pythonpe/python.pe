@@ -13,11 +13,11 @@ Frank Moreno
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
-Estudio ingeniería electrónica en la Universidad Nacional de Ingeniería,
-egreso en diciembre del 2013 y caí en la programación por ser entretenido.
-Empezando usando php como experimentando en el 2003 y dejé de codear hasta
-el 2010 que empezé a probar java, luego, por el echo de estudiar
-ing. electrónica, aprendí assembler para cierto tipo de arquitecturas,
+Estudio ingeniería electrónica en la Universidad Nacional de Ingeniería
+(UNI), egreso en diciembre del 2013 y caí en la programación por ser
+entretenido empezando por php como experimentando en el 2003 y dejé de
+codear hasta el 2010 que empezé a probar java, luego aprendí assembler por
+el mismo echo que estudio lo que estudio para cierto tipo de arquitecturas,
 seguido de arduino y en la actualidad uso C/C++, Octave(MatLab) y sobretodo 
 python, y no es necesario decir que me enamoré de la sintaxis.
 
@@ -57,7 +57,7 @@ aprender y seguir difundiendo.
 --------------------------------
 Por el momento sí, pero me gusta más poder trabajar a distancia ya que no
 me gusta perder mucho tiempo en viajes y sobre todo tiene que ser con
-tecnologías libres
+tecnologías libres.
 
 ¿Estás disponible para hacer consultorías?
 ------------------------------------------
