@@ -7,9 +7,9 @@ Frank Moreno
 :bitbucket: https://bitbucket.org/kranfix
 :github: https://github.com/kranfix
 :linkedin: http://www.linkedin.com/in/kranfix
-:twitter: `@kranfix <http://twitter.com/kranfix>`
+:twitter: `@kranfix`_
 :google plus: https://plus.google.com/u/0/110028286585464918505/posts
-:facebook: http://facebook.com/kranfix
+:facebook: http://fb.me/kranfix
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
@@ -18,7 +18,8 @@ Estudio ingeniería electrónica en la Universidad Nacional de Ingeniería
 entretenido empezando por php como experimentando en el 2003 y dejé de
 codear hasta el 2010 que empezé a probar java, luego aprendí assembler por
 el mismo echo que estudio lo que estudio para cierto tipo de arquitecturas,
-seguido de arduino y en la actualidad uso C/C++, Octave(MatLab) y python.
+seguido de arduino y en la actualidad uso C/C++, VHDL, Octave(MatLab) y
+python.
 
 ¿Cómo programas en Python?
 --------------------------
@@ -30,21 +31,17 @@ Ninja IDE, pero por cuestiones de gustos personales me quedé con VIM.
 
 ¿Qué hardware y software usas?
 ------------------------------
-Uso una laptop HP modelo industrial (las de entretenimiento son una
-desgracia) y me gusta formatearla cada vez que tengo tiempo libre para
-probar nuevas distros de linux. Si bien soy usuario de Archlinux y
-recientemente de LinuxMint (ambas distros conviven en mi laptop) a veces
-por cuestión de tener que presentar trabajos en la universidad, con mucho
-dolor abro una VM para ejecutar algunos sofware en Windows(disculpen por la
-grocería).
+Hardware:
+  - Compaq Presario CQ43, Core i5
+
+Software:
+  - Sistemas Operativos: Fedora, Ubuntu, Linux Mint, ArchLinux
+  - Entorno gráfico: Gnome 3
+  - Control de versiones: Git y Mercurial
 
 ¿Qué software/productos has publicado?
 --------------------------------------
-Aún no he publicado ninguno por diversos motivos pero pronto estaré
-publicando algunos códigos de fuente,  he trabajado sobre MatLab para
-filtros electrónicos, assembler para controladores electrónicos y
-actualmente estoy trabajando en AI en medicina en c++ y python y esté se
-publicará pronto.
+Hasta el momento ninguno.
 
 ¿Qué intereses tienes?
 ----------------------
@@ -66,10 +63,9 @@ Si se da la oportunidad ¿Por qué no?
 ----------------------------------------------
 Siempre que el tiempo me lo permita.
 
-¿Algo más?
+¿Algo más'
 ----------
-* Soy muy sociable la mayoría del tiempo, pero como se intuirá a veces no lo
-  soy.
+Para programar en C/C++ uso Qtcreator o Eclipse, pero me inclino más por el
+primero. Cuando los códigos son muy simples prefiero usar VIM.
 
-* Detesto la ciudad ya que prefiero ir a acampar y si es así me gusta que
-  sea desconectandome de todo.
+.. _@kranfix: <http://twitter.com/kranfix> 
