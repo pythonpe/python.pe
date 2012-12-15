@@ -7,7 +7,7 @@ Frank Moreno
 :bitbucket: https://bitbucket.org/kranfix
 :github: https://github.com/kranfix
 :linkedin: http://www.linkedin.com/in/kranfix
-:twitter: `@kranfix <http://twitter.com/kranfix>`_
+:twitter: `@kranfix <http://twitter.com/kranfix>`
 :google plus: https://plus.google.com/u/0/110028286585464918505/posts
 :facebook: http://facebook.com/kranfix
 
@@ -18,8 +18,7 @@ Estudio ingeniería electrónica en la Universidad Nacional de Ingeniería
 entretenido empezando por php como experimentando en el 2003 y dejé de
 codear hasta el 2010 que empezé a probar java, luego aprendí assembler por
 el mismo echo que estudio lo que estudio para cierto tipo de arquitecturas,
-seguido de arduino y en la actualidad uso C/C++, Octave(MatLab) y sobretodo 
-python, y no es necesario decir que me enamoré de la sintaxis.
+seguido de arduino y en la actualidad uso C/C++, Octave(MatLab) y python.
 
 ¿Cómo programas en Python?
 --------------------------
