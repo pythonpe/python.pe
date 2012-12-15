@@ -1,6 +1,17 @@
 Frank Moreno
 ============
 
+
+.. raw:: html
+
+    <a href="http://www.flickr.com/photos/aldegaz/57280085/"
+        title="Fortaleza by alfredodeza, on Gravatar">
+        <img src="https://en.gravatar.com/userimage/33078272/93066c7beee8b7fe33c31eb37efd1527.jpg?size=200"
+            width="375"
+            height="500"
+            alt="Fortaleza, Brasil">
+    </a>
+
 :nombre: Frank Moreno
 :aliases: kranfix
 :ciudad: Lima, Peru
@@ -37,6 +48,9 @@ Hardware:
 Software:
   - Sistemas Operativos: Fedora, Ubuntu, Linux Mint, ArchLinux
   - Entorno gráfico: Gnome 3
+  - Lenguajes: C/C++, VHDL, Octave, MatLab, Python.
+  - IDEs: Eclipse, Qtcreator
+  - Editores: VIM, Gedit.
   - Control de versiones: Git y Mercurial
 
 ¿Qué software/productos has publicado?
