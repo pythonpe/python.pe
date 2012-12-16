@@ -4,11 +4,11 @@ Frank Moreno
 
 .. raw:: html
 
-    <a href="http://www.flickr.com/photos/aldegaz/57280085/"
+    <a href="https://plus.google.com/u/0/110028286585464918505/posts"
         title="Fortaleza by alfredodeza, on Gravatar">
         <img src="https://en.gravatar.com/userimage/33078272/93066c7beee8b7fe33c31eb37efd1527.jpg?size=200"
-            width="375"
-            height="500"
+            width="250"
+            height="250"
             alt="Fortaleza, Brasil">
     </a>
 
@@ -77,7 +77,7 @@ Si se da la oportunidad ¿Por qué no?
 ----------------------------------------------
 Siempre que el tiempo me lo permita.
 
-¿Algo más'
+¿Algo más?
 ----------
 Para programar en C/C++ uso Qtcreator o Eclipse, pero me inclino más por el
 primero. Cuando los códigos son muy simples prefiero usar VIM.
