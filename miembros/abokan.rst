@@ -82,7 +82,7 @@ Podría darme un tiempo.
 ¿Algo más?
 ----------
 
-Se contar chistes \o/.
+Se contar chistes \\o/.
 
 
 .. _BitZeppelin: http://bitzeppelin.com/
