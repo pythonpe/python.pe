@@ -97,18 +97,16 @@ Me gano la vida aplastando teclas, así que soy
 bastante exquisito en el uso de teclados.
 Tengo mas de una docena de `Model M`_ y varios
 otros con switches Cherry MX. Mi actual favorito
-es el `Poker KBC con Cherry MX Blue`_, que cargo
-conmigo hasta cuando uso la laptop.
+es el `Filco Ninja Majestouch-2`_ con switch Cherry
+MX Blue.
 
 .. raw:: html
 
-  <a href="http://www.flickr.com/photos/gpicon/7983513378/"
-     title="KBC Poker keyboard (Cherry MX Blue) with blank white key caps">
-    <img src="http://farm9.staticflickr.com/8443/7983513378_c0457b60d3.jpg"
-         width="500"
-         height="331"
-         alt="KBC Poker keyboard (Cherry MX Blue) with blank white key caps" />
-  </a>
+    <a href="http://www.flickr.com/photos/gpicon/8295081630/"
+     title="Filco Ninja Majestouch-2 (Cherry MX Blue) by gustavopicon">
+     <img src="http://farm9.staticflickr.com/8493/8295081630_f7a22c8c8b.jpg"
+      width="500" height="331" alt="Filco Ninja Majestouch-2 (Cherry MX Blue)">
+    </a>
 
 Software que uso a diario:
 
@@ -117,7 +115,7 @@ Software que uso a diario:
    `OS X Server`_ en servers personales (python.pe por ejemplo
    corre en Mountain Lion Server),
    y `Ubuntu LTS`_ en servers de la chamba.
- - $EDITOR: `PyCharm`_ con `IdeaVim`_
+ - $EDITOR: `PyCharm`_
  - $SHELL: `bash`_ (aunque extraño `tcsh`_)
  - Web Framework: `CherryPy`_
  - Control de versiones: `SourceTree`_ para `Mercurial`_
@@ -199,7 +197,6 @@ Live long and Prosper.
 .. _iOS: http://www.apple.com/ios/
 .. _Ubuntu LTS: http://www.ubuntu.com/
 .. _PyCharm: http://www.jetbrains.com/pycharm/
-.. _IdeaVim: https://github.com/JetBrains/ideavim
 .. _Vim: http://www.vim.org
 .. _tcsh: http://www.tcsh.org/
 .. _bash: http://tiswww.case.edu/php/chet/bash/bashtop.html
@@ -231,8 +228,8 @@ Live long and Prosper.
 .. _Ultrasharp de 27":
    http://reviews.cnet.com/lcd-monitors/dell-ultrasharp-u2711/4505-3174_7-33913833.html
 .. _Model M: https://en.wikipedia.org/wiki/Model_M_keyboard
-.. _Poker KBC con Cherry MX Blue:
-   http://www.flickr.com/photos/gpicon/6863028614/
+.. _Filco Ninja Majestouch-2:
+   http://www.flickr.com/photos/gpicon/8295081630/in/photostream/
 .. _Django: https://www.djangoproject.com/
 .. _CherryPy: http://www.cherrypy.org/
 .. _Textual: http://codeux.com/textual/
