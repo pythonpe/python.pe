@@ -29,13 +29,13 @@ Soy co-fundador y CTO en `B2C Corp S.A.C.`_ donde hacemos desarrollos en Django.
 
 Trabajo haciendo `telecommuting`_ para `Juju, Inc.`_ como `DevOps`_.
 
-Trabaje para `Talent Trust`_ como python developer, asignado a `Ampush`_ donde soy generalista, programando en Django, administrando los servidores, bases de datos, etc... y `Canonical`_ como ingeniero de seguridad en el equipo de infraestructura de soluciones OEM, donde ademas contribuyo desarrollando applicaciones para facilitar el trabajo de los ingenieros del area.
+Trabaje para `Talent Trust`_ como python developer, asignado a `Ampush`_ donde fui generalista, programando en Django, administrando los servidores, bases de datos, etc... y `Canonical`_ como ingeniero de seguridad en el equipo de infraestructura de soluciones OEM, donde ademas contribui desarrollando applicaciones para facilitar el trabajo de los ingenieros del area.
 
 Tambien `contribuyo`_ a `debian`_
 
 ¿Cómo programas en Python?
 --------------------------
-Con `VIM`_, obviamente.
+Con `PyCharm`_, no entiendo como desperdiciaba tanto tiempo cuando no lo conocia...
 
 ¿Qué hardware y software usas?
 ------------------------------
@@ -72,7 +72,7 @@ Software que uso diario:
 ¿Qué intereses tienes?
 ----------------------
 
-En mi tiempo libre de comun mortal entreno `Krav Maga`_, intento ir al gimnasio, corro tabla y practico IPSC.
+En mi tiempo libre de comun mortal entrenaba `Krav Maga`_ (espero retomarlo cuando tenga algo mas de tiempo), corro tabla y practico IPSC.
 
 .. raw:: html
 
@@ -145,3 +145,4 @@ To infinity and beyond!
 .. _iTunes: http://www.apple.com/itunes/
 .. _Juju, Inc.: http://www.juju.com
 .. _DevOps: http://en.wikipedia.org/wiki/DevOps
+.. _PyCharm: http://www.jetbrains.com/pycharm/
