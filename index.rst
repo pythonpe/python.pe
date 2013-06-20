@@ -6,32 +6,6 @@ Comunidad de Usuarios de Python en Perú
    :height: 174px
 
 
-Reunión Marzo 2013
-------------------
-
-* Día: Lunes 25
-* Local: Calle Bolivar 151 dpto 901. Miraflores
-* Hora: 19:00
-* Expositor: Alfredo Deza
-
-.. image:: _static/media/localreunion23nov2012.png
-   :width: 300px
-   :height: 300px
-
-
-Reunión Enero 2013
-------------------
-
-* Día: Jueves 24
-* Local: Calle Bolivar 151 dpto 901. Miraflores
-* Hora: 19:00
-* Expositor: Gustavo Picon
-
-.. image:: _static/media/localreunion23nov2012.png
-   :width: 300px
-   :height: 300px
-
-
 Únete
 -----
 
