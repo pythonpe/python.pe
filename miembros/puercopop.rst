@@ -15,22 +15,22 @@ Javier Olaechea
 :twitter: `@PuercoPop <http://twitter.com/PuercoPop>`
 
 ¿Quién eres y a qué te dedicas?
-----
+-------------------------------
 Soy un troll y como tal, me dedico a trollear. Cuando no trolleo, trabajo en `Lúcuma Labs <http://lucumalabs.com>`.
 
 ¿Qué hardware y software usas?
-----
+------------------------------
 Hardware: MacBook Pro
 Software: Emacs, Chrome, Git.
 
 ¿Qué intereses tienes?
-----
+----------------------
 Me interesa data-driven politics,
 
 ¿Estás disponible para trabajar? ¿Estás disponible para hacer consultorías? ¿Estás disponible para dar charlas en eventos?
------
+--------------------------------------------------------------------------------------------------------------------------
 Siempre estoy abierto a las oportunidades
 
 ¿Algo más?
-----
+----------
 Algún día espero dominar Common Lisp. En un futuro más cercano, aprender lo suficiente de compiladores/parsers y lexers para aprovechar `OMeta <http://tinlizzie.org/ometa/>`

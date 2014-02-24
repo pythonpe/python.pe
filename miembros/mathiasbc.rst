@@ -1,5 +1,5 @@
 Mathias Bustamante
-===============
+==================
 
 :nombre: Mathias Bustamante
 :aliases: PeperoniPizza, mathiasbc
