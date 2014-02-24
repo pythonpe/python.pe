@@ -30,8 +30,10 @@ Soy `Gustavo Picón`_. Trabajo como
 `Ingeniero de Software`_ remoto en `YouGov`_,
 una empresa que tiene un stack de tecnología
 bastante variado basado en Python. En `YouGov`_
-trabajo junto a otros miembros de Python Perú:
-:doc:`/miembros/jj`, :doc:`/miembros/xbito`, y
+trabajo con :doc:`/miembros/xbito. Otros
+miembros de Python Perú que han trabajado
+conmigo en YouGov son
+:doc:`/miembros/jj`, y
 :doc:`/miembros/alfredodeza`.
 
 Llevo años haciendo `telecommuting`_ a empresas de
