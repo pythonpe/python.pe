@@ -102,13 +102,6 @@ otros con switches Cherry MX. Mi actual favorito
 es el `Filco Ninja Majestouch-2`_ con switch Cherry
 MX Blue.
 
-.. raw:: html
-
-    <a href="http://www.flickr.com/photos/gpicon/8295081630/"
-     title="Filco Ninja Majestouch-2 (Cherry MX Blue) by gustavopicon">
-     <img src="http://farm9.staticflickr.com/8493/8295081630_f7a22c8c8b.jpg"
-      width="500" height="331" alt="Filco Ninja Majestouch-2 (Cherry MX Blue)">
-    </a>
 
 Software que uso a diario:
 
@@ -122,7 +115,7 @@ Software que uso a diario:
  - Web Framework: `CherryPy`_
  - Control de versiones: `SourceTree`_ para `Mercurial`_
  - Base de datos: `Navicat Premium`_ para `PostgreSQL`_ y
-   `MongoHub`_ para `mongoDB`_.
+   `RoboMongo`_ para `mongoDB`_.
 
 ¿Qué software/productos has publicado?
 --------------------------------------
@@ -143,6 +136,15 @@ Solo listo software open source escrito en Python:
    Flickr (FlickrSerializer), Delicious (DeliciousSerializer) and tag
    separation with commas (CommaSerializer). Handles customizable
    per-tag normalization to avoid tag duplicates.
+ - `dynpool`_: Python library that handles the growing and shrinking of
+   a pool of resources depending on usage patterns.
+
+Adicionalmente, soy core developer de los siguientes proyectos:
+
+ - `CherryPy_`: a Pythonic, Object-Oriented Web Framework.
+ - `MagicBus_`: A library for state machines that publish
+   each transition.
+ - `Cheroot_`: A highly-optimized, pure-python HTTP server.
 
 ¿Qué intereses tienes?
 ----------------------
@@ -209,10 +211,13 @@ Live long and Prosper.
 .. _MongoHub: http://mongohub.todayclose.com
 .. _Navicat Premium:
    http://www.navicat.com/en/products/navicat_premium/premium_detail_mac.html
+.. _RoboMongo:
+   http://robomongo.org
 .. _Clean Coders: http://www.cleancoders.com
 .. _feedjack: http://www.feedjack.org/
 .. _numconv: https://tabo.pe/projects/numconv/
 .. _tagtools: https://tabo.pe/projects/tagtools/
+.. _dynpool: https://tabo.pe/projects/dynpool/
 .. _django-treebeard: https://tabo.pe/projects/django-treebeard/
 .. _django-taggable: https://tabo.pe/projects/django-taggable/
 .. _Invent Your Own Computer Games with Python:
@@ -234,5 +239,7 @@ Live long and Prosper.
    http://www.flickr.com/photos/gpicon/8295081630/in/photostream/
 .. _Django: https://www.djangoproject.com/
 .. _CherryPy: http://www.cherrypy.org/
+.. _MagicBus: https://pypi.python.org/pypi/MagicBus
+.. _Cheroot: https://pypi.python.org/pypi/Cheroot
 .. _Textual: http://codeux.com/textual/
 .. _OS X Server: http://www.apple.com/osx/server/
