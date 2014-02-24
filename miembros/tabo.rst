@@ -30,7 +30,7 @@ Soy `Gustavo Picón`_. Trabajo como
 `Ingeniero de Software`_ remoto en `YouGov`_,
 una empresa que tiene un stack de tecnología
 bastante variado basado en Python. En `YouGov`_
-trabajo con :doc:`/miembros/xbito. Otros
+trabajo con :doc:`/miembros/xbito`. Otros
 miembros de Python Perú que han trabajado
 conmigo en YouGov son
 :doc:`/miembros/jj`, y
@@ -141,10 +141,10 @@ Solo listo software open source escrito en Python:
 
 Adicionalmente, soy core developer de los siguientes proyectos:
 
- - `CherryPy_`: a Pythonic, Object-Oriented Web Framework.
- - `MagicBus_`: A library for state machines that publish
+ - `CherryPy`_: a Pythonic, Object-Oriented Web Framework.
+ - `MagicBus`_: A library for state machines that publish
    each transition.
- - `Cheroot_`: A highly-optimized, pure-python HTTP server.
+ - `Cheroot`_: A highly-optimized, pure-python HTTP server.
 
 ¿Qué intereses tienes?
 ----------------------
