@@ -37,7 +37,7 @@ Aprende
    miembros/index
 
 
- 
+
 .. _lista de correo: http://groups.google.com/group/python-peru/subscribe
 .. _archivos: http://groups.google.com/group/python-peru/topics
 .. _#python.pe: http://webchat.freenode.net/?channels=python.pe

@@ -30,8 +30,10 @@ Soy `Gustavo Picón`_. Trabajo como
 `Ingeniero de Software`_ remoto en `YouGov`_,
 una empresa que tiene un stack de tecnología
 bastante variado basado en Python. En `YouGov`_
-trabajo junto a otros miembros de Python Perú:
-:doc:`/miembros/jj`, :doc:`/miembros/xbito`, y
+trabajo con :doc:`/miembros/xbito`. Otros
+miembros de Python Perú que han trabajado
+conmigo en YouGov son
+:doc:`/miembros/jj`, y
 :doc:`/miembros/alfredodeza`.
 
 Llevo años haciendo `telecommuting`_ a empresas de
@@ -97,18 +99,9 @@ Me gano la vida aplastando teclas, así que soy
 bastante exquisito en el uso de teclados.
 Tengo mas de una docena de `Model M`_ y varios
 otros con switches Cherry MX. Mi actual favorito
-es el `Poker KBC con Cherry MX Blue`_, que cargo
-conmigo hasta cuando uso la laptop.
+es el `Filco Ninja Majestouch-2`_ con switch Cherry
+MX Blue.
 
-.. raw:: html
-
-  <a href="http://www.flickr.com/photos/gpicon/7983513378/"
-     title="KBC Poker keyboard (Cherry MX Blue) with blank white key caps">
-    <img src="http://farm9.staticflickr.com/8443/7983513378_c0457b60d3.jpg"
-         width="500"
-         height="331"
-         alt="KBC Poker keyboard (Cherry MX Blue) with blank white key caps" />
-  </a>
 
 Software que uso a diario:
 
@@ -117,12 +110,12 @@ Software que uso a diario:
    `OS X Server`_ en servers personales (python.pe por ejemplo
    corre en Mountain Lion Server),
    y `Ubuntu LTS`_ en servers de la chamba.
- - $EDITOR: `PyCharm`_ con `IdeaVim`_
+ - $EDITOR: `PyCharm`_
  - $SHELL: `bash`_ (aunque extraño `tcsh`_)
  - Web Framework: `CherryPy`_
  - Control de versiones: `SourceTree`_ para `Mercurial`_
  - Base de datos: `Navicat Premium`_ para `PostgreSQL`_ y
-   `MongoHub`_ para `mongoDB`_.
+   `RoboMongo`_ para `mongoDB`_.
 
 ¿Qué software/productos has publicado?
 --------------------------------------
@@ -143,6 +136,15 @@ Solo listo software open source escrito en Python:
    Flickr (FlickrSerializer), Delicious (DeliciousSerializer) and tag
    separation with commas (CommaSerializer). Handles customizable
    per-tag normalization to avoid tag duplicates.
+ - `dynpool`_: Python library that handles the growing and shrinking of
+   a pool of resources depending on usage patterns.
+
+Adicionalmente, soy core developer de los siguientes proyectos:
+
+ - `CherryPy`_: a Pythonic, Object-Oriented Web Framework.
+ - `MagicBus`_: A library for state machines that publish
+   each transition.
+ - `Cheroot`_: A highly-optimized, pure-python HTTP server.
 
 ¿Qué intereses tienes?
 ----------------------
@@ -199,7 +201,6 @@ Live long and Prosper.
 .. _iOS: http://www.apple.com/ios/
 .. _Ubuntu LTS: http://www.ubuntu.com/
 .. _PyCharm: http://www.jetbrains.com/pycharm/
-.. _IdeaVim: https://github.com/JetBrains/ideavim
 .. _Vim: http://www.vim.org
 .. _tcsh: http://www.tcsh.org/
 .. _bash: http://tiswww.case.edu/php/chet/bash/bashtop.html
@@ -210,10 +211,13 @@ Live long and Prosper.
 .. _MongoHub: http://mongohub.todayclose.com
 .. _Navicat Premium:
    http://www.navicat.com/en/products/navicat_premium/premium_detail_mac.html
+.. _RoboMongo:
+   http://robomongo.org
 .. _Clean Coders: http://www.cleancoders.com
 .. _feedjack: http://www.feedjack.org/
 .. _numconv: https://tabo.pe/projects/numconv/
 .. _tagtools: https://tabo.pe/projects/tagtools/
+.. _dynpool: https://tabo.pe/projects/dynpool/
 .. _django-treebeard: https://tabo.pe/projects/django-treebeard/
 .. _django-taggable: https://tabo.pe/projects/django-taggable/
 .. _Invent Your Own Computer Games with Python:
@@ -231,9 +235,11 @@ Live long and Prosper.
 .. _Ultrasharp de 27":
    http://reviews.cnet.com/lcd-monitors/dell-ultrasharp-u2711/4505-3174_7-33913833.html
 .. _Model M: https://en.wikipedia.org/wiki/Model_M_keyboard
-.. _Poker KBC con Cherry MX Blue:
-   http://www.flickr.com/photos/gpicon/6863028614/
+.. _Filco Ninja Majestouch-2:
+   http://www.flickr.com/photos/gpicon/8295081630/in/photostream/
 .. _Django: https://www.djangoproject.com/
 .. _CherryPy: http://www.cherrypy.org/
+.. _MagicBus: https://pypi.python.org/pypi/MagicBus
+.. _Cheroot: https://pypi.python.org/pypi/Cheroot
 .. _Textual: http://codeux.com/textual/
 .. _OS X Server: http://www.apple.com/osx/server/
