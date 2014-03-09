@@ -11,7 +11,7 @@ Moisés Cachay
 :nombre: Moisés Cachay Tello
 :aliases: Xp'ktro, SpartanWarrior
 :ciudad: Lima
-:homepage: https://www.xpktro.com/
+:homepage: http://www.xpktro.com/
 :bitbucket: https://bitbucket.org/xpktro
 :github: https://github.com/xpktro
 :linkedin: http://www.linkedin.com/pub/mois%C3%A9s-gabriel-cachay-tello/2a/835/182
