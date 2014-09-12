@@ -20,11 +20,18 @@ Contribuye
 Todos son bienvenidos a contribuir con la página, fíjate cómo puedes empezar
 ya en la sección de :doc:`faq`.
 
+Reuniones
+----------
+.. toctree::
+    :glob:
+    :titlesonly:
+
+    meetups/*
 
 Aprende
 -------
 
-* Tenemos :doc:`presentaciones` y doc:`recetario`
+* Tenemos :doc:`presentaciones` y :doc:`recetario`
 * Además en la sección :doc:`docs` puede encontrar referencias acerca de
   `Python`_ y otros temas
 
