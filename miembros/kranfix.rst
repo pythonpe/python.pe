@@ -5,10 +5,10 @@ Frank Moreno
 .. raw:: html
 
     <a href="https://plus.google.com/u/0/110028286585464918505/posts"
-        title="Fortaleza by alfredodeza, on Gravatar">
-        <img src="https://en.gravatar.com/userimage/33078272/93066c7beee8b7fe33c31eb37efd1527.jpg?size=200"
-            width="250"
-            height="250"
+        title="Fortaleza by Frank Moreno (kranfix), on Gravatar">
+        <img src="http://geckotronics.pe/index.php/socios/1-frank-moreno-vera"
+            width="100"
+            height="100"
             alt="Fortaleza, Brasil">
     </a>
 
@@ -19,13 +19,13 @@ Frank Moreno
 :github: https://github.com/kranfix
 :linkedin: http://www.linkedin.com/in/kranfix
 :twitter: `@kranfix`_
-:google plus: https://plus.google.com/u/0/110028286585464918505/posts
+:G+: https://plus.google.com/u/0/110028286585464918505/posts
 :facebook: http://fb.me/kranfix
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
-Estudio ingeniería electrónica en la Universidad Nacional de Ingeniería
-(UNI), egreso en diciembre del 2013 y caí en la programación por ser
+Bachiller en ciencias con mención en ingeniería electrónica de la
+Universidad Nacional de Ingeniería (UNI)y caí en la programación por ser
 entretenido empezando por php como experimentando en el 2003 y dejé de
 codear hasta el 2010 que empezé a probar java, luego aprendí assembler por
 el mismo echo que estudio lo que estudio para cierto tipo de arquitecturas,
@@ -44,18 +44,29 @@ Ninja IDE, pero por cuestiones de gustos personales me quedé con VIM.
 ------------------------------
 Hardware:
   - Compaq Presario CQ43, Core i5
+  - Beagle Board xM (BBxM)
+
 
 Software:
   - Sistemas Operativos: Fedora, Ubuntu, Linux Mint, ArchLinux
   - Entorno gráfico: Gnome 3
-  - Lenguajes: C/C++, VHDL, Octave, MatLab, Python.
-  - IDEs: Eclipse, Qtcreator
+  - Lenguajes: C/C++, Go, VHDL, Octave, MatLab, Python.
+  - Lenguajes de descripción de hardware: VHDL y SystemVerilog (SV)
+  - Software de simulación: Octave y MatLab
+  - IDEs: Eclipse, Qt-creator
   - Editores: VIM, Gedit.
   - Control de versiones: Git y Mercurial
 
+¿Qué hardware usas para desarrollar tecnología?
+-----------------------------------------------
+  - Microcontroladores: Arduinos y PICs.
+  - Microcomputadoras: BBxM y Rasberry Pi.
+  - FPGA (Programables en VHDL y SV).
+  - Componentes electrónicos.
+
 ¿Qué software/productos has publicado?
 --------------------------------------
-Hasta el momento ninguno.
+Aún no públicos pero dentro de poco serán presentados.
 
 ¿Qué intereses tienes?
 ----------------------
@@ -71,7 +82,7 @@ tecnologías libres.
 
 ¿Estás disponible para hacer consultorías?
 ------------------------------------------
-Si se da la oportunidad ¿Por qué no?
+Por supuesto.
 
 ¿Estás disponible para dar charlas en eventos?
 ----------------------------------------------
@@ -79,7 +90,7 @@ Siempre que el tiempo me lo permita.
 
 ¿Algo más?
 ----------
-Para programar en C/C++ uso Qtcreator o Eclipse, pero me inclino más por el
+Para programar en C/C++ uso Qt-creator o Eclipse, pero me inclino más por el
 primero. Cuando los códigos son muy simples prefiero usar VIM.
 
 .. _@kranfix: <http://twitter.com/kranfix> 
