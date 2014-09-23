@@ -21,16 +21,17 @@ Frank Moreno
 :twitter: `@kranfix`_
 :G+: https://plus.google.com/u/0/110028286585464918505/posts
 :facebook: http://fb.me/kranfix
+:Repositorios: `BitBucket`_, `GitHub`_
+:Social Networks: `linkedin`_, `twitter`_, `G+`_, `facebook`_
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
 Bachiller en ciencias con mención en ingeniería electrónica de la
-Universidad Nacional de Ingeniería (UNI)y caí en la programación por ser
-entretenido empezando por php como experimentando en el 2003 y dejé de
-codear hasta el 2010 que empezé a probar java, luego aprendí assembler por
-el mismo echo que estudio lo que estudio para cierto tipo de arquitecturas,
-seguido de arduino y en la actualidad uso C/C++, VHDL, Octave(MatLab) y
-python.
+Universidad Nacional de Ingeniería (UNI) y caí en la programación por ser
+entretenido empezando por php como experimentando a los 10 años (2003) y dejé de
+codear hasta el 2010 que empezé a probar java, luego aprendí assembler para cierto
+tipo de arquitecturas dentro de mi carrera, seguido de arduino y en la actualidad
+uso C/C++, go, VHDL, SystemVerilog(SV), Octave(MatLab) y python.
 
 ¿Cómo programas en Python?
 --------------------------
@@ -50,7 +51,7 @@ Hardware:
 Software:
   - Sistemas Operativos: Fedora, Ubuntu, Linux Mint, ArchLinux
   - Entorno gráfico: Gnome 3
-  - Lenguajes: C/C++, Go, VHDL, Octave, MatLab, Python.
+  - Lenguajes: C/C++, Go, Python.
   - Lenguajes de descripción de hardware: VHDL y SystemVerilog (SV)
   - Software de simulación: Octave y MatLab
   - IDEs: Eclipse, Qt-creator
@@ -82,7 +83,8 @@ tecnologías libres.
 
 ¿Estás disponible para hacer consultorías?
 ------------------------------------------
-Por supuesto.
+Por supuesto, adicinalmente hago capacitaciones en lenguajes de programación
+horientado a hardware (microcontroladores, microcomputadoras y FPGA).
 
 ¿Estás disponible para dar charlas en eventos?
 ----------------------------------------------
@@ -93,4 +95,11 @@ Siempre que el tiempo me lo permita.
 Para programar en C/C++ uso Qt-creator o Eclipse, pero me inclino más por el
 primero. Cuando los códigos son muy simples prefiero usar VIM.
 
+.. _BitBucked: <https://bitbucket.org/kranfix>
+.. _GitHub: <https://github.com/kranfix>
+
 .. _@kranfix: <http://twitter.com/kranfix> 
+.. _linkedin: <http://www.linkedin.com/in/kranfix>
+.. _twitter: <http://twitter.com/kranfix>
+.. _G+: <https://plus.google.com/u/0/+FrankMorenokranfix>
+.. _facebook: <http://fb.me/kranfix>
