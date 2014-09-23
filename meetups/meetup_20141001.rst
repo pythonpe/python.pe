@@ -1,0 +1,9 @@
+Meetup octubre 2014
+===================
+
+Fecha y hora:
+    Miercoles 01 de Octubre 2014 a las 7:30 pm
+Lugar:
+    `StarsCamp`_
+
+.. _StarsCamp: https://www.facebook.com/pages/Stars-Camp/359355437521123

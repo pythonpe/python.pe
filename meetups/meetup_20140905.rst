@@ -1,0 +1,27 @@
+Meetup setiembre 2014
+=====================
+
+Fecha y hora:
+    Viernes 05 de Setiembre 2014 a las 7:30 pm
+Lugar:
+    `StarsCamp`_
+
+Acuerdos
+--------
+
+1. Se acordó que los canales de comunicación se mantendrían de la siguiente forma:
+    * Página de Facebook sólo Publicaciones frecuentes relacionadas a Python.
+    * Se coordinará con el Grupo de Facebook  para alinear  las publicaciones como:
+        - Comunidad y realizar las publicaciones de difusión coordinadas entre el grupo de la
+        - Comunidad  más antiguo mailist con el grupo de Facebook.
+    * Meetup ha sido creado para coordinar los eventos mensuales que tendremos como:
+        - Comunidad para evitar hacerlo por la lista de correos que debe mantener su core de
+         intercambio de conocimientos
+    * El maillist se mantiene para intercambio puro de conocimiento en Python salvo correos puntuales de trabajo evento etc. con el Prefijo [OT]. Es el canal principal de la Comunidad así como el IRC #python.pe.
+2. Referente al PyDay 2014
+      - Se ha creado en Github el repositorio del evento PyDay2014 para mantener las coordinaciones por este canal y los registros de avances.
+      -  Si alguien desea colaborar debe contactarse con el encargado de cada tarea.
+      -  El link de referencia es el siguiente https://github.com/PythonPeru/PyDay2014
+3. Se coordinó que las siguientes reuniones sería con estructura minicharlas y trabajos en equipo resolviendo tareas específicas o configurando aplicaciones para fortalecer el aprendizaje en python. Los grupos se dividirán en diferentes niveles básico, intermedio y avanzados. Las charlas previstas sepublicarán en el evento de meetup.
+
+.. _StarsCamp: https://www.facebook.com/pages/Stars-Camp/359355437521123
