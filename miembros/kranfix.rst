@@ -15,14 +15,10 @@ Frank Moreno
 :nombre: Frank Moreno
 :aliases: kranfix
 :ciudad: Lima, Peru
-:bitbucket: https://bitbucket.org/kranfix
-:github: https://github.com/kranfix
-:linkedin: http://www.linkedin.com/in/kranfix
-:twitter: `@kranfix`_
-:G+: https://plus.google.com/u/0/110028286585464918505/posts
 :facebook: http://fb.me/kranfix
 :Repositorios: `BitBucket`_, `GitHub`_
 :Social Networks: `linkedin`_, `twitter`_, `G+`_, `facebook`_
+
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
@@ -98,7 +94,6 @@ primero. Cuando los códigos son muy simples prefiero usar VIM.
 .. _BitBucket: https://bitbucket.org/kranfix
 .. _GitHub: https://github.com/kranfix
 
-.. _@kranfix: http://twitter.com/kranfix> 
 .. _linkedin: http://www.linkedin.com/in/kranfix
 .. _twitter: http://twitter.com/kranfix
 .. _G+: https://plus.google.com/u/0/+FrankMorenokranfix
