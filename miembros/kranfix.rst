@@ -4,19 +4,19 @@ Frank Moreno
 
 .. raw:: html
 
-    <a href="https://plus.google.com/u/0/110028286585464918505/posts"
+    <a href="https://en.gravatar.com/userimage/33078272/93066c7beee8b7fe33c31eb37efd1527.jpg?size=200"
         title="Fortaleza by Frank Moreno (kranfix), on Gravatar">
-        <img src="http://geckotronics.pe/index.php/socios/1-frank-moreno-vera"
-            width="100"
-            height="100"
+        <img src="https://en.gravatar.com/userimage/33078272/93066c7beee8b7fe33c31eb37efd1527.jpg?size=200"
+            width="200"
+            height="200"
             alt="Fortaleza, Brasil">
     </a>
 
 :nombre: Frank Moreno
 :aliases: kranfix
 :ciudad: Lima, Peru
-:Repositorios: `BitBucket`_, `GitHub`_
 :Social Networks: `linkedin`_, `twitter`_, `G+`_, `facebook`_
+:Repositorios: `BitBucket`_, `GitHub`_
 
 
 ¿Quién eres y a qué te dedicas?
