@@ -95,11 +95,11 @@ Siempre que el tiempo me lo permita.
 Para programar en C/C++ uso Qt-creator o Eclipse, pero me inclino más por el
 primero. Cuando los códigos son muy simples prefiero usar VIM.
 
-.. _BitBucked: <https://bitbucket.org/kranfix>
-.. _GitHub: <https://github.com/kranfix>
+.. _BitBucket: https://bitbucket.org/kranfix
+.. _GitHub: https://github.com/kranfix
 
-.. _@kranfix: <http://twitter.com/kranfix> 
-.. _linkedin: <http://www.linkedin.com/in/kranfix>
-.. _twitter: <http://twitter.com/kranfix>
-.. _G+: <https://plus.google.com/u/0/+FrankMorenokranfix>
-.. _facebook: <http://fb.me/kranfix>
+.. _@kranfix: http://twitter.com/kranfix> 
+.. _linkedin: http://www.linkedin.com/in/kranfix
+.. _twitter: http://twitter.com/kranfix
+.. _G+: https://plus.google.com/u/0/+FrankMorenokranfix
+.. _facebook: http://fb.me/kranfix
