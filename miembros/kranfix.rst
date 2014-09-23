@@ -15,8 +15,8 @@ Frank Moreno
 :nombre: Frank Moreno
 :aliases: kranfix
 :ciudad: Lima, Peru
-:Social Networks: `linkedin`_, `twitter`_, `G+`_, `facebook`_
-:Repositorios: `BitBucket`_, `GitHub`_
+:repositorios: `BitBucket`_, `GitHub`_
+:social networks: `linkedin`_, `twitter`_, `G+`_, `facebook`_
 
 
 ¿Quién eres y a qué te dedicas?
