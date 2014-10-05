@@ -25,3 +25,5 @@ Los commandos para actualizar el fork local son:
 
 * hg pull https://bitbucket.org/pythonpe/python.pe
 * hg up
+
+No olvides instalar python-sphinx.
