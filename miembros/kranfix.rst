@@ -4,7 +4,7 @@ Frank Moreno
 
 .. raw:: html
 
-    <a href="https://en.gravatar.com/userimage/33078272/93066c7beee8b7fe33c31eb37efd1527.jpg?size=200"
+    <a href="https://kranfix.github.io"
         title="Fortaleza by Frank Moreno (kranfix), on Gravatar">
         <img src="https://en.gravatar.com/userimage/33078272/93066c7beee8b7fe33c31eb37efd1527.jpg?size=200"
             width="200"
@@ -12,29 +12,26 @@ Frank Moreno
             alt="Fortaleza, Brasil">
     </a>
 
-:nombre: Frank Moreno
-:aliases: kranfix
-:ciudad: Lima, Peru
-:repositorios: `BitBucket`_, `GitHub`_
-:social networks: `linkedin`_, `twitter`_, `G+`_, `facebook`_
-
+:Alias: kranfix
+:Ciudad: Lima, Peru
+:Alma mater: Universidad Nacional de Ingeniería (UNI)
+:Repositorios: `BitBucket`_, `GitHub`_
+:Redes sociales: `linkedin`_, `twitter`_, `G+`_, `fb`_
 
 ¿Quién eres y a qué te dedicas?
 -------------------------------
-Bachiller en ciencias con mención en ingeniería electrónica de la
-Universidad Nacional de Ingeniería (UNI) y caí en la programación por ser
-entretenido empezando por php como experimentando a los 10 años (2003) y dejé de
-codear hasta el 2010 que empezé a probar java, luego aprendí assembler para cierto
-tipo de arquitecturas dentro de mi carrera, seguido de arduino y en la actualidad
+Bachiller en ciencias con mención en ingeniería electrónica de la UNI y caí en la
+programación por ser entretenido empezando por php como experimentando a los 10 años
+(2003) y dejé de codear hasta el 2010 que empezé a probar java, luego aprendí assembler
+para cierto tipo de arquitecturas dentro de mi carrera, seguido de arduino y en la actualidad
 uso C/C++, go, VHDL, SystemVerilog(SV), Octave(MatLab) y python.
 
 ¿Cómo programas en Python?
 --------------------------
-Inicialmente usaba gedit para codear, sin embargo, me aburri de usarlo y
-pasé a GNU Nano y como era muy parecido a gedit no había gran diferencia.
-Seguí probrando editores de texto y terminé usando VIM por lo simple que es
-usarlo. Cabe resalta que tambien pasé por Eclipse con PyDev y también
-Ninja IDE, pero por cuestiones de gustos personales me quedé con VIM.
+Inicialmente usaba gedit para codear, sin embargo, me aburri de usarlo y pasé a GNU Nano
+y como era muy parecido a gedit no había gran diferencia. Seguí probrando editores de texto
+y terminé usando VIM por lo simple que es usarlo. Cabe resalta que tambien pasé por Eclipse
+con PyDev y también Ninja IDE, pero por cuestiones de gustos personales me quedé con VIM.
 
 ¿Qué hardware y software usas?
 ------------------------------
@@ -95,4 +92,4 @@ primero. Cuando los códigos son muy simples prefiero usar VIM.
 .. _linkedin: http://www.linkedin.com/in/kranfix
 .. _twitter: http://twitter.com/kranfix
 .. _G+: https://plus.google.com/u/0/+FrankMorenokranfix
-.. _facebook: http://fb.me/kranfix
+.. _fb: http://fb.me/kranfix
