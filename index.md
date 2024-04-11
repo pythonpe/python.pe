@@ -14,6 +14,8 @@ layout: landing
 [¡Python de cero a Pro!](learning-path.md)
 :::
 
+![Boy](/_static/images/boy.svg){ height=200px align=center }
+
 ::::{grid} 1 1 2 3
 :gutter: 2
 :padding: 0
