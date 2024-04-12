@@ -12,8 +12,6 @@ import locale
 import sys
 from pathlib import Path
 
-import alabaster
-
 from authors import get_authors
 
 sys.path.append(str(Path(".").resolve()))
@@ -74,7 +72,7 @@ blog_authors = {
 # This will prevent ablog from injecting its own templates into the Sphinx
 # build. This is only useful when you have a custom template bridge (rare).
 # See https://github.com/sunpy/ablog/pull/144 for the full context.
-# skip_injecting_base_ablog_templates = False
+skip_injecting_base_ablog_templates = True
 
 # -- Blog Post Related --------------------------------------------------------
 
@@ -105,7 +103,7 @@ blog_authors = {
 # When ``True``, links to the previous and next posts will be rendered at the
 # bottom of the page.
 # Default is ``True``
-# post_show_prev_next = True
+post_show_prev_next = False
 
 # When ``False``, the :rst:dir:`orphan` directive is not automatically set
 # for each post. Without this directive, Sphinx will warn about posts that
@@ -121,16 +119,7 @@ blog_authors = {
 # a link to a archive pages generated for each tag, category, and year.
 # In addition, there are authors.html, languages.html, and locations.html
 # sidebars that link to author and location archive pages.
-html_sidebars = {
-    "**": [
-        "ablog/postcard.html",
-        "ablog/recentposts.html",
-        "ablog/tagcloud.html",
-        "ablog/categories.html",
-        "ablog/archives.html",
-        "searchbox.html",
-    ],
-}
+# html_sidebars = {}
 
 # -- Blog Feed Options --------------------------------------------------------
 
@@ -212,7 +201,6 @@ extensions = [
     "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
     "sphinx.ext.todo",
-    "alabaster",
     "ablog",
     "myst_parser",
     "sphinxcontrib.youtube",
@@ -330,10 +318,11 @@ html_theme = "shibuya"
 # documentation.
 html_theme_options = {
     "accent_color": "tomato",
+    "globaltoc_expand_depth": 1,
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = [alabaster.get_path()]
+# html_theme_path = [alabaster.get_path()]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".

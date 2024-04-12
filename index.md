@@ -1,6 +1,6 @@
 ---
-description: Python Perú
 layout: landing
+description: Python Perú
 ---
 
 ````{rst-class} head-title
@@ -24,12 +24,12 @@ layout: landing
 :class-row: surface
 
 :::{grid-item-card}  {octicon}`people` Nosotros
-:link: about
+:link: about/
 Conoce un poco más sobre nosotros y sobre nuestros miembros de la comunidad
 Python Perú.
 :::
 :::{grid-item-card}  {octicon}`megaphone` Eventos
-:link: eventos
+:link: events/
 Entérate de los últimos eventos locales de nuestra comunidad y otras.
 :::
 :::{grid-item-card}  {octicon}`rss` Blog
@@ -45,7 +45,10 @@ Infórmate de lo último de lo que acontece en nuestra comunidad.
 ```
 
 ```{toctree}
+:caption: Secciónes
 :hidden: true
 
 about.md
+events.md
+learning-path.md
 ```

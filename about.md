@@ -1,4 +1,6 @@
-# ¡Python de cero a Pro!
+(about)=
+
+# Acerca de la Comunidad de Python Perú
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.
 Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
@@ -13,3 +15,14 @@ eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum
 primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh.
 Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non
 diam sodales hendrerit.
+
+## Miembros
+
+```{postlist} 10000
+---
+category: members
+format: "{title}"
+list-style: circle
+excerpts:
+---
+```

@@ -1,4 +1,13 @@
-# ¡Python de cero a Pro!
+---
+blogpost: true
+date: 11 Apr, 2024
+author: hellhound
+location: Lima, Perú
+category: events
+lanaguage: Español
+---
+
+# Evento de Prueba
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.
 Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,

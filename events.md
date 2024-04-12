@@ -1,4 +1,4 @@
-# ¡Python de cero a Pro!
+# Eventos
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.
 Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
@@ -13,3 +13,15 @@ eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum
 primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh.
 Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non
 diam sodales hendrerit.
+
+## Lista de Eventos
+
+```{postlist} 10000
+---
+category: events
+date: "%A, %B %d, %Y"
+format: "{title} para el {date}"
+list-style: circle
+excerpts:
+---
+```
