@@ -2,19 +2,21 @@
 description: Python Perú
 layout: landing
 ---
+
+````{rst-class} head-title
 # Python Perú
 
-```{eval-rst}
-.. rst-class:: lead
-
-   ¡Bienvenidos a la Comunidad Peruana de Python!
+```{rst-class} lead
+¡Bienvenidos a la Comunidad Peruana de Python!
 ```
 
+````
+
+````{rst-class} head-button
 :::{container} buttons
 [¡Python de cero a Pro!](learning-path.md)
 :::
-
-![Boy](/_static/images/boy.svg){ height=200px align=center }
+````
 
 ::::{grid} 1 1 2 3
 :gutter: 2
@@ -36,6 +38,8 @@ Infórmate de lo último de lo que acontece en nuestra comunidad.
 :::
 ::::
 
+
+![Python developer](/_static/images/main_image.png){ class=main-image align=center }
 
 ```{embed} https://blog.python.pe/recent_posts/
 ```

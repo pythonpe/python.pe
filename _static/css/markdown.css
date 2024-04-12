@@ -1,1 +1,38 @@
-.markdown-body img { background: none !important }
+.markdown-body img {
+  background: none !important;
+}
+
+.main-image {
+  width: 30vw;
+}
+
+.head-title {
+  text-align: center;
+}
+
+h1.head-title {
+    color: var(--sy-c-link-hover);
+}
+
+.head-button {
+    display: flex;
+    justify-content: center;
+}
+
+.yue p.lead {
+    text-align: center;
+}
+
+#embed ul li p img {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#embed ul li p {
+    color: var(--sy-c-light);
+}
+
+#embed ul li p img {
+    max-width: 300px;
+    max-height: 300px;
+}
