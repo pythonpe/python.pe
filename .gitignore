@@ -211,3 +211,6 @@ pyrightconfig.json
 # ablog
 _website/
 .doctrees/
+
+# python.pe
+_static/images/gravatar/

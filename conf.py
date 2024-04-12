@@ -47,8 +47,7 @@ html_baseurl = "https://python.pe/"
 # links. Dictionary keys are what should be used in ``post`` directive
 # to refer to the author.  Default is ``{}``.
 blog_authors = {
-    nickname: (name, email_link)
-    for nickname, name, email_link in get_authors()
+    nickname: (name, email_link) for nickname, name, email_link in get_authors()
 }
 
 
@@ -210,6 +209,7 @@ extensions = [
     "sphinx_togglebutton",
     "sphinx_sitemap",
     "embed",
+    "gravatar",
 ]
 
 myst_enable_extensions = [

@@ -9,6 +9,17 @@ lanaguage: Español
 
 # Jean-Pierre Chauvel
 
+```{gravatar} jean.pierre@chauvel.org
+---
+class: something
+width: 200
+style: "margin: 0 auto; display: block;"
+with-circle-clip: true
+with-grayscale: true
+static-subdir: images/gravatar
+---
+```
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.
 Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
 dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper
