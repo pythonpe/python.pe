@@ -14,7 +14,7 @@ description: Python Perú
 
 ````{rst-class} head-button
 :::{container} buttons
-[¡Python de cero a Pro!](learning-path.md)
+[¡Python de cero a Pro!](learning-path/index.md)
 :::
 ````
 
@@ -50,5 +50,5 @@ Infórmate de lo último de lo que acontece en nuestra comunidad.
 
 about.md
 events.md
-learning-path.md
+learning-path/index.md
 ```

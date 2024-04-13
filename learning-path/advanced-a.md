@@ -1,4 +1,4 @@
-# ¡Python de cero a Pro!
+# Avanzado A
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.
 Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,

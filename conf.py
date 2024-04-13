@@ -201,6 +201,7 @@ extensions = [
     "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
     "sphinx.ext.todo",
+    "sphinx.ext.graphviz",
     "ablog",
     "myst_parser",
     "sphinxcontrib.youtube",
