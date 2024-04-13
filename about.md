@@ -2,19 +2,17 @@
 
 # Acerca de la Comunidad de Python Perú
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.
-Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
-dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper
-congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est
-eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu
-massa, scelerisque vitae, consequat in, pretium a, enim.
+Somos una comunidad apasionada de desarrolladores de Python que se esfuerza por
+compartir conocimientos, organizar, colaborar en proyectos innovadores y
+fomentar un ambiente inclusivo para todos los niveles de habilidad. Nuestro
+objetivo es promover el aprendizaje continuo y el crecimiento personal en un
+entorno amigable y acogedor.
 
-Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras
-vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio
-eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum
-primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh.
-Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non
-diam sodales hendrerit.
+Con una amplia gama de experiencias y habilidades, nuestros miembros provienen
+de diversos ámbitos de la programación en Python, lo que nos permite ofrecer una
+perspectiva única y enriquecedora en cada interacción. Nos enorgullecemos de
+nuestra comunidad diversa y estamos comprometidos a brindar recursos de calidad
+y apoyo mutuo para impulsar el éxito colectivo de nuestros miembros.
 
 ## Miembros
 
