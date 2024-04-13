@@ -13,3 +13,18 @@ eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum
 primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh.
 Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non
 diam sodales hendrerit.
+
+```{code-block} python
+---
+caption: markdown.py
+linenos: true
+emphasize-lines: 3-5
+---
+import mistune
+
+def render_markdown(text: str) -> str:
+    """A simple function to render text in markdown format."""
+    return mistune.html(text)
+
+render_markdown("Hello **Shibuya**.")
+```
