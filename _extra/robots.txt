@@ -1,0 +1,4 @@
+User-agent: *
+
+Sitemap: https://python.pe/sitemap.xml
+Sitemap: https://www.python.pe/sitemap.xml

@@ -210,6 +210,7 @@ extensions = [
     "sphinx_tabs.tabs",
     "sphinx_togglebutton",
     "sphinx_sitemap",
+    "sphinxext.opengraph",
     "embed",
     "gravatar",
 ]
@@ -414,3 +415,15 @@ htmlhelp_basename = "PythonPerdoc"
 
 # sphinx-sitemap URL scheme
 sitemap_url_scheme = "{link}"
+
+# A list of paths that contain extra files not directly related to the
+# documentation.
+html_extra_path = ["_extra"]
+
+# OpenGraph options
+ogp_site_url = "https:/www.python.pe"
+ogp_enable_meta_description = True
+ogp_social_cards = {
+    "line_color": "#4078c0",
+    "image": "_static/logo/logo.png",
+}
