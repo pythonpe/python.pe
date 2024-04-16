@@ -15,7 +15,29 @@ sudo port install graphviz
 
 3. apt-based Linux distribution
 ```sh
-apt install graphviz
+sudo apt install graphviz
+```
+
+Then make sure you have installed node and npm
+
+1. macOS with Homebrew
+```sh
+brew install node
+```
+
+2. macOS with MacPorts
+```sh
+sudo port install nodejs21 npm10
+```
+
+3. apt-based Linux distribution
+```sh
+sudo apt install nodejs npm
+```
+
+Install sketchviz
+```sh
+sudo ./bin/install-sketchviz.sh
 ```
 
 Make sure you have Python 3.12 installed. Then install `poetry`:

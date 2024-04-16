@@ -15,18 +15,44 @@ Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non
 diam sodales hendrerit.
 
 
-```{graphviz}
-digraph Learning_path {
-    a [label="Principiante" href="beginner/" fillcolor="blue" style="filled" fontcolor="white" target="_top"];
-    b [label="Intermedio" href="intermediate/" fillcolor="yellow" style="filled" target="_top"];
-    c [label="Avanzado A" href="advanced-a/" fillcolor="green" style="filled" target="_top"];
-    d [label="Avanzado B" href="advanced-b/" fillcolor="green" style="filled" target="_top"];
-    e [label="Pro" href="pro/" fillcolor="red" style="filled" fontcolor="white" target="_top"];
-    a -> b;
-    b -> c;
-    b -> d;
-    c -> e;
-    d -> e;
+```{sketchviz}
+---
+static-subdir: images/sketchviz
+---
+digraph G {
+  graph [fontname = "Handlee"];
+  node [fontname = "Handlee"];
+  edge [fontname = "Handlee"];
+
+  bgcolor=transparent;
+
+  subgraph cluster_0 {
+    style=filled;
+    color=lightgrey;
+    node [style=filled,color=pink];
+    a0 [href="https://python.org" target="_top"];
+    a0 -> a1 -> a2 -> a3;
+    label = "*process #1*";
+    fontsize = 20;
+  }
+
+  subgraph cluster_1 {
+    node [style=filled];
+    b0 -> b1 -> b2 -> b3;
+    label = "*process #2*";
+    fontsize = 20;
+    color=blue
+  }
+  start -> a0;
+  start -> b0;
+  a1 -> b3;
+  b2 -> a3;
+  a3 -> a0;
+  a3 -> end;
+  b3 -> end;
+
+  start [shape=Mdiamond];
+  end [shape=Msquare];
 }
 ```
 

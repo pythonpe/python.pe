@@ -25,7 +25,6 @@ GRAVATAR_TEMPLATE = """
     {% if width %} width="{{ width }}" height="{{ width }}"{% endif %}>
 </div>
 """
-
 FILENAME_EXT = ".png"
 
 
@@ -99,21 +98,21 @@ class GravatarImage(Directive):
         # Try to make the dir if it doesn't exist
         os.makedirs(save_path, exist_ok=True)
 
-        logger.info(f"Getting Gravatar image for email: {email}")
+        logger.info(f"Gravatar: Getting Gravatar image for email: {email}")
         url = Gravatar(email).get_image()
         if width is not None:
             url = f"{url}?s={width}"
-        logger.info(f"Requesting Gravatar image from URL: {url}")
+            logger.info(f"Gravatar: Requesting Gravatar image from URL: {url}")
 
         filename = sha256(url.encode()).digest().hex()
         filename = f"{filename}{FILENAME_EXT}"
         save_path = os.path.join(save_path, filename)
         urllib.request.urlretrieve(url, save_path)
-        logger.info(f"Retrieving image into: {save_path}")
+        logger.info(f"Gravatar: Retrieving image into: {save_path}")
 
         if with_circle_clip or with_grayscale:
             self._process_image(save_path, with_circle_clip, with_grayscale)
-            logger.info("Applying image post-processing")
+            logger.info("Gravatar: Applying image post-processing")
 
         template = Environment(
             loader=BaseLoader, trim_blocks=True, lstrip_blocks=True

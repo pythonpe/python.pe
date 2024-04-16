@@ -201,7 +201,6 @@ extensions = [
     "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
     "sphinx.ext.todo",
-    "sphinx.ext.graphviz",
     "ablog",
     "myst_parser",
     "sphinxcontrib.youtube",
@@ -213,6 +212,7 @@ extensions = [
     "sphinxext.opengraph",
     "embed",
     "gravatar",
+    "sketchviz",
 ]
 
 myst_enable_extensions = [
@@ -280,6 +280,7 @@ exclude_patterns = [
     "github_submodule/*",
     "LICENSE.md",
     "README.md",
+    "deps/*"
 ]
 
 # The reST default role (used for this markup: `text`) to use for all
