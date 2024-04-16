@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 pushd ./deps/sketchviz
 npm pack
-npm i -g sketchviz-0.0.1.tgz
-rm sketchviz-0.0.1.tgz
+npm i -g sketchviz*.tgz
+rm sketchviz*.tgz
 popd
