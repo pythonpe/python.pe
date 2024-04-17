@@ -1,13 +1,14 @@
 """A directive to generate an embedded svg image using Graphviz/Sketchviz
 backend parsers
 """
-import os
-from tempfile import NamedTemporaryFile
-import subprocess
-import hashlib
 
-from docutils import nodes
+import hashlib
+import os
+import subprocess
+from tempfile import NamedTemporaryFile
+
 from ablog.commands import find_confdir, read_conf
+from docutils import nodes
 from docutils.parsers.rst import Directive
 from jinja2 import BaseLoader, Environment
 from sphinx.application import Sphinx
@@ -55,10 +56,8 @@ class Sketchviz(Directive):
         temp_name = None
         h = hashlib.new("sha256")
         with NamedTemporaryFile(
-                mode="w",
-                encoding="utf-8",
-                delete=False,
-                delete_on_close=False) as fd:
+            mode="w", encoding="utf-8", delete=False, delete_on_close=False
+        ) as fd:
             for content in self.content:
                 line = f"{content}\n"
                 h.update(line.encode())
@@ -68,8 +67,7 @@ class Sketchviz(Directive):
         filename = h.digest().hex()
         filename = f"{filename}{FILENAME_EXT}"
         save_path = os.path.join(save_path, filename)
-        subprocess.run(
-            ["sketchviz", temp_name, save_path], check=True)
+        subprocess.run(["sketchviz", temp_name, save_path], check=True)
         os.remove(temp_name)
         logger.info("Sketchviz: Created SVG image: {save_path}")
 

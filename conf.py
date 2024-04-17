@@ -280,7 +280,7 @@ exclude_patterns = [
     "github_submodule/*",
     "LICENSE.md",
     "README.md",
-    "deps/*"
+    "deps/*",
 ]
 
 # The reST default role (used for this markup: `text`) to use for all
