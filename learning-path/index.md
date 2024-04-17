@@ -1,18 +1,10 @@
 # ¡Python de cero a Pro!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus.
-Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed,
-dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper
-congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est
-eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu
-massa, scelerisque vitae, consequat in, pretium a, enim.
+En el vasto mundo del aprendizaje, las rutas de aprendizaje se erigen como faros guía, iluminando el camino hacia el conocimiento. Imagina un sendero serpenteante, tejido con módulos y habilidades específicas, diseñado para que cada estudiante trace su propio recorrido. Estas rutas no solo fomentan la autonomía y el compromiso, sino también reducen la deserción y aceleran la asimilación de saberes. ¿Te atreves a explorarlas?
 
-Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras
-vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio
-eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum
-primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh.
-Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non
-diam sodales hendrerit.
+Con nuestras recomendaciones podrás explorar cada tópico del desarrollo de software enfocado en Python e incluyendo algunos tópicos de ayuda como Docker o integración continua, te invitamos a revisar y complementar tus conocimientos con los recursos a continuación.
+
+Como mapa general estos son los tópicos que cubriremos en nuestra ruta de aprendizaje:
 
 
 ```{sketchviz}
@@ -25,35 +17,81 @@ digraph G {
   edge [fontname = "Handlee"];
 
   bgcolor=transparent;
+  
+  p_1 [label = "Python básico"]
+  p_2 [label = "Python Avanzado"]
+  
+  d_1 [label = "Desarrollador I"]
+  d_2 [label = "Desarrollador II"]
+  
+  dc_1 [label = "Ciencia de datos básico"]
+  dc_2 [label = "Ciencia de datos avanzado"]
+  
+  dv_1 [label = "Despliegue"]
+  dv_2 [label = "Cloud"]
+  
+  ml_1 [label = "ML básico"]
+  ml_2 [label = "ML avanzado"]
 
-  subgraph cluster_0 {
+  subgraph cluster_python {
     style=filled;
     color=lightgrey;
     node [style=filled,color=pink];
-    a0 [href="https://python.org" target="_top"];
-    a0 -> a1 -> a2 -> a3;
-    label = "*process #1*";
+    p_1 -> p_2;
+    label = "*Desarrollador Python*";
     fontsize = 20;
   }
 
-  subgraph cluster_1 {
-    node [style=filled];
-    b0 -> b1 -> b2 -> b3;
-    label = "*process #2*";
+  subgraph cluster_web {
+    style=filled;
+    color=lightgrey;
+    node [style=filled,color=pink];
+    d_1 -> d_2;
+    label = "*Desarrollador web*";
     fontsize = 20;
-    color=blue
+    color=lightblue;
   }
-  start -> a0;
-  start -> b0;
-  a1 -> b3;
-  b2 -> a3;
-  a3 -> a0;
-  a3 -> end;
-  b3 -> end;
+  
+  subgraph cluster_science {
+    style=filled;
+    color=lightgrey;
+    node [style=filled,color=pink];
+    dc_1 -> dc_2;
+    label = "*Data Science*";
+    fontsize = 20;
+    color=lightblue;
+  }
+  
+  subgraph cluster_devops {
+    style=filled;
+    color=lightgrey;
+    node [style=filled,color=pink];
+    dv_1 -> dv_2;
+    label = "*Cloud y DevOps*";
+    fontsize = 20;
+    color=green;
+  }
+  
+  subgraph cluster_ml {
+    style=filled;
+    color=lightgrey;
+    node [style=filled,color=pink];
+    ml_1 -> ml_2;
+    label = "*Machine Learning e IA*";
+    fontsize = 20;
+    color=green;
+  }
+  
+  start -> p_1;
+  p_2 -> d_1;
+  p_2 -> dc_1;
+  d_2 -> dv_1;
+  dc_2 -> ml_1;
 
-  start [shape=Mdiamond];
-  end [shape=Msquare];
+
+  start [label="*Inicio*" shape=Mdiamond];
 }
+
 ```
 
 ```{toctree}
