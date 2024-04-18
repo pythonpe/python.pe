@@ -37,12 +37,12 @@ digraph G {
   
   p_1 [
     label="Python Básico",
-    href="/learning-path/python-developer/basic-python/", 
+    href="/learning-path/python-developer/#python-basico", 
     target="_top"
   ]
   p_2 [
     label="Python Avanzado",
-    href="/learning-path/python-developer/advanced-python/", 
+    href="/learning-path/python-developer/#python-avanzado", 
     target="_top"
   ]
 
@@ -59,9 +59,7 @@ digraph G {
 }
 ```
 
-```{toctree}
-:hidden: true
+## Python Básico
 
-basic-python.md
-advanced-python.md
-```
+
+## Python Avanzado

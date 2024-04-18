@@ -38,12 +38,12 @@ digraph G {
   
   d_1 [
     label="Desarrollador I",
-    href="/learning-path/web-developer/developer-1/", 
+    href="/learning-path/web-developer/#desarrollador-i", 
     target="_top"
   ]
   d_2 [
     label="Desarrollador II",
-    href="/learning-path/web-developer/developer-2/", 
+    href="/learning-path/web-developer/#desarrollador-ii", 
     target="_top"
   ]
 
@@ -61,9 +61,7 @@ digraph G {
 }
 ```
 
-```{toctree}
-:hidden: true
+## Desarrollador I
 
-developer-1.md
-developer-2.md
-```
+
+## Desarrollador II

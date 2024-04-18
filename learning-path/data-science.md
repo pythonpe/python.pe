@@ -36,14 +36,14 @@ digraph G {
 
   bgcolor=transparent;
   
-  dc_1 [
+  ds_1 [
     label="Ciencias de Datos Básico",
-    href="/learning-path/data-science/basic-data-science/", 
+    href="/learning-path/data-science/#ciencias-de-datos-basico", 
     target="_top"
   ]
-  dc_2 [
+  ds_2 [
     label="Ciencias de Datos Avanzado",
-    href="/learning-path/data-science/advanced-data-science/", 
+    href="/learning-path/data-science/#ciencias-de-datos-avanzado", 
     target="_top"
   ]
 
@@ -51,7 +51,7 @@ digraph G {
     style=filled;
     color=lightgrey;
     node [style=filled, color=pink];
-    dc_1 -> dc_2;
+    ds_1 -> ds_2;
     label = "*Ciencias de Datos*";
     fontsize = 20;
     color=lightblue;
@@ -61,9 +61,7 @@ digraph G {
 }
 ```
 
-```{toctree}
-:hidden: true
+## Ciencias de Datos Básico
 
-basic-data-science.md
-advanced-data-science.md
-```
+
+## Ciencias de Datos Avanzado

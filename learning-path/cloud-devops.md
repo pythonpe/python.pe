@@ -40,12 +40,12 @@ digraph G {
   
   dv_1 [
     label="Despliegue",
-    href="/learning-path/cloud-devops/deployment/", 
+    href="/learning-path/cloud-devops/#despliegue", 
     target="_top"
   ]
   dv_2 [
     label="Cloud",
-    href="/learning-path/cloud-devops/cloud/", 
+    href="/learning-path/cloud-devops/#cloud", 
     target="_top"
   ]
   
@@ -63,9 +63,7 @@ digraph G {
 }
 ```
 
-```{toctree}
-:hidden: true
+## Despliegue
 
-deployment.md
-cloud.md
-```
+
+## Cloud

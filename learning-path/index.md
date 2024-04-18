@@ -29,56 +29,56 @@ digraph G {
   
   p_1 [
     label="Python Básico",
-    href="/learning-path/python-developer/basic-python/", 
+    href="/learning-path/python-developer/#python-basico", 
     target="_top"
   ]
   p_2 [
     label="Python Avanzado",
-    href="/learning-path/python-developer/advanced-python/", 
+    href="/learning-path/python-developer/#python-avanzado", 
     target="_top"
   ]
   
   d_1 [
     label="Desarrollador I",
-    href="/learning-path/web-developer/developer-1/", 
+    href="/learning-path/web-developer/#desarrollador-i", 
     target="_top"
   ]
   d_2 [
     label="Desarrollador II",
-    href="/learning-path/web-developer/developer-2/", 
+    href="/learning-path/web-developer/#desarrollador-ii", 
     target="_top"
   ]
   
-  dc_1 [
+  ds_1 [
     label="Ciencias de Datos Básico",
-    href="/learning-path/data-science/basic-data-science/", 
+    href="/learning-path/data-science/#ciencias-de-datos-basico", 
     target="_top"
   ]
-  dc_2 [
+  ds_2 [
     label="Ciencias de Datos Avanzado",
-    href="/learning-path/data-science/advanced-data-science/", 
+    href="/learning-path/data-science/#ciencias-de-datos-avanzado", 
     target="_top"
   ]
   
   dv_1 [
     label="Despliegue",
-    href="/learning-path/cloud-devops/deployment/", 
+    href="/learning-path/cloud-devops/#despliegue", 
     target="_top"
   ]
   dv_2 [
     label="Cloud",
-    href="/learning-path/cloud-devops/cloud/", 
+    href="/learning-path/cloud-devops/#cloud", 
     target="_top"
   ]
   
   ml_1 [
     label="ML Básico",
-    href="/learning-path/machine-learning-ai/basic-ml/", 
+    href="/learning-path/machine-learning-ai/#ml-basico", 
     target="_top"
   ]
   ml_2 [
     label="ML Avanzado",
-    href="/learning-path/machine-learning-ai/advanced-ml/", 
+    href="/learning-path/machine-learning-ai/#ml-avanzado", 
     target="_top"
   ]
 
@@ -109,7 +109,7 @@ digraph G {
     style=filled;
     color=lightgrey;
     node [style=filled, color=pink];
-    dc_1 -> dc_2;
+    ds_1 -> ds_2;
     label = "*Ciencias de Datos*";
     fontsize = 20;
     color=lightblue;
@@ -142,18 +142,18 @@ digraph G {
   }
   
   p_2 -> d_1;
-  p_2 -> dc_1;
+  p_2 -> ds_1;
   d_2 -> dv_1;
-  dc_2 -> ml_1;
+  ds_2 -> ml_1;
 }
 ```
 
 ```{toctree}
 :hidden: true
 
-python-developer/index.md
-web-developer/index.md
-data-science/index.md
-cloud-devops/index.md
-machine-learning-ai/index.md
+python-developer.md
+web-developer.md
+data-science.md
+cloud-devops.md
+machine-learning-ai.md
 ```

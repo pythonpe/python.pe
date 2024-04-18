@@ -40,12 +40,12 @@ digraph G {
   
   ml_1 [
     label="ML Básico",
-    href="/learning-path/machine-learning-ai/basic-ml/", 
+    href="/learning-path/machine-learning-ai/#ml-basico", 
     target="_top"
   ]
   ml_2 [
     label="ML Avanzado",
-    href="/learning-path/machine-learning-ai/advanced-ml/", 
+    href="/learning-path/machine-learning-ai/#ml-avanzado", 
     target="_top"
   ]
   
@@ -63,9 +63,7 @@ digraph G {
 }
 ```
 
-```{toctree}
-:hidden: true
+## ML Básico
 
-basic-ml.md
-advanced-ml.md
-```
+
+## ML Avanzado
