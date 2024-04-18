@@ -45,15 +45,14 @@ digraph G {
   ]
 
   subgraph cluster_web {
-    style=filled;
-    color=lightgrey;
     node [style=filled, color=pink];
-    d_1 -> d_2;
-    label = "*Desarrollador Web*";
-    fontsize = 20;
+    style=filled;
     color=lightblue;
+    fontsize = 20;
+    label = "*Desarrollador Web*";
     href="/learning-path/web-developer/";
     target="_top";
+    d_1 -> d_2;
   }
 }
 ```

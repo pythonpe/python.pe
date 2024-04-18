@@ -45,15 +45,14 @@ digraph G {
   ]
 
   subgraph cluster_science {
-    style=filled;
-    color=lightgrey;
     node [style=filled, color=pink];
-    ds_1 -> ds_2;
-    label = "*Ciencias de Datos*";
-    fontsize = 20;
+    style=filled;
     color=lightblue;
+    fontsize = 20;
+    label = "*Ciencias de Datos*";
     href="/learning-path/data-science/";
     target="_top";
+    ds_1 -> ds_2;
   }
 }
 ```

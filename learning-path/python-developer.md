@@ -44,14 +44,14 @@ digraph G {
   ]
 
   subgraph cluster_python {
+    node [style=filled, color=pink];
     style=filled;
     color=lightgrey;
-    node [style=filled, color=pink];
-    p_1 -> p_2;
-    label = "*Desarrollador Python*";
     fontsize = 20;
+    label = "*Desarrollador Python*";
     href="/learning-path/python-developer/";
     target="_top";
+    p_1 -> p_2;
   }
 }
 ```

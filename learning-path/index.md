@@ -80,62 +80,58 @@ digraph G {
   ]
 
   subgraph cluster_python {
+    node [style=filled, color=pink];
     style=filled;
     color=lightgrey;
-    node [style=filled, color=pink];
-    p_1 -> p_2;
-    label = "*Desarrollador Python*";
     fontsize = 20;
+    label = "*Desarrollador Python*";
     href="/learning-path/python-developer/";
     target="_top";
+    p_1 -> p_2;
   }
 
   subgraph cluster_web {
-    style=filled;
-    color=lightgrey;
     node [style=filled, color=pink];
-    d_1 -> d_2;
-    label = "*Desarrollador Web*";
-    fontsize = 20;
+    style=filled;
     color=lightblue;
+    fontsize = 20;
+    label = "*Desarrollador Web*";
     href="/learning-path/web-developer/";
     target="_top";
+    d_1 -> d_2;
   }
   
   subgraph cluster_science {
-    style=filled;
-    color=lightgrey;
     node [style=filled, color=pink];
-    ds_1 -> ds_2;
-    label = "*Ciencias de Datos*";
-    fontsize = 20;
+    style=filled;
     color=lightblue;
+    fontsize = 20;
+    label = "*Ciencias de Datos*";
     href="/learning-path/data-science/";
     target="_top";
+    ds_1 -> ds_2;
   }
   
   subgraph cluster_devops {
-    style=filled;
-    color=lightgrey;
     node [style=filled, color=pink];
-    dv_1 -> dv_2;
-    label = "*Cloud y DevOps*";
-    fontsize = 20;
+    style=filled;
     color=green;
+    fontsize = 20;
+    label = "*Cloud y DevOps*";
     href="/learning-path/cloud-devops/";
     target="_top";
+    dv_1 -> dv_2;
   }
   
   subgraph cluster_ml {
-    style=filled;
-    color=lightgrey;
     node [style=filled,color=pink];
-    ml_1 -> ml_2;
-    label = "*Machine Learning e IA*";
-    fontsize = 20;
+    style=filled;
     color=green;
+    fontsize = 20;
+    label = "*Machine Learning e IA*";
     href="/learning-path/machine-learning-ai/";
     target="_top";
+    ml_1 -> ml_2;
   }
   
   p_2 -> d_1;

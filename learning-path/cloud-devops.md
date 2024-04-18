@@ -47,15 +47,14 @@ digraph G {
   ]
   
   subgraph cluster_devops {
-    style=filled;
-    color=lightgrey;
     node [style=filled, color=pink];
-    dv_1 -> dv_2;
-    label = "*Cloud y DevOps*";
-    fontsize = 20;
+    style=filled;
     color=green;
+    fontsize = 20;
+    label = "*Cloud y DevOps*";
     href="/learning-path/cloud-devops/";
     target="_top";
+    dv_1 -> dv_2;
   }
 }
 ```

@@ -47,15 +47,14 @@ digraph G {
   ]
   
   subgraph cluster_ml {
-    style=filled;
-    color=lightgrey;
     node [style=filled,color=pink];
-    ml_1 -> ml_2;
-    label = "*Machine Learning e IA*";
-    fontsize = 20;
+    style=filled;
     color=green;
+    fontsize = 20;
+    label = "*Machine Learning e IA*";
     href="/learning-path/machine-learning-ai/";
     target="_top";
+    ml_1 -> ml_2;
   }
 }
 ```
