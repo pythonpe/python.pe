@@ -11,12 +11,10 @@ lanaguage: Español
 
 ```{gravatar} jean.pierre@chauvel.org
 ---
-class: something
 width: 200
 style: "margin: 0 auto; display: block;"
 with-circle-clip: true
 with-grayscale: true
-static-subdir: images/gravatar
 ---
 ```
 

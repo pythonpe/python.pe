@@ -82,7 +82,7 @@ class GravatarImage(Directive):
         width = self.options.get("width")
         with_circle_clip = self.options.get("with-circle-clip")
         with_grayscale = self.options.get("with-grayscale")
-        static_subdir = self.options.get("static-subdir")
+        static_subdir = self.options.get("static-subdir", "images/gravatar")
         confdir = find_confdir()
         conf = read_conf(confdir)
         html_static_path = getattr(conf, "html_static_path", [])

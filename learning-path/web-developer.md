@@ -26,9 +26,6 @@ aún más competente y exitoso en el mundo del desarrollo web. ¡Explora, aprend
 lleva tus habilidades a nuevos horizontes!
 
 ```{sketchviz}
----
-static-subdir: images/sketchviz
----
 digraph G {
   graph [fontname="Handlee"];
   node [fontname="Handlee"];

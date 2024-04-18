@@ -26,9 +26,6 @@ emocionante campo. ¡Explora, aprende y conviértete en un maestro en la Ciencia
 de Datos con Python!
 
 ```{sketchviz}
----
-static-subdir: images/sketchviz
----
 digraph G {
   graph [fontname="Handlee"];
   node [fontname="Handlee"];

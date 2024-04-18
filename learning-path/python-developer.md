@@ -25,9 +25,6 @@ versátil en tu campo. ¡Explora y aprende para crecer como desarrollador de
 Python!
 
 ```{sketchviz}
----
-static-subdir: images/sketchviz
----
 digraph G {
   graph [fontname="Handlee"];
   node [fontname="Handlee"];

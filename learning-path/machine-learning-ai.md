@@ -28,9 +28,6 @@ aprende y conviértete en un Pythonista líder en Machine Learning e Inteligenci
 Artificial!
 
 ```{sketchviz}
----
-static-subdir: images/sketchviz
----
 digraph G {
   graph [fontname="Handlee"];
   node [fontname="Handlee"];

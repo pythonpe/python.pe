@@ -37,7 +37,7 @@ class Sketchviz(Directive):
     }
 
     def run(self):
-        static_subdir = self.options.get("static-subdir")
+        static_subdir = self.options.get("static-subdir", "images/sketchviz")
         confdir = find_confdir()
         conf = read_conf(confdir)
         html_static_path = getattr(conf, "html_static_path", [])

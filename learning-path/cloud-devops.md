@@ -28,9 +28,6 @@ experto en este campo en constante evolución. ¡Explora, aprende y conviértete
 un Pythonista líder en Cloud y DevOps!
 
 ```{sketchviz}
----
-static-subdir: images/sketchviz
----
 digraph G {
   graph [fontname="Handlee"];
   node [fontname="Handlee"];
