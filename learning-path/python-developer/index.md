@@ -24,9 +24,44 @@ tu disposición, podrás convertirte en un Pythonista aún más competente y
 versátil en tu campo. ¡Explora y aprende para crecer como desarrollador de
 Python!
 
-## Contenido
+```{sketchviz}
+---
+static-subdir: images/sketchviz
+---
+digraph G {
+  graph [fontname="Handlee"];
+  node [fontname="Handlee"];
+  edge [fontname="Handlee"];
+
+  bgcolor=transparent;
+  
+  p_1 [
+    label="Python Básico",
+    href="/learning-path/python-developer/basic-python/", 
+    target="_top"
+  ]
+  p_2 [
+    label="Python Avanzado",
+    href="/learning-path/python-developer/advanced-python/", 
+    target="_top"
+  ]
+
+  subgraph cluster_python {
+    style=filled;
+    color=lightgrey;
+    node [style=filled, color=pink];
+    p_1 -> p_2;
+    label = "*Desarrollador Python*";
+    fontsize = 20;
+    href="/learning-path/python-developer/";
+    target="_top";
+  }
+}
+```
 
 ```{toctree}
+:hidden: true
+
 basic-python.md
 advanced-python.md
 ```

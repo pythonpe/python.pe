@@ -25,9 +25,45 @@ Ciencia de Datos y avanzar en tu carrera como un Pythonista experto en este
 emocionante campo. ¡Explora, aprende y conviértete en un maestro en la Ciencia
 de Datos con Python!
 
-## Contenido
+```{sketchviz}
+---
+static-subdir: images/sketchviz
+---
+digraph G {
+  graph [fontname="Handlee"];
+  node [fontname="Handlee"];
+  edge [fontname="Handlee"];
+
+  bgcolor=transparent;
+  
+  dc_1 [
+    label="Ciencias de Datos Básico",
+    href="/learning-path/data-science/basic-data-science/", 
+    target="_top"
+  ]
+  dc_2 [
+    label="Ciencias de Datos Avanzado",
+    href="/learning-path/data-science/advanced-data-science/", 
+    target="_top"
+  ]
+
+  subgraph cluster_science {
+    style=filled;
+    color=lightgrey;
+    node [style=filled, color=pink];
+    dc_1 -> dc_2;
+    label = "*Ciencias de Datos*";
+    fontsize = 20;
+    color=lightblue;
+    href="/learning-path/data-science/";
+    target="_top";
+  }
+}
+```
 
 ```{toctree}
+:hidden: true
+
 basic-data-science.md
 advanced-data-science.md
 ```
