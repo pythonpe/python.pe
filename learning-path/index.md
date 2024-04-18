@@ -1,10 +1,19 @@
 # ¡Python de cero a Pro!
 
-En el vasto mundo del aprendizaje, las rutas de aprendizaje se erigen como faros guía, iluminando el camino hacia el conocimiento. Imagina un sendero serpenteante, tejido con módulos y habilidades específicas, diseñado para que cada estudiante trace su propio recorrido. Estas rutas no solo fomentan la autonomía y el compromiso, sino también reducen la deserción y aceleran la asimilación de saberes. ¿Te atreves a explorarlas?
+En el vasto mundo del aprendizaje, las rutas de aprendizaje se erigen como faros
+guía, iluminando el camino hacia el conocimiento. Imagina un sendero
+serpenteante, tejido con módulos y habilidades específicas, diseñado para que
+cada estudiante trace su propio recorrido. Estas rutas no solo fomentan la
+autonomía y el compromiso, sino también reducen la deserción y aceleran la
+asimilación de saberes. ¿Te atreves a explorarlas?
 
-Con nuestras recomendaciones podrás explorar cada tópico del desarrollo de software enfocado en Python e incluyendo algunos tópicos de ayuda como Docker o integración continua, te invitamos a revisar y complementar tus conocimientos con los recursos a continuación.
+Con nuestras recomendaciones podrás explorar cada tópico del desarrollo de
+software enfocado en Python e incluyendo algunos tópicos de ayuda como Docker o
+integración continua, te invitamos a revisar y complementar tus conocimientos
+con los recursos a continuación.
 
-Como mapa general estos son los tópicos que cubriremos en nuestra ruta de aprendizaje:
+Como mapa general estos son los tópicos que cubriremos en nuestra ruta de
+aprendizaje:
 
 
 ```{sketchviz}
@@ -12,64 +21,112 @@ Como mapa general estos son los tópicos que cubriremos en nuestra ruta de apren
 static-subdir: images/sketchviz
 ---
 digraph G {
-  graph [fontname = "Handlee"];
-  node [fontname = "Handlee"];
-  edge [fontname = "Handlee"];
+  graph [fontname="Handlee"];
+  node [fontname="Handlee"];
+  edge [fontname="Handlee"];
 
   bgcolor=transparent;
   
-  p_1 [label = "Python básico"]
-  p_2 [label = "Python Avanzado"]
+  p_1 [
+    label="Python Básico",
+    href="/learning-path/python-developer/basic-python/", 
+    target="_top"
+  ]
+  p_2 [
+    label="Python Avanzado",
+    href="/learning-path/python-developer/advanced-python/", 
+    target="_top"
+  ]
   
-  d_1 [label = "Desarrollador I"]
-  d_2 [label = "Desarrollador II"]
+  d_1 [
+    label="Desarrollador I",
+    href="/learning-path/web-developer/developer-1/", 
+    target="_top"
+  ]
+  d_2 [
+    label="Desarrollador II",
+    href="/learning-path/web-developer/developer-2/", 
+    target="_top"
+  ]
   
-  dc_1 [label = "Ciencia de datos básico"]
-  dc_2 [label = "Ciencia de datos avanzado"]
+  dc_1 [
+    label="Ciencias de Datos Básico",
+    href="/learning-path/data-science/basic-data-science/", 
+    target="_top"
+  ]
+  dc_2 [
+    label="Ciencias de Datos Avanzado",
+    href="/learning-path/data-science/advanced-data-science/", 
+    target="_top"
+  ]
   
-  dv_1 [label = "Despliegue"]
-  dv_2 [label = "Cloud"]
+  dv_1 [
+    label="Despliegue",
+    href="/learning-path/cloud-devops/deployment/", 
+    target="_top"
+  ]
+  dv_2 [
+    label="Cloud",
+    href="/learning-path/cloud-devops/cloud/", 
+    target="_top"
+  ]
   
-  ml_1 [label = "ML básico"]
-  ml_2 [label = "ML avanzado"]
+  ml_1 [
+    label="ML Básico",
+    href="/learning-path/machine-learning-ai/basic-ml/", 
+    target="_top"
+  ]
+  ml_2 [
+    label="ML Avanzado",
+    href="/learning-path/machine-learning-ai/advanced-ml/", 
+    target="_top"
+  ]
 
   subgraph cluster_python {
     style=filled;
     color=lightgrey;
-    node [style=filled,color=pink];
+    node [style=filled, color=pink];
     p_1 -> p_2;
     label = "*Desarrollador Python*";
     fontsize = 20;
+    href="/learning-path/python-developer/";
+    target="_top";
   }
 
   subgraph cluster_web {
     style=filled;
     color=lightgrey;
-    node [style=filled,color=pink];
+    node [style=filled, color=pink];
     d_1 -> d_2;
-    label = "*Desarrollador web*";
+    label = "*Desarrollador Web*";
     fontsize = 20;
     color=lightblue;
+    href="/learning-path/web-developer/";
+    target="_top";
   }
   
   subgraph cluster_science {
     style=filled;
     color=lightgrey;
-    node [style=filled,color=pink];
+    node [style=filled, color=pink];
     dc_1 -> dc_2;
-    label = "*Data Science*";
+    label = "*Ciencias de Datos*";
     fontsize = 20;
     color=lightblue;
+    href="/learning-path/data-science/";
+    target="_top";
   }
   
   subgraph cluster_devops {
     style=filled;
     color=lightgrey;
-    node [style=filled,color=pink];
+    node [style=filled, color=pink];
     dv_1 -> dv_2;
     label = "*Cloud y DevOps*";
     fontsize = 20;
     color=green;
+    href="/learning-path/cloud-devops/";
+    target="_top";
   }
   
   subgraph cluster_ml {
@@ -80,26 +137,23 @@ digraph G {
     label = "*Machine Learning e IA*";
     fontsize = 20;
     color=green;
+    href="/learning-path/machine-learning-ai/";
+    target="_top";
   }
   
-  start -> p_1;
   p_2 -> d_1;
   p_2 -> dc_1;
   d_2 -> dv_1;
   dc_2 -> ml_1;
-
-
-  start [label="*Inicio*" shape=Mdiamond];
 }
-
 ```
 
 ```{toctree}
 :hidden: true
 
-beginner.md
-intermediate.md
-advanced-a.md
-advanced-b.md
-pro.md
+python-developer/index.md
+web-developer/index.md
+data-science/index.md
+cloud-devops/index.md
+machine-learning-ai/index.md
 ```
