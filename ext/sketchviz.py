@@ -69,7 +69,7 @@ class Sketchviz(Directive):
         save_path = os.path.join(save_path, filename)
         subprocess.run(["sketchviz", temp_name, save_path], check=True)
         os.remove(temp_name)
-        logger.info("Sketchviz: Created SVG image: {save_path}")
+        logger.info(f"Sketchviz: Created SVG image: {save_path}")
 
         template = Environment(loader=BaseLoader).from_string(TEMPLATE)
 
