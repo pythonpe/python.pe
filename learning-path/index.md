@@ -31,7 +31,7 @@ digraph G {
   ]
   p_2 [
     label="Python Avanzado",
-    href="/learning-path/python-developer/#python-avanzado", 
+    href="/learning-path/python-developer/#python-avanzado",
     target="_top"
   ]
   

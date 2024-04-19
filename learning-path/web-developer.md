@@ -25,37 +25,6 @@ disposición, podrás perfeccionar tus habilidades y convertirte en un Pythonist
 aún más competente y exitoso en el mundo del desarrollo web. ¡Explora, aprende y
 lleva tus habilidades a nuevos horizontes!
 
-```{sketchviz}
-digraph G {
-  graph [fontname="Handlee"];
-  node [fontname="Handlee"];
-  edge [fontname="Handlee"];
-
-  bgcolor=transparent;
-  
-  d_1 [
-    label="Desarrollador I",
-    href="/learning-path/web-developer/#desarrollador-i", 
-    target="_top"
-  ]
-  d_2 [
-    label="Desarrollador II",
-    href="/learning-path/web-developer/#desarrollador-ii", 
-    target="_top"
-  ]
-
-  subgraph cluster_web {
-    node [style=filled, color=pink];
-    style=filled;
-    color=lightblue;
-    fontsize = 20;
-    label = "*Desarrollador Web*";
-    href="/learning-path/web-developer/";
-    target="_top";
-    d_1 -> d_2;
-  }
-}
-```
 
 ## Desarrollador I
 

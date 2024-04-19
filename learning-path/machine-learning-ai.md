@@ -27,37 +27,6 @@ IA y destacarte como un experto en este campo en constante evolución. ¡Explora
 aprende y conviértete en un Pythonista líder en Machine Learning e Inteligencia
 Artificial!
 
-```{sketchviz}
-digraph G {
-  graph [fontname="Handlee"];
-  node [fontname="Handlee"];
-  edge [fontname="Handlee"];
-
-  bgcolor=transparent;
-  
-  ml_1 [
-    label="ML Básico",
-    href="/learning-path/machine-learning-ai/#ml-basico", 
-    target="_top"
-  ]
-  ml_2 [
-    label="ML Avanzado",
-    href="/learning-path/machine-learning-ai/#ml-avanzado", 
-    target="_top"
-  ]
-  
-  subgraph cluster_ml {
-    node [style=filled,color=pink];
-    style=filled;
-    color=green;
-    fontsize = 20;
-    label = "*Machine Learning e IA*";
-    href="/learning-path/machine-learning-ai/";
-    target="_top";
-    ml_1 -> ml_2;
-  }
-}
-```
 
 ## ML Básico
 

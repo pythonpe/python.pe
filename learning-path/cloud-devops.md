@@ -27,37 +27,6 @@ siguiente nivel, mejorar la eficiencia de tus proyectos y destacarte como un
 experto en este campo en constante evolución. ¡Explora, aprende y conviértete en
 un Pythonista líder en Cloud y DevOps!
 
-```{sketchviz}
-digraph G {
-  graph [fontname="Handlee"];
-  node [fontname="Handlee"];
-  edge [fontname="Handlee"];
-
-  bgcolor=transparent;
-  
-  dv_1 [
-    label="Despliegue",
-    href="/learning-path/cloud-devops/#despliegue", 
-    target="_top"
-  ]
-  dv_2 [
-    label="Cloud",
-    href="/learning-path/cloud-devops/#cloud", 
-    target="_top"
-  ]
-  
-  subgraph cluster_devops {
-    node [style=filled, color=pink];
-    style=filled;
-    color=green;
-    fontsize = 20;
-    label = "*Cloud y DevOps*";
-    href="/learning-path/cloud-devops/";
-    target="_top";
-    dv_1 -> dv_2;
-  }
-}
-```
 
 ## Despliegue
 
