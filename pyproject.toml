@@ -19,7 +19,6 @@ sphinx-togglebutton = "^0.3.2"
 sphinx-sitemap = "^2.5.1"
 sphinx-tabs = "^3.4.5"
 libgravatar = "^1.0.4"
-pillow = "^10.3.0"
 sphinxext-opengraph = "^0.9.1"
 matplotlib = "^3.8.4"
 
