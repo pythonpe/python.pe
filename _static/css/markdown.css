@@ -63,3 +63,8 @@ html.dark div.sketchviz-image {
     width: 2em;
     height: 2em;
 }
+
+.social-media a {
+    display: flex;
+    border-bottom: unset !important;
+}

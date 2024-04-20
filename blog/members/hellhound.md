@@ -20,9 +20,6 @@ style: "margin: 0 auto; display: block; border-radius: 200px;"
 
 :Ciudad: Lima
 
-
-## Contacto
-
 :Homepage: https://chauvel.org
 
 :Redes Sociales:
