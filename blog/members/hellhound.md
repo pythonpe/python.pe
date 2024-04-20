@@ -26,19 +26,19 @@ style: "margin: 0 auto; display: block; border-radius: 200px;"
 :Homepage: https://chauvel.org
 
 :Redes Sociales:
-```{rst-class} i-icon github
+```{rst-class} i-icon social-media github
 https://github.com/jpchauvel
 ```
-```{rst-class} i-icon gitlab
+```{rst-class} i-icon social-media gitlab
 https://gitlab.com/jpchauvel
 ```
-```{rst-class} i-icon linkedin
+```{rst-class} i-icon social-media linkedin
 https://linkedin.com/in/jpchauvel
 ```
-```{rst-class} i-icon facebook
+```{rst-class} i-icon social-media facebook
 https://facebook.com/hellhovnd
 ```
-```{rst-class} i-icon x-twitter
+```{rst-class} i-icon social-media x-twitter
 https://twitter.com/hellhoundorf
 ```
 

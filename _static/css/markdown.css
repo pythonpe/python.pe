@@ -58,3 +58,8 @@ html.dark div.sketchviz-image {
 .i-icon.facebook {
     --icon-url:var(--i-facebook-url);
 }
+
+.i-icon.social-media {
+    width: 2em;
+    height: 2em;
+}
