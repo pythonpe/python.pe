@@ -56,7 +56,7 @@ freelancer y realizo trabajos para diferentes empresas del medio digital.
 
 Vim es mi editor por elección, no uso otra cosa para editar texto/código. Uso la
 terminal para casi todo, me desenvuelvo muy bien en ambiente basado en
-cararacteres.
+caracteres.
 
 Uso [Poetry](https://python-poetry.org) para virtualizar las dependencias de mis
 proyectos, aunque recientemente he estado utilizado
