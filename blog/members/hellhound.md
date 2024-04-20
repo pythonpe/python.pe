@@ -12,7 +12,7 @@ lanaguage: Español
 ```{gravatar} jean.pierre@chauvel.org
 ---
 width: 200
-style: "margin: 0 auto; display: block; border-radius: 200px;"
+style: "border-radius: 200px;"
 ---
 ```
 
