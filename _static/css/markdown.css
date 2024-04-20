@@ -45,3 +45,16 @@ div.sketchviz-image object {
 html.dark div.sketchviz-image {
     filter: invert(100%);
 }
+
+:root {
+    --i-linkedin-url:url('/_static/icons/linkedin.svg');
+    --i-facebook-url:url('/_static/icons/facebook.svg');
+}
+
+.i-icon.linkedin {
+    --icon-url:var(--i-linkedin-url);
+}
+
+.i-icon.facebook {
+    --icon-url:var(--i-facebook-url);
+}

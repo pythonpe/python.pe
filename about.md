@@ -21,6 +21,5 @@ y apoyo mutuo para impulsar el éxito colectivo de nuestros miembros.
 category: members
 format: "{title}"
 list-style: circle
-excerpts:
 ---
 ```
