@@ -11,60 +11,86 @@
 }
 
 h1.head-title {
-    color: var(--sy-c-link-hover);
+  color: var(--sy-c-link-hover);
 }
 
 .head-button {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
 .yue p.lead {
-    text-align: center;
+  text-align: center;
 }
 
 #embed ul li p img {
-    max-width: 300px;
-    max-height: 300px;
+  max-width: 300px;
+  max-height: 300px;
 }
 
 #embed ul li p {
-    color: var(--sy-c-light);
+  color: var(--sy-c-light);
 }
 
 #embed ul li p img {
-    max-width: 300px;
-    max-height: 300px;
+  max-width: 300px;
+  max-height: 300px;
 }
 
 div.sketchviz-image object {
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 html.dark div.sketchviz-image {
-    filter: invert(100%);
+  filter: invert(100%);
 }
 
 :root {
-    --i-linkedin-url:url('/_static/icons/linkedin.svg');
-    --i-facebook-url:url('/_static/icons/facebook.svg');
+  --i-linkedin-url: url("/_static/icons/linkedin.svg");
+  --i-facebook-url: url("/_static/icons/facebook.svg");
 }
 
 .i-icon.linkedin {
-    --icon-url:var(--i-linkedin-url);
+  --icon-url: var(--i-linkedin-url);
 }
 
 .i-icon.facebook {
-    --icon-url:var(--i-facebook-url);
+  --icon-url: var(--i-facebook-url);
 }
 
 .i-icon.social-media {
-    width: 2em;
-    height: 2em;
+  width: 2em;
+  height: 2em;
 }
 
 .social-media a {
-    display: flex;
-    border-bottom: unset !important;
+  display: flex;
+  border-bottom: unset !important;
 }
+
+section>div.member-gravatar {
+    margin-bottom: 0;
+}
+
+div.member-gravatar img {
+  width: 200px;
+  border-radius: 200px;
+}
+
+#eventos li .ablog-post-title {
+  font-size: 1.8em;
+}
+
+#eventos li .ablog-post-title a {
+  color: var(--sy-c-link-hover);
+}
+
+#eventos li p.ablog-post-excerpt img {
+  max-height: 200px;
+}
+
+#eventos li p.ablog-post-excerpt:has(img) {
+  text-align: center;
+}
+

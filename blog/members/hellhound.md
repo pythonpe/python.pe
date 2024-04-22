@@ -12,17 +12,10 @@ lanaguage: Español
 ```{gravatar} jean.pierre@chauvel.org
 ---
 width: 200
-style: "border-radius: 200px;"
+class: "member-gravatar"
 ---
 ```
 
-:Aliases: hellhound
-
-:Ciudad: Lima
-
-:Homepage: https://chauvel.org
-
-:Redes Sociales:
 ```{rst-class} i-icon social-media github
 https://github.com/jpchauvel
 ```
@@ -38,6 +31,13 @@ https://facebook.com/hellhovnd
 ```{rst-class} i-icon social-media x-twitter
 https://twitter.com/hellhoundorf
 ```
+
+:Aliases: hellhound
+
+:Ciudad: Lima
+
+:Homepage: https://chauvel.org
+
 
 ## Sobre mí
 
