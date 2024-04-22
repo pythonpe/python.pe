@@ -1,0 +1,51 @@
+name: Deploy Python Perú to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.12' 
+      - name: Set Locale
+        run: |
+          sudo apt-get update && sudo apt-get install tzdata locales -y && sudo locale-gen es_ES.UTF-8
+          sudo localectl set-locale LANG="es_ES.UTF-8"
+          export LANG="es_ES.UTF-8"
+          export LANGUAGE="es_ES.UTF-8"
+          sudo update-locale
+          locale -a
+          locale
+          locale -c -k LC_NUMERIC
+          localectl status
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+      - name: Install graphviz
+        run: |
+          sudo apt-get install graphviz nodejs npm
+          sudo ./bin/install-sketchviz.sh
+      - name: Build Blog
+        run: |
+          ablog build
+      - name: Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+        with:
+          publish_branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _website/
+          exclude_assets: '.github'
+          force_orphan: true
+          cname: python.pe
