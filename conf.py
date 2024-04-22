@@ -422,7 +422,7 @@ sitemap_url_scheme = "{link}"
 html_extra_path = ["_extra"]
 
 # OpenGraph options
-ogp_site_url = "https:/www.python.pe"
+ogp_site_url = "https://www.python.pe"
 ogp_enable_meta_description = True
 ogp_social_cards = {
     "line_color": "#4078c0",
