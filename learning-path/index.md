@@ -1,5 +1,10 @@
 # ¡Python de cero a Pro!
 
+
+```{attention}
+Nuestra ruta de aprendizaje se encuentra actualmente en desarrollo.
+```
+
 En el vasto mundo del aprendizaje, las rutas de aprendizaje se erigen como faros
 guía, iluminando el camino hacia el conocimiento. Imagina un sendero
 serpenteante, tejido con módulos y habilidades específicas, diseñado para que
