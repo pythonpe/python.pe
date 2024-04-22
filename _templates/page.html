@@ -1,11 +1,7 @@
 {%- extends "!page.html" %}
 
 {%- block extrahead %}
-<meta name="description" content="{{ title|striptags|e }}">
 <meta name="robots" content="follow, index">
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<meta property="og:site_name" content="Python Perú">
-<meta property="og:title" content="{{ title|striptags|e }}">
-<meta property="og:description" content="{{ title|striptags|e }}">
 {{ super() }}
 {% endblock extrahead %}
