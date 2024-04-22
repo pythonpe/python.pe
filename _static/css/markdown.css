@@ -10,7 +10,7 @@
   text-align: center;
 }
 
-h1.head-title {
+.head-title h1 {
   color: var(--sy-c-link-hover);
 }
 

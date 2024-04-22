@@ -3,14 +3,12 @@ layout: landing
 description: Python Perú
 ---
 
-````{rst-class} head-title
+{.head-title}
 # Python Perú
 
-```{rst-class} lead
+{.lead}
 ¡Bienvenidos a la Comunidad Peruana de Python!
-```
 
-````
 
 ````{rst-class} head-button
 :::{container} buttons
