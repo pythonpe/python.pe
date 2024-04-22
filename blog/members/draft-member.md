@@ -60,6 +60,6 @@ Más blah.
 
 Mucho más blah.
 
-### ¿Estás disponible para hacer mentoring, cunsoltorías, charlas?
+### ¿Estás disponible para hacer mentoring, consultorías, charlas?
 
 Blah.

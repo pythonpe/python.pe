@@ -55,6 +55,6 @@ Sobre Python, trato de trabajar con entornos virtuales la mayor parte del tiempo
 
 Aún no tengo nada con la que pueda fanfarronear pero tengo en mente armar un canal de YouTube con contenido de Python en español.
 
-### ¿Estás disponible para hacer mentoring, cunsoltorías, charlas?
+### ¿Estás disponible para hacer mentoring, consultorías, charlas?
 
 Definitivamente, siempre que me avisen con suficiente tiempo para prepararme.
