@@ -218,6 +218,7 @@ extensions = [
 myst_enable_extensions = [
     "amsmath",
     "attrs_inline",
+    "attrs_block",
     "colon_fence",
     "deflist",
     "dollarmath",
