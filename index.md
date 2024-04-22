@@ -1,6 +1,9 @@
 ---
 layout: landing
 description: Python Perú
+myst:
+  html_meta:
+   "keywords": "Python, Perú, programación, blog, desarrollo, código, comunidad, lenguaje, tutoriales, proyectos, Machine Learnig, Inteligencia Artificial, IA, Frameworks"
 ---
 
 {.head-title}
