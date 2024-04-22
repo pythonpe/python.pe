@@ -6,12 +6,10 @@
   width: 30vw;
 }
 
-.head-title {
-  text-align: center;
-}
 
 .head-title h1 {
   color: var(--sy-c-link-hover);
+  text-align: center;
 }
 
 .head-button {
@@ -30,6 +28,10 @@
 
 #embed ul li p {
   color: var(--sy-c-light);
+}
+
+#embed ul li p:has(img) {
+  text-align: center;
 }
 
 #embed ul li p img {
