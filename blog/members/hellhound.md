@@ -60,7 +60,7 @@ caracteres.
 Uso [Poetry](https://python-poetry.org) para virtualizar las dependencias de mis
 proyectos, aunque recientemente he estado utilizado
 [PDM](https://pdm-project.org/en/latest/) y cómo no el depurador
-[pdb](https://docs.python.org/3/library/pdb.html) el depurador de Python.
+[pdb](https://docs.python.org/3/library/pdb.html) de Python.
 
 También utilizo `screen` para multiplexar la terminal y así administrar
 diferentes "ventanas" de la terminal: Una para editar, la otra para correr el
