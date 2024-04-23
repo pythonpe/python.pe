@@ -113,6 +113,11 @@ html.dark div.sketchviz-image {
   text-align: center;
 }
 
+#miembros ul.postlist li.ablog-post img.member-gravatar {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 html.dark #miembros ul.postlist li.ablog-post {
   background-color: #362b2b;
