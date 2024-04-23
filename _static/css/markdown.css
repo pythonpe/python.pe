@@ -6,7 +6,6 @@
   width: 30vw;
 }
 
-
 .head-title h1 {
   color: var(--sy-c-link-hover);
   text-align: center;
@@ -71,14 +70,12 @@ html.dark div.sketchviz-image {
   border-bottom: unset !important;
 }
 
-section>div.member-gravatar {
-    margin-bottom: 0;
-}
-
-div.member-gravatar img {
+.member-gravatar {
   width: 200px;
   border-radius: 200px;
+  display: block !important;
 }
+
 
 #eventos li .ablog-post-title {
   font-size: 1.8em;
@@ -96,3 +93,6 @@ div.member-gravatar img {
   text-align: center;
 }
 
+#miembros li p.i-icon:has(a) {
+  display: none;
+}

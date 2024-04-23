@@ -3,22 +3,15 @@
 
 from docutils import nodes
 from docutils.parsers.rst import Directive
-from jinja2 import BaseLoader, Environment
 from libgravatar import Gravatar
 from sphinx.application import Sphinx
 from sphinx.util import logging
 
 logger = logging.getLogger(__name__)
 
-GRAVATAR_TEMPLATE = """
-<div class="{{ klass }}">
-    <img src={{ url }}
-    {% if align %} align="{{ align }}"{% endif %}
-    {% if klass %} class="{{ klass }}"{% endif %}
-    {% if style %} style="{{ style }}"{% endif %}
-    {% if width %} width="{{ width }}" height="{{ width }}"{% endif %}>
-</div>
-"""
+
+def _split(value: str) -> list:
+    return [v.strip() for v in value.split(",")]
 
 
 class GravatarImage(Directive):
@@ -26,17 +19,15 @@ class GravatarImage(Directive):
     has_content = True
     final_argument_whitespace = False
     option_spec = {
-        "align": lambda a: a.strip(),
-        "class": lambda a: a.strip(),
-        "style": lambda a: a.strip(),
+        "alt": lambda a: a.strip(),
+        "class": _split,
         "width": lambda a: a.strip(),
     }
 
     def run(self):
         email = self.content[0]
-        align = self.options.get("align")
+        alt = self.options.get("alt", "Python developer")
         klass = self.options.get("class")
-        style = self.options.get("style")
         width = self.options.get("width")
 
         logger.info(f"Getting Gravatar image for email: {email}")
@@ -45,20 +36,12 @@ class GravatarImage(Directive):
             url = f"{url}?s={width}"
         logger.info(f"Got image URL: {url}")
 
-        template = Environment(
-            loader=BaseLoader, trim_blocks=True, lstrip_blocks=True
-        ).from_string(GRAVATAR_TEMPLATE)
+        data = {}
+        if klass is not None:
+            data['classes'] = klass
 
-        out = template.render(
-            url=url,
-            align=align,
-            klass=klass,
-            style=style,
-            width=width,
-        )
-        # User a raw pass-through node
-        para = nodes.raw("", out, format="html")
-        return [para]
+        image = nodes.image(alt=alt, classes=klass, uri=url)
+        return [image]
 
 
 def setup(app: Sphinx):

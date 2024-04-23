@@ -4,9 +4,11 @@ author: joe
 location: Lima, Perú
 category: members
 lanaguage: Español
+image: 1
+excerpt: 1
 ---
 
-% NOTA: No olvidar poner la fecha de publicación
+% NOTA: No olvidar poner la fecha de publicación debajo de `blogpost: true`
 
 # Joe Doe
 
