@@ -96,3 +96,25 @@ html.dark div.sketchviz-image {
 #miembros li p.i-icon:has(a) {
   display: none;
 }
+
+#miembros ul.postlist {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+  list-style: none;
+  padding: 0;
+}
+
+#miembros ul.postlist li.ablog-post {
+  background-color: #fef1f1;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  text-align: center;
+}
+
+
+html.dark #miembros ul.postlist li.ablog-post {
+  background-color: #362b2b;
+  box-shadow: 0 2px 4px rgba(246, 241, 241, 0.1);
+}
