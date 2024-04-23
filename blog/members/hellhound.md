@@ -5,6 +5,8 @@ author: hellhound
 location: Lima, Perú
 category: members
 lanaguage: Español
+image: 1
+excerpt: 1
 ---
 
 # Jean-Pierre Chauvel
