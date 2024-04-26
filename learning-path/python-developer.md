@@ -24,6 +24,18 @@ tu disposición, podrás convertirte en un Pythonista aún más competente y
 versátil en tu campo. ¡Explora y aprende para crecer como desarrollador de
 Python!
 
+**Leyenda:**
+
+📗: Libro
+
+📹: Video tutorial
+
+🎓: Curso
+
+🧑‍💻: Codigo practico
+
+Los nombres con asterisco al final (*) son con contenido en inglés
+
 
 ## Python Básico
 
@@ -48,25 +60,36 @@ digraph G {
     t7 [label="Tópico 7", href=""];
     t6 [label="Tópico 6", href=""];
     t5 [label="Tópico 5", href=""];
-    t4 [label="Tópico 4", href=""];
-    t3 [label="Tópico 3", href=""];
-    t2 [label="Tópico 2", href=""];
-    t1 [label="Tópico 1", href=""];
-    basic_python [id="basic-python", label="Python Básico"];
+    t4 [
+      label="🧑‍💻 30 days of Python*",
+      href="https://github.com/Asabeneh/30-Days-Of-Python?tab=readme-ov-file"
+      color="lightgreen"
+      target="_top"];
+    t3 [
+      label="🎓 Python para principiantes \n (Microsoft)",
+      href="https://learn.microsoft.com/es-es/training/paths/beginner-python/"
+      color="lightgreen"
+      target="_top"];
+    t2 [
+      label="📹 Curso de Python \n desde cero (MoureDev)",
+      href="https://www.youtube.com/watch?v=Kp4Mvapo5kc"
+      color="lightgreen"
+      target="_top"];
+    t1 [
+      label="📗 Curso intensivo de python",
+      href="https://anayamultimedia.es/libro/titulos-especiales/curso-intensivo-de-python-2a-edicion-eric-matthes-9788441543348/"
+      color="lightgreen"
+      target="_top"];
     algostruct [label="Estructura de Datos\ny\nAlgoritmos Básicos"];
     basic_arch [label="Arquitectura\nBásica"];
     clean_code [label="Clean Code"];
     fundamentals [label="Fundamentos\nBásicos de Python"];
-    basic_python -> algostruct;
-    basic_python -> basic_arch;
-    basic_python -> clean_code;
-    basic_python -> fundamentals;
+    fundamentals -> t4;
     fundamentals -> t3;
     fundamentals -> t2;
     fundamentals -> t1;
     clean_code -> t6;
     clean_code -> t5;
-    clean_code -> t4;
     basic_arch -> t9;
     basic_arch -> t8;
     basic_arch -> t7;
