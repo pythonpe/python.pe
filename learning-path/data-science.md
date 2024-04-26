@@ -25,6 +25,20 @@ Ciencia de Datos y avanzar en tu carrera como un Pythonista experto en este
 emocionante campo. ¡Explora, aprende y conviértete en un maestro en la Ciencia
 de Datos con Python!
 
+**Leyenda:**
+
+📗: Libro
+
+📹: Video tutorial
+
+🎓: Curso
+
+🧑‍💻: Código práctico
+
+📝: Blog post
+
+Los nombres con asterisco al final (*) son con contenido en inglés.
+
 
 ## Ciencias de Datos Básico
 
