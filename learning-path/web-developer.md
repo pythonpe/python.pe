@@ -33,7 +33,7 @@ lleva tus habilidades a nuevos horizontes!
 
 🎓: Curso
 
-🧑‍💻: Código practico
+🧑‍💻: Código práctico
 
 📝: Blog post
 

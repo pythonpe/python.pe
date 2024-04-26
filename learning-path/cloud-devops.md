@@ -35,7 +35,7 @@ un Pythonista líder en Cloud y DevOps!
 
 🎓: Curso
 
-🧑‍💻: Código practico
+🧑‍💻: Código práctico
 
 📝: Blog post
 

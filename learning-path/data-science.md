@@ -33,7 +33,7 @@ de Datos con Python!
 
 🎓: Curso
 
-🧑‍💻: Código practico
+🧑‍💻: Código práctico
 
 📝: Blog post
 

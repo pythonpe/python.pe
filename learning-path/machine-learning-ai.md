@@ -35,7 +35,7 @@ Artificial!
 
 🎓: Curso
 
-🧑‍💻: Código practico
+🧑‍💻: Código práctico
 
 📝: Blog post
 
