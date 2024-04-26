@@ -27,6 +27,20 @@ IA y destacarte como un experto en este campo en constante evolución. ¡Explora
 aprende y conviértete en un Pythonista líder en Machine Learning e Inteligencia
 Artificial!
 
+**Leyenda:**
+
+📗: Libro
+
+📹: Video tutorial
+
+🎓: Curso
+
+🧑‍💻: Código practico
+
+📝: Blog post
+
+Los nombres con asterisco al final (*) son con contenido en inglés.
+
 
 ## ML Básico
 

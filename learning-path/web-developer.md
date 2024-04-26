@@ -25,6 +25,20 @@ disposición, podrás perfeccionar tus habilidades y convertirte en un Pythonist
 aún más competente y exitoso en el mundo del desarrollo web. ¡Explora, aprende y
 lleva tus habilidades a nuevos horizontes!
 
+**Leyenda:**
+
+📗: Libro
+
+📹: Video tutorial
+
+🎓: Curso
+
+🧑‍💻: Código practico
+
+📝: Blog post
+
+Los nombres con asterisco al final (*) son con contenido en inglés.
+
 
 ## Desarrollador I
 

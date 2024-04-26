@@ -32,7 +32,7 @@ Python!
 
 🎓: Curso
 
-🧑‍💻: Codigo practico
+🧑‍💻: Código practico
 
 📝: Blog post
 
