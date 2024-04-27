@@ -4,7 +4,7 @@ date: 21 Oct, 2023
 author: soloidx
 location: Lima, Perú
 category: events
-lanaguage: Español
+language: Español
 ---
 
 # Segundo Meetup de Python Perú

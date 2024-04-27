@@ -50,6 +50,7 @@ html.dark div.sketchviz-image {
 :root {
   --i-linkedin-url: url("/_static/icons/linkedin.svg");
   --i-facebook-url: url("/_static/icons/facebook.svg");
+  --i-instagram-url: url("/_static/icons/instagram.svg");
 }
 
 .i-icon.linkedin {
@@ -58,6 +59,10 @@ html.dark div.sketchviz-image {
 
 .i-icon.facebook {
   --icon-url: var(--i-facebook-url);
+}
+
+.i-icon.instagram {
+  --icon-url: var(--i-instagram-url);
 }
 
 .i-icon.social-media {

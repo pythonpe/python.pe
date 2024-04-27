@@ -4,7 +4,7 @@ date: 22 Apr, 2024
 author: richi
 location: Lima, Perú
 category: members
-lanaguage: Español
+language: Español
 image: 1
 excerpt: 1
 ---
@@ -44,7 +44,7 @@ son mis frameworks favoritos). Así como también tuve la oportunidad de realiza
 apps mobile usando React Native y Flutter; y realicé tareas como frontend developer
 con React y Angular (casi por 2 años).
 
-Ya llevo más de 3 años trabajando para proyectos de USA, tuve la oportunidad de 
+Ya llevo más de 3 años trabajando para proyectos de USA, tuve la oportunidad de
 estar en Paypal alrededor de 2 años donde aprendí mucho sobre Django, AWS, K8s,
 Terraform... y a como lidear con los famosos oncalls mediante Datadog y PDuty.
 
@@ -55,11 +55,11 @@ Comencé con una Linux - Ubuntu (versión 12 creo que tenía en esos años) y ac
 cuento con una MacBook Intel (no usen M1/M2/M3, consejo de conejo). Suelo dockerizar
 mis proyectos o a veces toca trabajarlo como Dios lo mande.
 
-En software suelo usar mucho Pycharm (cuando el proyecto es un monolito) y VsCode 
+En software suelo usar mucho Pycharm (cuando el proyecto es un monolito) y VsCode
 (cuando son microservicios.)
 
 Sobre Python, trato de trabajar con entornos virtuales la mayor parte del tiempo
-(Poetry y venv), en relación a versiones de Python, uso Pyenv y para temas de 
+(Poetry y venv), en relación a versiones de Python, uso Pyenv y para temas de
 terminales, el magnífico iterm2 con .zsh
 
 ### ¿Tienes algún aporte a la comunidad de Python?

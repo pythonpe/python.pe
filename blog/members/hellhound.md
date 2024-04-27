@@ -4,7 +4,7 @@ date: 19 Apr, 2024
 author: hellhound
 location: Lima, Perú
 category: members
-lanaguage: Español
+language: Español
 image: 1
 excerpt: 1
 ---
