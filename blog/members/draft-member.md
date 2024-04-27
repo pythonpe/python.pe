@@ -3,7 +3,7 @@ blogpost: true
 author: joe
 location: Lima, Perú
 category: members
-lanaguage: Español
+language: Español
 image: 1
 excerpt: 1
 ---

@@ -4,7 +4,7 @@ date: 22 Apr, 2024
 author: soloidx
 location: Lima, Perú
 category: members
-lanaguage: Español
+language: Español
 image: 1
 excerpt: 1
 ---
