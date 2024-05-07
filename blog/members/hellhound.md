@@ -30,6 +30,9 @@ https://linkedin.com/in/jpchauvel
 ```{rst-class} i-icon social-media facebook
 https://facebook.com/hellhovnd
 ```
+```{rst-class} i-icon social-media instagram
+https://www.instagram.com/hellhoundorf
+```
 ```{rst-class} i-icon social-media x-twitter
 https://twitter.com/hellhoundorf
 ```
