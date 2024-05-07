@@ -12,6 +12,15 @@ myst:
 {.lead}
 ¡Bienvenidos a la Comunidad Peruana de Python!
 
+```{rst-class} i-icon social-media github
+https://github.com/pythonpe/python.pe
+```
+```{rst-class} i-icon social-media meetup
+https://www.meetup.com/pythonperu/
+```
+```{rst-class} i-icon social-media whatsapp
+https://chat.whatsapp.com/D9bPvUrddvSBUIkMSoTqrk
+```
 
 ````{rst-class} head-button
 :::{container} buttons
