@@ -20,25 +20,28 @@ class: "member-gravatar"
 ```
 
 ```{rst-class} i-icon social-media github
-https://github.com/joe.doe
+[.](https://github.com/joe.doe)
 ```
 ```{rst-class} i-icon social-media gitlab
-https://gitlab.com/joe.doe
+[.](https://gitlab.com/joe.doe)
 ```
 ```{rst-class} i-icon social-media bitbucket
-https://bitbucket.org/joe.doe
+[.](https://bitbucket.org/joe.doe)
 ```
 ```{rst-class} i-icon social-media linkedin
-https://linkedin.com/in/joe.doe
+[.](https://linkedin.com/in/joe.doe)
 ```
 ```{rst-class} i-icon social-media facebook
-https://facebook.com/joe.doe
+[.](https://facebook.com/joe.doe)
+```
+```{rst-class} i-icon social-media instagram
+[.](https://instragram.com/joe.doe)
 ```
 ```{rst-class} i-icon social-media x-twitter
-https://twitter.com/joe.doe
+[.](https://twitter.com/joe.doe)
 ```
 ```{rst-class} i-icon social-media youtube
-https://youtube.com/@joe.doe
+[.](https://youtube.com/@joe.doe)
 ```
 
 :Aliases: joe

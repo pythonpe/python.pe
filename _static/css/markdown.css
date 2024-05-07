@@ -90,6 +90,11 @@ html.dark div.sketchviz-image {
   height: 2em;
 }
 
+.i-icon.social-media a {
+  width: 2em;
+  height: 2em;
+}
+
 .social-media a {
   display: flex;
   border-bottom: unset !important;

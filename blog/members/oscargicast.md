@@ -19,19 +19,19 @@ class: "member-gravatar"
 ```
 
 ```{rst-class} i-icon social-media linkedin
-https://www.linkedin.com/in/oscargicast/
+[.](https://www.linkedin.com/in/oscargicast/)
 ```
 
 ```{rst-class} i-icon social-media youtube
-https://www.youtube.com/@devosqui/videos
+[.](https://www.youtube.com/@devosqui/videos)
 ```
 
 ```{rst-class} i-icon social-media github
-https://github.com/oscargicast
+[.](https://github.com/oscargicast)
 ```
 
 ```{rst-class} i-icon social-media instagram
-https://www.instagram.com/devosqui
+[.](https://www.instagram.com/devosqui)
 ```
 
 :Aliases: oscargicast
