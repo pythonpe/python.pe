@@ -6,8 +6,14 @@
   width: 30vw;
 }
 
-section#python-peru:has(p.social-media) {
+ul.social-media {
+  list-style: none;
   text-align: center;
+  padding: 0;
+}
+
+ul.social-media li {
+  display: inline;
 }
 
 .head-title h1 {

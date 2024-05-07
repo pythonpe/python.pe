@@ -12,14 +12,24 @@ myst:
 {.lead}
 ¡Bienvenidos a la Comunidad Peruana de Python!
 
-```{rst-class} i-icon social-media github
-https://github.com/pythonpe/python.pe
-```
-```{rst-class} i-icon social-media meetup
-https://www.meetup.com/pythonperu/
-```
-```{rst-class} i-icon social-media whatsapp
-https://chat.whatsapp.com/D9bPvUrddvSBUIkMSoTqrk
+```{raw} html
+<ul class="social-media">
+    <li>
+        <p class="i-icon social-media github">
+            <a href="https://github.com/pythonpe/python.pe" target="_top"></a>
+        </p>
+    </li>
+    <li>
+        <p class="i-icon social-media meetup">
+            <a href="https://www.meetup.com/pythonperu/" target="_top"></a>
+        </p>
+    </li>
+    <li>
+        <p class="i-icon social-media whatsapp">
+            <a href="https://chat.whatsapp.com/D9bPvUrddvSBUIkMSoTqrk" target="_top"></a>
+        </p>
+    </li>
+</ul>
 ```
 
 ````{rst-class} head-button
