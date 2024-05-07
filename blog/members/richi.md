@@ -19,13 +19,13 @@ class: "member-gravatar"
 ```
 
 ```{rst-class} i-icon social-media github
-https://github.com/richardcancino17
+[.](https://github.com/richardcancino17)
 ```
 ```{rst-class} i-icon social-media linkedin
-https://linkedin.com/in/richard-cancino-061413151/
+[.](https://linkedin.com/in/richard-cancino-061413151/)
 ```
 ```{rst-class} i-icon social-media x-twitter
-https://twitter.com/rc_moons
+[.](https://twitter.com/rc_moons)
 ```
 
 :Aliases: richi

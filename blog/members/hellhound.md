@@ -19,22 +19,22 @@ class: "member-gravatar"
 ```
 
 ```{rst-class} i-icon social-media github
-https://github.com/jpchauvel
+[.](https://github.com/jpchauvel)
 ```
 ```{rst-class} i-icon social-media gitlab
-https://gitlab.com/jpchauvel
+[.](https://gitlab.com/jpchauvel)
 ```
 ```{rst-class} i-icon social-media linkedin
-https://linkedin.com/in/jpchauvel
+[.](https://linkedin.com/in/jpchauvel)
 ```
 ```{rst-class} i-icon social-media facebook
-https://facebook.com/hellhovnd
+[.](https://facebook.com/hellhovnd)
 ```
 ```{rst-class} i-icon social-media instagram
-https://www.instagram.com/hellhoundorf
+[.](https://www.instagram.com/hellhoundorf)
 ```
 ```{rst-class} i-icon social-media x-twitter
-https://twitter.com/hellhoundorf
+[.](https://twitter.com/hellhoundorf)
 ```
 
 :Aliases: hellhound

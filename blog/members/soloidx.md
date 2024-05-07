@@ -19,13 +19,13 @@ class: "member-gravatar"
 ```
 
 ```{rst-class} i-icon social-media github
-https://github.com/soloidx
+[.](https://github.com/soloidx)
 ```
 ```{rst-class} i-icon social-media linkedin
-https://linkedin.com/in/soloidx
+[.](https://linkedin.com/in/soloidx)
 ```
 ```{rst-class} i-icon social-media x-twitter
-https://twitter.com/soloidx
+[.](https://twitter.com/soloidx)
 ```
 
 :Aliases: soloidx

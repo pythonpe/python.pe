@@ -16,17 +16,17 @@ myst:
 <ul class="social-media">
     <li>
         <p class="i-icon social-media github">
-            <a href="https://github.com/pythonpe/python.pe" target="_top"></a>
+            <a class="external reference" href="https://github.com/pythonpe/python.pe">.</a>
         </p>
     </li>
     <li>
         <p class="i-icon social-media meetup">
-            <a href="https://www.meetup.com/pythonperu/" target="_top"></a>
+            <a class="external reference" href="https://www.meetup.com/pythonperu/">.</a>
         </p>
     </li>
     <li>
         <p class="i-icon social-media whatsapp">
-            <a href="https://chat.whatsapp.com/D9bPvUrddvSBUIkMSoTqrk" target="_top"></a>
+            <a class="external reference" href="https://chat.whatsapp.com/D9bPvUrddvSBUIkMSoTqrk">.</a>
         </p>
     </li>
 </ul>
