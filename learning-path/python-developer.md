@@ -1,28 +1,8 @@
 # Desarrollador Python
 
-En esta sección encontrarás una cuidadosa selección de recursos recomendados
-para desarrolladores de Python, desde aquellos que se inician en el aprendizaje
-de este lenguaje hasta los más experimentados que buscan profundizar sus
-habilidades y conocimientos. Aquí podrás encontrar enlaces a documentación
-oficial, tutoriales interactivos, libros imprescindibles, posts de blogs
-relevantes y videos tutoriales informativos y prácticos, todos pensados
-exclusivamente para potenciar tu desarrollo como un verdadero "Pythonista".
+En esta sección, ofrecemos una selección de recursos esenciales para desarrolladores de Python de todos los niveles. Desde tutoriales básicos hasta avanzados, documentación oficial, libros clave, blogs y videos, todo diseñado para fortalecer tu desarrollo en Python. Para principiantes, sugerimos comenzar con fundamentos del lenguaje, avanzando gradualmente hacia temas más complejos como programación orientada a objetos y arquitectura de software. 
 
-Para los principiantes en Python, recomendamos comenzar por los recursos
-destinados a establecer una base sólida en el lenguaje, como tutoriales
-introductorios, ejercicios prácticos y documentación oficial detallada. A medida
-que avances, podrás adentrarte en temas más avanzados, como programación
-orientada a objetos, clean code, arquitectura de software, entre otros.
-
-Para los desarrolladores de Python más experimentados, te proporcionamos una
-lista de recursos refinados y actualizados que te ayudarán a perfeccionar tus
-habilidades y mantenerte al tanto de las últimas tendencias y buenas prácticas
-en el mundo de la programación con Python. Encontrarás libros especializados,
-blogs de expertos en Python, videos de conferencias y tutoriales avanzados que
-te desafiarán a llevar tus habilidades al siguiente nivel. Con estos recursos a
-tu disposición, podrás convertirte en un Pythonista aún más competente y
-versátil en tu campo. ¡Explora y aprende para crecer como desarrollador de
-Python!
+Para los más experimentados, presentamos recursos avanzados que incluyen libros especializados, blogs de expertos, y tutoriales que desafían tus habilidades, manteniéndote al día con las últimas tendencias y prácticas en Python. Estos recursos están pensados para ayudarte a perfeccionar tus habilidades y convertirte en un desarrollador de Python más competente y versátil.
 
 **Leyenda:**
 
@@ -41,12 +21,63 @@ Los nombres con asterisco al final (*) son con contenido en inglés.
 
 ## Python Básico
 
+### Fundamentos básicos de Python:
+
+Estos recursos te ayudaran si realmente no tienes ninguna noción de cómo programar con Python, los tres primeros links son cursos que puedes ver, leer, o llevar mientras que 30 days of Python son una serie de pequeños ejercicios que puedes hacer uno al día y puedes ir aprendiendo con cada ejercicio completado.
+
 ```{sketchviz}
 digraph G {
   graph [fontname="Handlee"];
   node [fontname="Handlee"];
   edge [fontname="Handlee"];
   rankdir=LR;
+  
+  subgraph cluster_basic_python {
+    node [style=filled, color=pink];
+    style=filled;
+    color=lightgrey;
+    fontsize = 20;
+
+    f4 [
+      label="🧑‍💻 30 days of Python*",
+      href="https://github.com/Asabeneh/30-Days-Of-Python?tab=readme-ov-file",
+      color="lightgreen",
+      target="_top"];
+    f3 [
+      label="🎓 Python para principiantes \n (Microsoft)",
+      href="https://learn.microsoft.com/es-es/training/paths/beginner-python/",
+      color="lightgreen",
+      target="_top"];
+    f2 [
+      label="📗 Curso intensivo de python",
+      href="https://anayamultimedia.es/libro/titulos-especiales/curso-intensivo-de-python-2a-edicion-eric-matthes-9788441543348/",
+      color="lightgreen",
+      target="_top"];
+    f1 [
+      label="📹 Curso de Python 3\n para verdaderos principiantes",
+      href="https://www.youtube.com/watch?v=aQvfEuEHKkA&list=PLIeA88IfaMLvPMwAjMlxfb5GtOfkggyvu",
+      color="lightgreen",
+      target="_top"];
+
+    fundamentals [label="Fundamentos\nBásicos de Python"];
+    fundamentals -> f4;
+    fundamentals -> f3;
+    fundamentals -> f2;
+    fundamentals -> f1;
+  }
+}
+```
+
+### Estructura de datos y algoritmos básicos:
+
+Aquí encontrarás recursos para aprender sobre las estructuras de datos más comunes (listas, pilas, colas, árboles, grafos, etc.) y los algoritmos básicos (búsqueda, ordenamiento, recursión, etc.) que son fundamentales para resolver problemas de programación.
+
+```{sketchviz}
+digraph G {
+  graph [fontname="Handlee"];
+  node [fontname="Handlee"];
+  edge [fontname="Handlee"];
+  rankdir=RL;
   
   subgraph cluster_basic_python {
     node [style=filled, color=pink];
@@ -74,17 +105,34 @@ digraph G {
       href="https://www.amazon.com/Algoritmos-Estructuras-Datos-Python-cuestionarios-ebook/dp/B0CW6C19MD/",
       color="lightgreen",
       target="_top"];
-    bp3 [label="📹 6 Proyectos de Python Básicos\nCurso Completo Paso a Paso", href="https://www.youtube.com/watch?v=tWnyBD2src0", color="lightgreen", target="_top"];
-    bp2 [
-      label="📝 Estructura del proyecto\npara una aplicación Python",
-      href="https://www.delftstack.com/es/howto/python/python-project-structure/",
-      color="lightgreen",
-      target="_top"];
-    bp1 [
-      label="📝 25 Proyectos en Python\npara principiantes:\nIdeas para comenzar\na programar en Python",
-      href="https://www.freecodecamp.org/espanol/news/25-proyectos-en-python-para-principiantes/",
-      color="lightgreen",
-      target="_top"];
+
+    algostruct [label="Estructura de Datos\ny\nAlgoritmos Básicos"];
+    algostruct -> as4;
+    algostruct -> as3;
+    algostruct -> as2;
+    algostruct -> as1;
+  }
+}
+```
+
+### Clean code:
+
+En esta sección se proporcionarán guías y mejores prácticas para escribir código limpio y mantenible. Aprenderás sobre la importancia de los nombres significativos, la organización del código, la eliminación de duplicaciones y la simplicidad.
+
+```{sketchviz}
+digraph G {
+  graph [fontname="Handlee"];
+  node [fontname="Handlee"];
+  edge [fontname="Handlee"];
+  rankdir=LR;
+  
+  subgraph cluster_basic_python {
+    node [style=filled, color=pink];
+    style=filled;
+    color=lightgrey;
+    fontsize = 20;
+
+
     cc2 [
       label="📝 Clean Code in Python*",
       href="https://testdriven.io/blog/clean-code-python/",
@@ -95,47 +143,55 @@ digraph G {
       href="https://github.com/sryvcr/clean-code-python-es",
       color="lightgreen",
       target="_top"];
-    f4 [
-      label="🧑‍💻 30 days of Python*",
-      href="https://github.com/Asabeneh/30-Days-Of-Python?tab=readme-ov-file",
-      color="lightgreen",
-      target="_top"];
-    f3 [
-      label="🎓 Python para principiantes \n (Microsoft)",
-      href="https://learn.microsoft.com/es-es/training/paths/beginner-python/",
-      color="lightgreen",
-      target="_top"];
-    f2 [
-      label="📹 Curso de Python \n desde cero (MoureDev)",
-      href="https://www.youtube.com/watch?v=Kp4Mvapo5kc",
-      color="lightgreen",
-      target="_top"];
-    f1 [
-      label="📗 Curso intensivo de python",
-      href="https://anayamultimedia.es/libro/titulos-especiales/curso-intensivo-de-python-2a-edicion-eric-matthes-9788441543348/",
-      color="lightgreen",
-      target="_top"];
-    fundamentals [label="Fundamentos\nBásicos de Python"];
+
     clean_code [label="Clean Code"];
-    basic_projects [label="Proyectos\nBásicos"];
-    algostruct [label="Estructura de Datos\ny\nAlgoritmos Básicos"];
-    fundamentals -> f4;
-    fundamentals -> f3;
-    fundamentals -> f2;
-    fundamentals -> f1;
     clean_code -> cc2;
     clean_code -> cc1;
-    basic_projects-> bp3;
-    basic_projects-> bp2;
-    basic_projects-> bp1;
-    algostruct -> as4;
-    algostruct -> as3;
-    algostruct -> as2;
-    algostruct -> as1;
   }
 }
 ```
 
+### Proyectos básicos
+
+Esta sección incluirá ideas y ejemplos de proyectos básicos que puedes realizar para practicar tus habilidades de programación en Python. Los proyectos pueden incluir desde simples scripts de automatización hasta pequeñas aplicaciones web o juegos.
+
+```{sketchviz}
+digraph G {
+  graph [fontname="Handlee"];
+  node [fontname="Handlee"];
+  edge [fontname="Handlee"];
+  rankdir=RL;
+  
+  subgraph cluster_basic_python {
+    node [style=filled, color=pink];
+    style=filled;
+    color=lightgrey;
+    fontsize = 20;
+
+
+    bp3 [
+      label="📹 6 Proyectos de Python Básicos\nCurso Completo Paso a Paso", 
+      href="https://www.youtube.com/watch?v=tWnyBD2src0",
+      color="lightgreen", 
+      target="_top"];
+    bp2 [
+      label="📝 Estructura del proyecto\npara una aplicación Python",
+      href="https://www.delftstack.com/es/howto/python/python-project-structure/",
+      color="lightgreen",
+      target="_top"];
+    bp1 [
+      label="📝 25 Proyectos en Python\npara principiantes:\nIdeas para comenzar\na programar en Python",
+      href="https://www.freecodecamp.org/espanol/news/25-proyectos-en-python-para-principiantes/",
+      color="lightgreen",
+      target="_top"];
+
+    basic_projects [label="Proyectos\nBásicos"];
+    basic_projects-> bp3;
+    basic_projects-> bp2;
+    basic_projects-> bp1;
+  }
+}
+```
 
 ## Python Avanzado
 
