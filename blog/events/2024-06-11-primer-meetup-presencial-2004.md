@@ -44,7 +44,7 @@ Nos adentrará en el mundo de las estructuras avanzadas de Python para el manejo
 
 Agradecemos a [OpenPUCP](https://open.pucp.edu.pe/) por brindarnos el espacio para la reunión.
 
-Les compartimos los datos de la conexión wi-fi:
+Les compartimos los datos de la conexión Wi-Fi:
 
 * **SSID:** `redpucp`
 * **Password:** `C9AA28BA93`
