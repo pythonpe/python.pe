@@ -46,8 +46,8 @@ Agradecemos a [OpenPUCP](https://open.pucp.edu.pe/) por brindarnos el espacio pa
 
 Les compartimos los datos de la conexión wi-fi:
 
-**SSID:** `redpucp`
-**Password:** `C9AA28BA93`
+* **SSID:** `redpucp`
+* **Password:** `C9AA28BA93`
 
 ## MeetUp
 
