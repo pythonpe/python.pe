@@ -35,7 +35,7 @@ class: "member-gravatar"
 [.](https://facebook.com/joe.doe)
 ```
 ```{rst-class} i-icon social-media instagram
-[.](https://instragram.com/joe.doe)
+[.](https://instagram.com/joe.doe)
 ```
 ```{rst-class} i-icon social-media x-twitter
 [.](https://twitter.com/joe.doe)
