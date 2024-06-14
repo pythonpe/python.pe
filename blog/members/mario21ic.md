@@ -11,7 +11,7 @@ excerpt: 1
 
 # Mario Inga
 
-```{gravatar} mario21ic+pythonpe@gmail.com
+```{gravatar} mario21ic@gmail.com
 ---
 width: 200
 class: "member-gravatar"
