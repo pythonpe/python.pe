@@ -29,6 +29,11 @@ myst:
             <a class="external reference" href="https://chat.whatsapp.com/D9bPvUrddvSBUIkMSoTqrk">.</a>
         </p>
     </li>
+    <li>
+        <p class="i-icon social-media twitch">
+            <a class="external reference" href="https://www.twitch.tv/pythonperu">.</a>
+        </p>
+    </li>
 </ul>
 ```
 
