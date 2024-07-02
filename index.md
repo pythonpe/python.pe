@@ -43,7 +43,7 @@ myst:
 :::
 ````
 
-::::{grid} 1 1 2 3
+::::{grid} 1 1 2 4
 :gutter: 2
 :padding: 0
 :class-row: surface
@@ -61,6 +61,10 @@ Entérate de los últimos eventos locales de nuestra comunidad y otras.
 :link: https://blog.python.pe
 Infórmate de lo último de lo que acontece en nuestra comunidad.
 :::
+:::{grid-item-card}  {octicon}`law` Código de Conducta
+:link: code-of-conduct/
+Revisa nuestras normas de como integrarte en la comunidad de Python Perú.
+:::
 ::::
 
 
@@ -75,5 +79,6 @@ Infórmate de lo último de lo que acontece en nuestra comunidad.
 
 about.md
 events.md
+code-of-conduct.md
 learning-path/index.md
 ```
