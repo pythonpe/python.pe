@@ -38,7 +38,7 @@ class: "member-gravatar"
 [.](https://instagram.com/joe.doe)
 ```
 ```{rst-class} i-icon social-media x-twitter
-[.](https://twitter.com/joe.doe)
+[.](https://x.com/joe.doe)
 ```
 ```{rst-class} i-icon social-media youtube
 [.](https://youtube.com/@joe.doe)

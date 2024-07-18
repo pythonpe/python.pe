@@ -25,7 +25,7 @@ class: "member-gravatar"
 [.](https://linkedin.com/in/mario21ic)
 ```
 ```{rst-class} i-icon social-media x-twitter
-[.](https://twitter.com/mario21ic)
+[.](https://x.com/mario21ic)
 ```
 
 :Aliases: mario21ic

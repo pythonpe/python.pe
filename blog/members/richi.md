@@ -25,7 +25,7 @@ class: "member-gravatar"
 [.](https://linkedin.com/in/richard-cancino-061413151/)
 ```
 ```{rst-class} i-icon social-media x-twitter
-[.](https://twitter.com/rc_moons)
+[.](https://x.com/rc_moons)
 ```
 
 :Aliases: richi
