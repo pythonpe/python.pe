@@ -25,7 +25,7 @@ class: "member-gravatar"
 [.](https://linkedin.com/in/soloidx)
 ```
 ```{rst-class} i-icon social-media x-twitter
-[.](https://twitter.com/soloidx)
+[.](https://x.com/soloidx)
 ```
 
 :Aliases: soloidx

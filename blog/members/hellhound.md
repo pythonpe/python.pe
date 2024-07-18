@@ -34,7 +34,7 @@ class: "member-gravatar"
 [.](https://www.instagram.com/hellhoundorf)
 ```
 ```{rst-class} i-icon social-media x-twitter
-[.](https://twitter.com/hellhoundorf)
+[.](https://x.com/hellhoundorf)
 ```
 
 :Aliases: hellhound

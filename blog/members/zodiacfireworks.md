@@ -34,7 +34,7 @@ class: "member-gravatar"
 [.](https://www.instagram.com/zodiacfireworks)
 ```
 ```{rst-class} i-icon social-media x-twitter
-[.](https://twitter.com/zodiacfireworks)
+[.](https://x.com/zodiacfireworks)
 ```
 
 :Aliases: zodiacfireworks
