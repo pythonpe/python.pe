@@ -1,6 +1,6 @@
 ---
 blogpost: true
-date: 12 Dec, 2024
+date: 10 Dec, 2024
 author: hellhound
 location: Lima, Perú
 category: events

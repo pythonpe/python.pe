@@ -36,12 +36,9 @@ jobs:
         run: |
           sudo apt-get install graphviz nodejs npm
           sudo ./bin/install-sketchviz.sh
-      - name: Install faketime
-        run: |
-          sudo apt-get install faketime
       - name: Build Blog
         run: |
-          faketime "2025-12-31 23:59:59" ablog build
+          ablog build
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
