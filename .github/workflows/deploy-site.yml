@@ -41,7 +41,7 @@ jobs:
           sudo apt-get install faketime
       - name: Build Blog
         run: |
-          faketime "2030-01-01 00:00:00" ablog build
+          faketime "2025-12-31 23:59:59" ablog build
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
