@@ -4,7 +4,7 @@
 ---
 category: events
 date: "%A, %B %d, %Y"
-format: "{title} para el {date}"
+format: "{title} publicado el {date}"
 list-style: circle
 excerpts:
 ---
