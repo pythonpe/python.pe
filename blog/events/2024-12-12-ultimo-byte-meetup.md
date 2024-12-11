@@ -20,9 +20,9 @@ generar ideas y propuestas que guiarán nuestras actividades futuras. Además,
 será una excelente oportunidad para conectar con otros miembros de la comunidad
 y despedir el año con entusiasmo y energía.
 
-📅 Fecha: Jueves, 12 de diciembre de 2024
-🕒 Hora: 19:00 a 21:45
-🌐 Lugar: Open PUCP, Aula A10
+* 📅 Fecha: Jueves, 12 de diciembre de 2024
+* 🕒 Hora: 19:00 a 21:45
+* 🌐 Lugar: Open PUCP, Aula A10
 
 ¡Te esperamos para cerrar el año con ideas brillantes y mucho Python!
 
