@@ -20,7 +20,7 @@ sphinx-sitemap = "^2.5.1"
 sphinx-tabs = "^3.4.5"
 libgravatar = "^1.0.4"
 sphinxext-opengraph = "^0.9.1"
-matplotlib = "^3.8.4"
+matplotlib = "^3.10.0"
 
 
 [tool.poetry.group.dev.dependencies]
