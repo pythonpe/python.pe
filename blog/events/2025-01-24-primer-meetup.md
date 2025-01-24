@@ -18,7 +18,7 @@ desde principiantes hasta expertos, con el objetivo de planificar juntos las
 actividades del año, fortalecer nuestra comunidad y soñar con un futuro PyCon en
 Perú. 🌟
 
-* 📅 Fecha: Viernes, 24 de enerode 2025
+* 📅 Fecha: Viernes, 24 de enero de 2025
 * 🕒 Hora: 19:00 a 21:45
 * 🌐 Lugar: Open PUCP, Aula A10
 
