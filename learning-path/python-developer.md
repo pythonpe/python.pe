@@ -96,13 +96,13 @@ digraph G {
       color="lightgreen",
       target="_top"];
     as2 [
-      label="📗 Data Structures & Algorithms in Python*",
+      label="📗 Data Structures & Algorithms \nin Python*",
       href="https://www.amazon.com/Structures-Algorithms-Python-Robert-Lafore/dp/013485568X/",
       color="lightgreen",
       target="_top"];
     as1 [
-      label="📗 Algoritmos y Estructura de Datos con Python",
-      href="https://www.amazon.com/Algoritmos-Estructuras-Datos-Python-cuestionarios-ebook/dp/B0CW6C19MD/",
+      label="📝 Estructuras de datos: \nUna guía completa con ejemplos en Python",
+      href="https://www.datacamp.com/es/tutorial/data-structures-guide-python",
       color="lightgreen",
       target="_top"];
 
@@ -195,6 +195,53 @@ digraph G {
 
 ## Python Avanzado
 
+### Estructura de datos y algoritmos avanzados
+Estos recursos proporcionan más detalle sobre estructura de datos y algoritmos, la mayoria de estos recursos se encuentran en inglés.
+
+```{sketchviz}
+digraph G {
+  graph [fontname="Handlee"];
+  node [fontname="Handlee"];
+  edge [fontname="Handlee"];
+  rankdir=LR;
+  
+  subgraph cluster_basic_python {
+    node [style=filled, color=pink];
+    style=filled;
+    color=lightgrey;
+    fontsize = 20;
+
+
+    cc4 [
+      label="‍💻 Advanced Data Structures \nwith Python*",
+      href="https://github.com/bhavinjawade/Advanced-Data-Structures-with-Python",
+      color="lightgreen",
+      target="_top"];
+    cc3 [
+      label="📝 Basic Data Structures*",
+      href="https://runestone.academy/ns/books/published/pythonds3/BasicDS/toctree.html",
+      color="lightgreen",
+      target="_top"];
+    cc2 [
+      label="📗 Grokking Algoritms*",
+      href="https://www.manning.com/books/grokking-algorithms",
+      color="lightgreen",
+      target="_top"];
+    cc1 [
+      label="🎓 Algoritmos avanzados con Python",
+      href="https://www.pypro.mx/app/curso/algoritmos-avanzados-con-python",
+      color="lightgreen",
+      target="_top"];
+
+    clean_code [label="Estructura de datos \ny algoritmos avanzados"];
+    clean_code -> cc4;
+    clean_code -> cc3;
+    clean_code -> cc2;
+    clean_code -> cc1;
+  }
+}
+```
+
 ```{sketchviz}
 digraph G {
   graph [fontname="Handlee"];
@@ -224,18 +271,11 @@ digraph G {
     dp3 [label="Tópico 6", href="", color="lightgreen", target="_top"];
     dp2 [label="Tópico 5", href="", color="lightgreen", target="_top"];
     dp1 [label="Tópico 4", href="", color="lightgreen", target="_top"];
-    aas3 [label="Tópico 3", href="", color="lightgreen", target="_top"];
-    aas2 [label="Tópico 1", href="", color="lightgreen", target="_top"];
-    aas1 [label="Tópico 1", href="", color="lightgreen", target="_top"];
-    advanced_algostruct [label="Estructurad de Datos\ny\nAlgoritmos Avanzados"];
     design_patterns [label="Patrones de Diseño\nen Python"];
     command_line [label="Línea de Comandos\nen Python"];
     python_projects [label="Proyectos en Python"];
     db [label="Bases de Datos"];
     leetcode [label="Leetcode"];
-    advanced_algostruct -> aas3;
-    advanced_algostruct -> aas2;
-    advanced_algostruct -> aas1;
     design_patterns -> dp3;
     design_patterns -> dp2;
     design_patterns -> dp1;
