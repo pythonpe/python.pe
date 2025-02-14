@@ -5,6 +5,7 @@ description = ""
 authors = ["Ider Delzo <soloidx@gmail.com>", "Jean-Pierre Chauvel <jean.pierre@chauvel.org>"]
 license = "Apache License, Version 2.0"
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.12"
