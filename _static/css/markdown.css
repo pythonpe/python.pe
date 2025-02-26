@@ -12,6 +12,10 @@ ul.social-media {
   padding: 0;
 }
 
+.social-media a {
+  border-bottom: unset !important;
+}
+
 ul.social-media li {
   display: inline;
 }
@@ -58,46 +62,36 @@ html.dark div.sketchviz-image {
 }
 
 :root {
-  --i-linkedin-url: url("/_static/icons/linkedin.svg");
-  --i-facebook-url: url("/_static/icons/facebook.svg");
-  --i-instagram-url: url("/_static/icons/instagram.svg");
-  --i-meetup-url: url("/_static/icons/meetup.svg");
-  --i-twitch-url: url("/_static/icons/twitch.svg");
-  --i-whatsapp-url: url("/_static/icons/whatsapp.svg");
+  --simpleicons-linkedin-url: url("/_static/icons/linkedin.svg") !important;
+  --simpleicons-facebook-url: url("/_static/icons/facebook.svg") !important;
+  --simpleicons-instagram-url: url("/_static/icons/instagram.svg") !important;
+  --simpleicons-meetup-url: url("/_static/icons/meetup.svg") !important;
+  --simpleicons-twitch-url: url("/_static/icons/twitch.svg") !important;
+  --simpleicons-whatsapp-url: url("/_static/icons/whatsapp.svg") !important;
 }
 
 .i-icon.linkedin {
-  --icon-url: var(--i-linkedin-url);
+  --icon-url: var(--simpleicons-linkedin-url) !important;
 }
 
 .i-icon.facebook {
-  --icon-url: var(--i-facebook-url);
+  --icon-url: var(--simpleicons-facebook-url) !important;
 }
 
 .i-icon.instagram {
-  --icon-url: var(--i-instagram-url);
+  --icon-url: var(--simpleicons-instagram-url) !important;
 }
 
 .i-icon.meetup {
-  --icon-url: var(--i-meetup-url);
+  --icon-url: var(--simpleicons-meetup-url) !important;
 }
 
 .i-icon.twitch {
-  --icon-url: var(--i-twitch-url);
+  --icon-url: var(--simpleicons-twitch-url) !important;
 }
 
 .i-icon.whatsapp {
-  --icon-url: var(--i-whatsapp-url);
-}
-
-.i-icon.social-media {
-  width: 2em;
-  height: 2em;
-}
-
-.social-media a {
-  display: flex;
-  border-bottom: unset !important;
+  --icon-url: var(--simpleicons-whatsapp-url) !important;
 }
 
 .member-gravatar {

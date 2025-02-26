@@ -8,7 +8,7 @@ readme = "README.md"
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.13"
 Sphinx = "^7.2.6"
 ablog = "^0.11.6"
 myst-parser = {extras = ["linkify"], version = "^2.0.0"}
@@ -27,6 +27,9 @@ matplotlib = "^3.8.4"
 [tool.poetry.group.dev.dependencies]
 isort = "^5.13.2"
 black = "^24.3.0"
+
+[tool.poetry.requires-plugins]
+poetry-plugin-export = ">=1.8"
 
 [build-system]
 requires = ["poetry-core"]
