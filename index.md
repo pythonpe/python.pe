@@ -15,24 +15,24 @@ myst:
 ```{raw} html
 <ul class="social-media">
     <li>
-        <p class="i-icon social-media github">
-            <a class="external reference" href="https://github.com/pythonpe/python.pe">.</a>
-        </p>
+        <a class="external reference" href="https://github.com/pythonpe/python.pe">
+            <iconify-icon icon="simple-icons:github" style="font-size:2em"></iconify-icon>
+        </a>
     </li>
     <li>
-        <p class="i-icon social-media meetup">
-            <a class="external reference" href="https://www.meetup.com/pythonperu/">.</a>
-        </p>
+        <a class="external reference" href="https://www.meetup.com/pythonperu/">
+            <iconify-icon icon="simple-icons:meetup" style="font-size:2em"></iconify-icon>
+        </a>
     </li>
     <li>
-        <p class="i-icon social-media whatsapp">
-            <a class="external reference" href="https://chat.whatsapp.com/D9bPvUrddvSBUIkMSoTqrk">.</a>
-        </p>
+        <a class="external reference" href="https://chat.whatsapp.com/D9bPvUrddvSBUIkMSoTqrk">
+            <iconify-icon icon="simple-icons:whatsapp" style="font-size:2em"></iconify-icon>
+        </a>
     </li>
     <li>
-        <p class="i-icon social-media twitch">
-            <a class="external reference" href="https://www.twitch.tv/pythonperu">.</a>
-        </p>
+        <a class="external reference" href="https://www.twitch.tv/pythonperu">
+            <iconify-icon icon="simple-icons:twitch" style="font-size:2em"></iconify-icon>
+        </a>
     </li>
 </ul>
 ```
