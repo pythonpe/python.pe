@@ -17,7 +17,7 @@ jobs:
           submodules: true
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12' 
+          python-version: '3.13' 
       - name: Set Locale
         run: |
           sudo apt-get update && sudo apt-get install tzdata locales -y && sudo locale-gen es_ES.UTF-8
