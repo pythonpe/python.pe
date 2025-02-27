@@ -12,6 +12,10 @@ ul.social-media {
   padding: 0;
 }
 
+ul.profile {
+  text-align: left !important;
+}
+
 .social-media a {
   border-bottom: unset !important;
 }

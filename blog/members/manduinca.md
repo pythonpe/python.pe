@@ -18,17 +18,29 @@ class: "member-gravatar"
 ---
 ```
 
-```{rst-class} i-icon social-media github
-[.](https://github.com/manduinca)
-```
-```{rst-class} i-icon social-media gitlab
-[.](https://gitlab.com/manduinca)
-```
-```{rst-class} i-icon social-media linkedin
-[.](https://linkedin.com/in/jean-pierre-mandujano)
-```
-```{rst-class} i-icon social-media x-twitter
-[.](https://x.com/manduinca)
+```{raw} html
+<ul class="social-media profile">
+    <li>
+        <a class="external reference" href="https://github.com/manduinca">
+            <iconify-icon icon="simple-icons:github" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://gitlab.com/manduinca">
+            <iconify-icon icon="simple-icons:gitlab" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://linkedin.com/in/jean-pierre-mandujano">
+            <iconify-icon icon="simple-icons:linkedin" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://x.com/manduinca">
+            <iconify-icon icon="simple-icons:x" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+</ul>
 ```
 
 :Aliases: manduinca

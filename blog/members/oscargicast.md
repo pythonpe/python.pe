@@ -18,20 +18,29 @@ class: "member-gravatar"
 ---
 ```
 
-```{rst-class} i-icon social-media linkedin
-[.](https://www.linkedin.com/in/oscargicast/)
-```
-
-```{rst-class} i-icon social-media youtube
-[.](https://www.youtube.com/@devosqui/videos)
-```
-
-```{rst-class} i-icon social-media github
-[.](https://github.com/oscargicast)
-```
-
-```{rst-class} i-icon social-media instagram
-[.](https://www.instagram.com/devosqui)
+```{raw} html
+<ul class="social-media profile">
+    <li>
+        <a class="external reference" href="https://www.linkedin.com/in/oscargicast/">
+            <iconify-icon icon="simple-icons:linkedin" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://www.youtube.com/@devosqui/videos">
+            <iconify-icon icon="simple-icons:youtube" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://github.com/oscargicast">
+            <iconify-icon icon="simple-icons:github" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://www.instagram.com/devosqui">
+            <iconify-icon icon="simple-icons:instagram" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+</ul>
 ```
 
 :Aliases: oscargicast

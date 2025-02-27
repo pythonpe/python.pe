@@ -18,14 +18,24 @@ class: "member-gravatar"
 ---
 ```
 
-```{rst-class} i-icon social-media github
-[.](https://github.com/richardcancino17)
-```
-```{rst-class} i-icon social-media linkedin
-[.](https://linkedin.com/in/richard-cancino-061413151/)
-```
-```{rst-class} i-icon social-media x-twitter
-[.](https://x.com/rc_moons)
+```{raw} html
+<ul class="social-media profile">
+    <li>
+        <a class="external reference" href="https://github.com/richardcancino17">
+            <iconify-icon icon="simple-icons:github" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://linkedin.com/in/richard-cancino-061413151/">
+            <iconify-icon icon="simple-icons:linkedin" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://x.com/rc_moons">
+            <iconify-icon icon="simple-icons:x" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+</ul>
 ```
 
 :Aliases: richi

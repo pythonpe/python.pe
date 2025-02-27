@@ -18,23 +18,39 @@ class: "member-gravatar"
 ---
 ```
 
-```{rst-class} i-icon social-media github
-[.](https://github.com/zodiacfireworks)
-```
-```{rst-class} i-icon social-media gitlab
-[.](https://gitlab.com/zodiacfireworks)
-```
-```{rst-class} i-icon social-media linkedin
-[.](https://linkedin.com/in/martinvuelta)
-```
-```{rst-class} i-icon social-media facebook
-[.](https://facebook.com/zodiacfireworks)
-```
-```{rst-class} i-icon social-media instagram
-[.](https://www.instagram.com/zodiacfireworks)
-```
-```{rst-class} i-icon social-media x-twitter
-[.](https://x.com/zodiacfireworks)
+```{raw} html
+<ul class="social-media profile">
+    <li>
+        <a class="external reference" href="https://github.com/zodiacfireworks">
+            <iconify-icon icon="simple-icons:github" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://gitlab.com/zodiacfireworks">
+            <iconify-icon icon="simple-icons:gitlab" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://linkedin.com/in/martinvuelta">
+            <iconify-icon icon="simple-icons:linkedin" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://facebook.com/zodiacfireworks">
+            <iconify-icon icon="simple-icons:facebook" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://www.instagram.com/zodiacfireworks">
+            <iconify-icon icon="simple-icons:instagram" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://x.com/zodiacfireworks">
+            <iconify-icon icon="simple-icons:x" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+</ul>
 ```
 
 :Aliases: zodiacfireworks

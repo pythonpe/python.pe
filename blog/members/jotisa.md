@@ -19,26 +19,44 @@ class: "member-gravatar"
 ---
 ```
 
-```{rst-class} i-icon social-media github
-[.](https://github.com/jotisa)
-```
-```{rst-class} i-icon social-media bitbucket
-[.](https://bitbucket.org/jotisa)
-```
-```{rst-class} i-icon social-media linkedin
-[.](https://linkedin.com/in/jonatantisnado)
-```
-```{rst-class} i-icon social-media facebook
-[.](https://facebook.com/jonatan.tisnado)
-```
-```{rst-class} i-icon social-media instagram
-[.](https://instagram.com/jonatantisnado)
-```
-```{rst-class} i-icon social-media x-twitter
-[.](https://x.com/jonatant77)
-```
-```{rst-class} i-icon social-media youtube
-[.](https://youtube.com/@jonatantisnado7533)
+```{raw} html
+<ul class="social-media profile">
+    <li>
+        <a class="external reference" href="https://github.com/jotisa">
+            <iconify-icon icon="simple-icons:github" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://bitbucket.org/jotisa">
+            <iconify-icon icon="simple-icons:bitbucket" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://linkedin.com/in/jonatantisnado">
+            <iconify-icon icon="simple-icons:linkedin" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://facebook.com/jonatan.tisnado">
+            <iconify-icon icon="simple-icons:facebook" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://instagram.com/jonatantisnado">
+            <iconify-icon icon="simple-icons:instagram" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://x.com/jonatant77">
+            <iconify-icon icon="simple-icons:x" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://youtube.com/@jonatantisnado7533">
+            <iconify-icon icon="simple-icons:youtube" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+</ul>
 ```
 
 :Aliases: jo

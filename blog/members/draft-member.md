@@ -19,29 +19,49 @@ class: "member-gravatar"
 ---
 ```
 
-```{rst-class} i-icon social-media github
-[.](https://github.com/joe.doe)
-```
-```{rst-class} i-icon social-media gitlab
-[.](https://gitlab.com/joe.doe)
-```
-```{rst-class} i-icon social-media bitbucket
-[.](https://bitbucket.org/joe.doe)
-```
-```{rst-class} i-icon social-media linkedin
-[.](https://linkedin.com/in/joe.doe)
-```
-```{rst-class} i-icon social-media facebook
-[.](https://facebook.com/joe.doe)
-```
-```{rst-class} i-icon social-media instagram
-[.](https://instagram.com/joe.doe)
-```
-```{rst-class} i-icon social-media x-twitter
-[.](https://x.com/joe.doe)
-```
-```{rst-class} i-icon social-media youtube
-[.](https://youtube.com/@joe.doe)
+```{raw} html
+<ul class="social-media profile">
+    <li>
+        <a class="external reference" href="https://github.com/joe.doe">
+            <iconify-icon icon="simple-icons:github" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://gitlab.com/joe.doe">
+            <iconify-icon icon="simple-icons:gitlab" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://bitbucket.org/joe.doe">
+            <iconify-icon icon="simple-icons:bitbucket" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://linkedin.com/in/joe.doe">
+            <iconify-icon icon="simple-icons:linkedin" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://facebook.com/joe.doe">
+            <iconify-icon icon="simple-icons:facebook" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://instagram.com/joe.doe">
+            <iconify-icon icon="simple-icons:instagram" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://x.com/joe.doe">
+            <iconify-icon icon="simple-icons:x" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://youtube.com/@joe.doe">
+            <iconify-icon icon="simple-icons:youtube" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+</ul>
 ```
 
 :Aliases: joe
