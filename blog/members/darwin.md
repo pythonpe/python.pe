@@ -18,15 +18,24 @@ class: "member-gravatar"
 ---
 ```
 
-```{rst-class} i-icon social-media linkedin
-[.](https://www.linkedin.com/in/darwin-vasquez-38bb1a125/)
-```
-```{rst-class} i-icon social-media gitlab
-[.](https://gitlab.com/darwinv)
-```
-
-```{rst-class} i-icon social-media github
-[.](https://github.com/darwinv)
+```{raw} html
+<ul class="social-media profile">
+    <li>
+        <a class="external reference" href="https://www.linkedin.com/in/darwin-vasquez-38bb1a125/">
+            <iconify-icon icon="simple-icons:linkedin" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://gitlab.com/darwinv">
+            <iconify-icon icon="simple-icons:gitlab" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
+        <a class="external reference" href="https://github.com/darwinv">
+            <iconify-icon icon="simple-icons:github" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+</ul>
 ```
 
 
