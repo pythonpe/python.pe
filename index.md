@@ -30,6 +30,11 @@ myst:
         </a>
     </li>
     <li>
+        <a class="external reference" href="https://t.me/pythonperu">
+            <iconify-icon icon="simple-icons:telegram" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
         <a class="external reference" href="https://www.twitch.tv/pythonperu">
             <iconify-icon icon="simple-icons:twitch" style="font-size:2em"></iconify-icon>
         </a>
