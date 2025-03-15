@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "sketchviz": "github:gpotter2/sketchviz"
+  }
+}

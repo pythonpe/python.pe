@@ -67,7 +67,9 @@ class Sketchviz(Directive):
         filename = h.digest().hex()
         filename = f"{filename}{FILENAME_EXT}"
         save_path = os.path.join(save_path, filename)
-        subprocess.run(["sketchviz", temp_name, save_path], check=True)
+        # TODO: add a proper way to alert user when this binary is not found
+        binary_path = os.environ.get("SKETCHVIZ_BINARY")
+        subprocess.run([binary_path, temp_name, save_path], check=True)
         os.remove(temp_name)
         logger.info(f"Sketchviz: Created SVG image: {save_path}")
 
