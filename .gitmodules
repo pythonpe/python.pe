@@ -1,3 +1,0 @@
-[submodule "deps/sketchviz"]
-	path = deps/sketchviz
-	url = git@github.com:gpotter2/sketchviz.git

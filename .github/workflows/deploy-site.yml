@@ -1,3 +1,4 @@
+---
 name: Deploy Python Perú to GitHub Pages
 
 on:
@@ -10,14 +11,13 @@ permissions:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
-        with:
-          submodules: true
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.13' 
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
       - name: Set Locale
         run: |
           sudo apt-get update && sudo apt-get install tzdata locales -y && sudo locale-gen es_ES.UTF-8
@@ -29,16 +29,16 @@ jobs:
           locale
           locale -c -k LC_NUMERIC
           localectl status
-      - name: Install Dependencies
-        run: |
-          pip install -r requirements.txt
       - name: Install graphviz
         run: |
           sudo apt-get install graphviz nodejs npm
-          sudo ./bin/install-sketchviz.sh
+      - name: Install Dependencies
+        run: |
+          uv sync
+          npm install
       - name: Build Blog
         run: |
-          ablog build
+          uv run poe build
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
