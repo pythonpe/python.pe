@@ -201,6 +201,8 @@ extensions = [
     "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
     "sphinx.ext.todo",
+    "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
     "ablog",
     "myst_parser",
     "sphinxcontrib.youtube",
@@ -281,7 +283,8 @@ exclude_patterns = [
     "github_submodule/*",
     "LICENSE.md",
     "README.md",
-    "deps/*",
+    ".venv/*",
+    "node_modules/*",
 ]
 
 # The reST default role (used for this markup: `text`) to use for all

@@ -602,7 +602,7 @@ requires-dist = [
     { name = "libgravatar", specifier = "==1.0.4" },
     { name = "matplotlib", specifier = ">=3.10.1" },
     { name = "myst-parser", extras = ["linkify"], specifier = "==2.0.0" },
-    { name = "shibuya", specifier = "==2024.4.4" },
+    { name = "shibuya", specifier = "==2025.2.28" },
     { name = "sphinx", specifier = "==7.2.6" },
     { name = "sphinx-copybutton", specifier = "==0.5.2" },
     { name = "sphinx-design", specifier = "==0.5.0" },
@@ -663,14 +663,14 @@ wheels = [
 
 [[package]]
 name = "shibuya"
-version = "2024.4.4"
+version = "2025.2.28"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "sphinx" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/05/3c/b5181db9c4522b52597518fb0957c29cb4ffd41e22d68ceca86c9c1067b0/shibuya-2024.4.4.tar.gz", hash = "sha256:768d0bbfe6eed2f10ef6685fcadbecd0d4f0635ff6e1e5624bcb84bb0d1a40f2", size = 67259 }
+sdist = { url = "https://files.pythonhosted.org/packages/f3/8f/3c03c525fe8209ba777dc3f03115f4a8b2940f3f040e7e6f889acfc41003/shibuya-2025.2.28.tar.gz", hash = "sha256:ed76641d030cc70e4079c002cf0feb190e868b211ba0ebbd37f07ba394a62c3b", size = 80558 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/6f/1f/f945ded73d365d029b9aa193bb9e6f9a716252954261a39723611a4da898/shibuya-2024.4.4-py3-none-any.whl", hash = "sha256:bf635e8a5eafccb0f1e8801f9a57f86187909d547c9db31b539d7f1bfe43e45b", size = 81528 },
+    { url = "https://files.pythonhosted.org/packages/3e/b1/9f9d4ca3ac7a43440ad9fe65127f8958e7add90a962b6838bdff7198dd5b/shibuya-2025.2.28-py3-none-any.whl", hash = "sha256:7bd78164db93d793865d04d58c278e36caf36fdb97a72b4ef4086bdeaf0c7dd7", size = 96191 },
 ]
 
 [[package]]
