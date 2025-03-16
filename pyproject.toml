@@ -34,3 +34,6 @@ dev = [
 cmd = "ablog build"
 # we pass binary defined inside node package so sphinx can called when building the site
 env = { SKETCHVIZ_BINARY = "./node_modules/.bin/sketchviz" }
+
+[tool.black]
+line-length = 79

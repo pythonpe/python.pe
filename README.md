@@ -48,11 +48,13 @@ Install sketchviz
 npm i
 ```
 
-Install `uv`, follow the instructions in their documentation https://docs.astral.sh/uv/getting-started/installation/,
-`uv` will handle all the dependencies and the python installation as well. So we don't need to install `python`
-separately.
+Install `uv`, follow the instructions in their documentation
+https://docs.astral.sh/uv/getting-started/installation/, `uv` will handle all
+the dependencies and the python installation as well. So we don't need to
+install `python` separately.
 
-Then install all the necessary packages (make sure to change to the root directory of the project):
+Then install all the necessary packages (make sure to change to the root
+directory of the project):
 
 ```shell
 uv sync
