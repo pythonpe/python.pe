@@ -29,16 +29,20 @@ jobs:
           locale
           locale -c -k LC_NUMERIC
           localectl status
+
       - name: Install graphviz
         run: |
           sudo apt-get install graphviz nodejs npm
+
       - name: Install Dependencies
         run: |
           uv sync
           npm install
+
       - name: Build Blog
         run: |
           uv run poe build
+
       - name: Publish to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
