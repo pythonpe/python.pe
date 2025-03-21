@@ -1,7 +1,18 @@
 {%- extends "!page.html" %}
 
-{%- block extrahead %}
-<meta name="robots" content="follow, index">
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-{{ super() }}
-{% endblock extrahead %}
+{% block extrahead %}
+    {{ super() }}
+    
+    {# Verifica la disponibilidad de sphinx_version antes de renderizar metatags
+       Esta verificación es crucial para evitar errores durante la generación 
+       del sitio cuando la extensión sphinxext.opengraph no está disponible #}
+    {% if sphinx_version %}
+        {{ metatags }}
+    {% endif %}
+    
+    {# Meta tags estáticos definidos manualmente para garantizar consistencia
+       Estos tags permanecerán invariables independientemente de la configuración
+       de Sphinx o sus extensiones, asegurando una identidad constante del sitio #}
+    <meta property="og:site_name" content="Python Perú" />
+    <meta property="og:locale" content="es_ES" />
+{% endblock %}

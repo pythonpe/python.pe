@@ -432,3 +432,5 @@ ogp_social_cards = {
     "line_color": "#4078c0",
     "image": "_static/logo/logo.png",
 }
+# Asegura la generación del meta tag og:image que no siempre es generado por sphinxext.opengraph
+ogp_image = "_static/logo/logo.png"
