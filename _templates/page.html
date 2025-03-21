@@ -1,7 +1,18 @@
 {%- extends "!page.html" %}
 
-{%- block extrahead %}
-<meta name="robots" content="follow, index">
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-{{ super() }}
-{% endblock extrahead %}
+{% block extrahead %}
+    {{ super() }}
+    
+    {# Verifies sphinx_version availability before rendering metatags
+        This check is crucial to prevent errors during site generation
+        when sphinxext.opengraph extension is not available #}
+    {% if sphinx_version %}
+        {{ metatags }}
+    {% endif %}
+    
+    {# Static meta tags manually defined to ensure consistency
+        These tags will remain unchanged regardless of Sphinx configuration
+        or its extensions, ensuring a constant site identity #}
+       <meta name="robots" content="follow, index">
+       <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+{% endblock %}
