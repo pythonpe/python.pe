@@ -3,16 +3,16 @@
 {% block extrahead %}
     {{ super() }}
     
-    {# Verifica la disponibilidad de sphinx_version antes de renderizar metatags
-       Esta verificación es crucial para evitar errores durante la generación 
-       del sitio cuando la extensión sphinxext.opengraph no está disponible #}
+    {# Verifies sphinx_version availability before rendering metatags
+        This check is crucial to prevent errors during site generation
+        when sphinxext.opengraph extension is not available #}
     {% if sphinx_version %}
         {{ metatags }}
     {% endif %}
     
-    {# Meta tags estáticos definidos manualmente para garantizar consistencia
-       Estos tags permanecerán invariables independientemente de la configuración
-       de Sphinx o sus extensiones, asegurando una identidad constante del sitio #}
+    {# Static meta tags manually defined to ensure consistency
+        These tags will remain unchanged regardless of Sphinx configuration
+        or its extensions, ensuring a constant site identity #}
        <meta name="robots" content="follow, index">
        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 {% endblock %}
