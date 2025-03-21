@@ -1,0 +1,153 @@
+.markdown-body img {
+  background: none !important;
+}
+
+.main-image {
+  width: 30vw;
+}
+
+ul.social-media {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+
+ul.profile {
+  text-align: left !important;
+}
+
+.social-media a {
+  border-bottom: unset !important;
+}
+
+ul.social-media li {
+  display: inline;
+}
+
+.head-title h1 {
+  color: var(--sy-c-link-hover);
+  text-align: center;
+}
+
+.head-button {
+  display: flex;
+  justify-content: center;
+}
+
+.yue p.lead {
+  text-align: center;
+}
+
+#embed ul li p img {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+#embed ul li p {
+  color: var(--sy-c-light);
+}
+
+#embed ul li p:has(img) {
+  text-align: center;
+}
+
+#embed ul li p img {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+div.sketchviz-image object {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html.dark div.sketchviz-image {
+  filter: invert(100%);
+}
+
+:root {
+  --simpleicons-linkedin-url: url("/_static/icons/linkedin.svg") !important;
+  --simpleicons-facebook-url: url("/_static/icons/facebook.svg") !important;
+  --simpleicons-instagram-url: url("/_static/icons/instagram.svg") !important;
+  --simpleicons-meetup-url: url("/_static/icons/meetup.svg") !important;
+  --simpleicons-twitch-url: url("/_static/icons/twitch.svg") !important;
+  --simpleicons-whatsapp-url: url("/_static/icons/whatsapp.svg") !important;
+}
+
+.i-icon.linkedin {
+  --icon-url: var(--simpleicons-linkedin-url) !important;
+}
+
+.i-icon.facebook {
+  --icon-url: var(--simpleicons-facebook-url) !important;
+}
+
+.i-icon.instagram {
+  --icon-url: var(--simpleicons-instagram-url) !important;
+}
+
+.i-icon.meetup {
+  --icon-url: var(--simpleicons-meetup-url) !important;
+}
+
+.i-icon.twitch {
+  --icon-url: var(--simpleicons-twitch-url) !important;
+}
+
+.i-icon.whatsapp {
+  --icon-url: var(--simpleicons-whatsapp-url) !important;
+}
+
+.member-gravatar {
+  width: 200px;
+  border-radius: 200px;
+  display: block !important;
+}
+
+
+#eventos li .ablog-post-title {
+  font-size: 1.8em;
+}
+
+#eventos li .ablog-post-title a {
+  color: var(--sy-c-link-hover);
+}
+
+#eventos li p.ablog-post-excerpt img {
+  max-height: 200px;
+}
+
+#eventos li p.ablog-post-excerpt:has(img) {
+  text-align: center;
+}
+
+#miembros li p.i-icon:has(a) {
+  display: none;
+}
+
+#miembros ul.postlist {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+  list-style: none;
+  padding: 0;
+}
+
+#miembros ul.postlist li.ablog-post {
+  background-color: #fef1f1;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  text-align: center;
+}
+
+#miembros ul.postlist li.ablog-post img.member-gravatar {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+html.dark #miembros ul.postlist li.ablog-post {
+  background-color: #362b2b;
+  box-shadow: 0 2px 4px rgba(246, 241, 241, 0.1);
+}
