@@ -18,8 +18,17 @@ class Notion(Directive):
     final_argument_whitespace = False
 
     def run(self):
+        if not self.content:
+            raise self.error("Notion directive requires a URL")
+        if len(self.content) > 1:
+            raise self.error("Notion directive only accepts a single URL")
+        url = self.content[0]
+        # Basic validation that it's a Notion URL
+        if not url.startswith(("https://notion.site", "https://www.notion.so")) and "notion" not in url:
+            raise self.error("URL does not appear to be a valid Notion URL")
+
         para = nodes.raw(
-            "", TEMPLATE.format(url=self.content[0]), format="html"
+            "", TEMPLATE.format(url=url), format="html"
         )
         return [para]
 
