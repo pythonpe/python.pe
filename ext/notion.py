@@ -8,7 +8,8 @@ from sphinx.util import logging
 logger = logging.getLogger(__name__)
 
 TEMPLATE: str = """
-<iframe src="{url}" width="100%" height="1200" frameborder="0" allowfullscreen />
+<iframe src="{url}" width="100%" height="1200" frameborder="0" allowfullscreen>
+</iframe>
 """
 
 
