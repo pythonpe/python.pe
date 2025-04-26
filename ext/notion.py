@@ -28,7 +28,10 @@ class Notion(Directive):
             raise self.error("URL does not appear to be a valid Notion URL")
 
         para = nodes.raw(
-            "", TEMPLATE.format(url=url), format="html"
+         para = nodes.raw(
+-            "", TEMPLATE.format(url=url), format="html"
++            "", TEMPLATE.format(url=urllib.parse.quote(url, safe=":/?&=+")), format="html"
+         )
         )
         return [para]
 
