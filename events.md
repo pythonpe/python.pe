@@ -9,3 +9,10 @@ list-style: circle
 excerpts:
 ---
 ```
+
+```{toctree}
+:caption: Secciones
+:hidden: true
+
+talk-brainstorming.md
+```

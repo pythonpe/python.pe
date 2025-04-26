@@ -79,7 +79,7 @@ Revisa nuestras normas de como integrarte en la comunidad de Python Perú.
 ```
 
 ```{toctree}
-:caption: Secciónes
+:caption: Secciones
 :hidden: true
 
 about.md
