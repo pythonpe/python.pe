@@ -215,6 +215,7 @@ extensions = [
     "embed",
     "gravatar",
     "sketchviz",
+    "notion",
 ]
 
 myst_enable_extensions = [
