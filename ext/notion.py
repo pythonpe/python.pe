@@ -1,5 +1,7 @@
 """A directive to generate an iframe with a Notion page."""
 
+import urllib.parse
+
 from docutils import nodes
 from docutils.parsers.rst import Directive
 from sphinx.application import Sphinx
@@ -24,20 +26,24 @@ class Notion(Directive):
             raise self.error("Notion directive only accepts a single URL")
         url = self.content[0]
         # Basic validation that it's a Notion URL
-        if not url.startswith(("https://notion.site", "https://www.notion.so")) and "notion" not in url:
+        if (
+            not url.startswith(
+                ("https://notion.site", "https://www.notion.so")
+            )
+            and "notion" not in url
+        ):
             raise self.error("URL does not appear to be a valid Notion URL")
 
         para = nodes.raw(
-         para = nodes.raw(
--            "", TEMPLATE.format(url=url), format="html"
-+            "", TEMPLATE.format(url=urllib.parse.quote(url, safe=":/?&=+")), format="html"
-         )
+            "",
+            TEMPLATE.format(url=urllib.parse.quote(url, safe=":/?&=+")),
+            format="html",
         )
         return [para]
 
 
 def setup(app: Sphinx):
-    app.add_directive("notion",Notion)
+    app.add_directive("notion", Notion)
 
     return {
         "version": "0.1",

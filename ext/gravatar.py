@@ -38,7 +38,7 @@ class GravatarImage(Directive):
 
         data = {}
         if klass is not None:
-            data['classes'] = klass
+            data["classes"] = klass
 
         image = nodes.image(alt=alt, classes=klass, uri=url)
         return [image]
