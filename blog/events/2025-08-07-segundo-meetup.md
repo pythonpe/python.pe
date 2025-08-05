@@ -41,8 +41,6 @@ Explora el uso práctico de Gemini CLI, cómo esta herramienta puede integrarse 
 
 Agradecemos a [Seguros Pacífico](https://www.pacifico.com.pe) por brindarnos el espacio para la reunión.
 
-Les compartimos los datos de la conexión Wi-Fi:
-
 ## MeetUp
 
 ¡Encuentra nuestras reuniones siempre en [MeetUp](https://www.meetup.com/pythonperu/)!
