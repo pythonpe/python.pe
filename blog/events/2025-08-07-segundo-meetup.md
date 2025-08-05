@@ -25,16 +25,16 @@ quienes están iniciando como para quienes ya tienen experiencia.
 ¡Te esperamos para una noche llena de aprendizaje, networking y crecimiento
 profesional en el Meetup Python Perú!
 
-🔹 **Observabilidad con Python**
-Ponente: Martín Vuelta
+🔹 **Observabilidad con Python**  
+Ponente: Martín Vuelta  
 Descubre cómo implementar observabilidad en tus aplicaciones usando herramientas. Logs, métricas, trazas y más para entender qué está pasando en tu sistema.
 
-🔹 **Testing con Arquitecturas Limpias: Python + AWS**
-Ponente: Sergio Infante
+🔹 **Testing con Arquitecturas Limpias: Python + AWS**  
+Ponente: Sergio Infante  
 Aprenderemos cómo estructurar nuestras pruebas en un entorno basado en arquitectura limpia, utilizando herramientas modernas de Python y servicios de AWS.
 
-🔹 **Exploring Gemini CLI**
-Ponente: Manuel Solorzano
+🔹 **Exploring Gemini CLI**  
+Ponente: Manuel Solorzano  
 Explora el uso práctico de Gemini CLI, cómo esta herramienta puede integrarse en tus proyectos, y cómo mejora tus flujos de desarrollo.
 
 ## Seguros Pacífico
