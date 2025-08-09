@@ -25,7 +25,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-    "black==24.3.0",
+    "black==25.1.0",
     "isort==5.13.2",
     "poethepoet>=0.33.1",
 ]
