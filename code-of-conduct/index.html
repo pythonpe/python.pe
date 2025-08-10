@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="es" data-accent-color="tomato" data-content_root="../">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Conducta - Python Perú</title><link rel="shortcut icon" href="../_static/favicon-48x48.png"/><link rel="author" title="Sobre este documento" href="../about/" /><link rel="index" title="Índice" href="../genindex/" /><link rel="search" title="Búsqueda" href="../search/" /><link rel="next" title="¡Python de cero a Pro!" href="../learning-path/" /><link rel="prev" title="Brainstorming de Charlas" href="../talk-brainstorming/" />
+      <link rel="canonical" href="https://python.pe/code-of-conduct/" /><script>
+    function setColorMode(t){let e=document.documentElement;e.setAttribute("data-color-mode",t);let a=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches,s=t;"auto"===t&&(s=a?"dark":"light"),"light"===s?(e.classList.remove("dark"),e.classList.add("light")):(e.classList.remove("light"),e.classList.add("dark"))}
+    setColorMode(localStorage._theme||"auto");
+  </script><link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=397bb51e" />
+    <link rel="stylesheet" type="text/css" href="../_static/shibuya.css?v=3b41e830" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../_static/tabs.css?v=a5c4661c" />
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
+    <link media="print" rel="stylesheet" type="text/css" href="../_static/print.css?v=20ff2c19" />
+    <link rel="stylesheet" type="text/css" href="../_static/css/markdown.css?v=c2aafb25" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --sy-f-text: "Inter", var(--sy-f-sys), var(--sy-f-cjk), sans-serif;
+  --sy-f-heading: "Inter", var(--sy-f-sys), var(--sy-f-cjk), sans-serif;
+}
+</style>
+    
+    <meta property="og:type" content="website"/>
+<meta property="og:url" content="https://python.pe/code-of-conduct/"/>
+<meta property="og:title" content="Conducta"/>
+<meta name="twitter:card" content="summary"/>
+  
+    
+    
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="Conducta" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.python.pe/code-of-conduct/" />
+<meta property="og:site_name" content="Python Perú" />
+<meta property="og:description" content="Nos comprometemos a proporcionar un entorno amigable, seguro y acogedor para todos, independientemente del nivel de experiencia, identidad de género y expresión, orientación sexual, discapacidad, a..." />
+<meta property="og:image" content="https://www.python.pe/_static/logo/logo.png" />
+<meta property="og:image:alt" content="Python Perú" />
+<meta name="description" content="Nos comprometemos a proporcionar un entorno amigable, seguro y acogedor para todos, independientemente del nivel de experiencia, identidad de género y expresión, orientación sexual, discapacidad, a..." />
+
+    
+    
+    
+       <meta name="robots" content="follow, index">
+       <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+</head>
+<body><div class="sy-head">
+  <div class="sy-head-blur"></div>
+  <div class="sy-head-inner sy-container mx-auto">
+    <a class="sy-head-brand" href="../">
+      <img class="light-logo" src="../_static/logo.svg" alt="Python Perú" height="28" loading="lazy" />
+      <img class="dark-logo" src="../_static/logo.svg" alt="Python Perú" height="28" loading="lazy" />
+      <strong>Python Perú</strong>
+    </a>
+    <div class="sy-head-nav" id="HeadNav">
+      <nav class="sy-head-links"></nav>
+      <div class="sy-head-extra flex items-center print:hidden"><form class="searchbox flex items-center" action="../search/" method="get">
+  <input type="text" name="q" placeholder="Búsqueda" />
+  <kbd>/</kbd>
+</form><div class="sy-head-socials"></div></div>
+    </div>
+    <div class="sy-head-actions flex items-center shrink-0 print:hidden"><button class="js-theme theme-switch flex items-center"
+data-aria-auto="Cambiar a modo claro"
+data-aria-light="Cambiar a modo oscuro"
+data-aria-dark="Cambiar a modo aŭtomata">
+<i class="i-lucide theme-icon"></i>
+</button><button class="md:hidden flex items-center js-menu" aria-label="Menu" type="button" aria-controls="HeadNav" aria-expanded="false">
+        <div class="hamburger">
+          <span class="hamburger_1"></span>
+          <span class="hamburger_2 -translate-x-2"></span>
+          <span class="hamburger_3 -translate-x-1"></span>
+        </div>
+      </button>
+    </div>
+  </div>
+</div>
+<div class="sy-page sy-container flex mx-auto">
+  <aside id="lside" class="sy-lside md:w-72 md:shrink-0 print:hidden">
+    <div class="sy-lside-inner md:sticky">
+      <div class="sy-scrollbar p-6">
+        <div class="globaltoc" data-expand-depth="1"><p class="caption" role="heading" aria-level="3"><span class="caption-text">Secciones</span></p>
+<ul class="current">
+<li class="toctree-l1 _expand"><a class="reference internal" href="../about/">Acerca de la Comunidad de Python Per&#250;</a></li>
+<li class="toctree-l1 _expand"><a class="reference internal" href="../events/">Eventos</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../talk-brainstorming/">Brainstorming de Charlas</a></li>
+</ul>
+</li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Conducta</a></li>
+<li class="toctree-l1 _expand"><a class="reference internal" href="#moderacion">Moderaci&#243;n</a></li>
+<li class="toctree-l1 _expand"><a class="reference internal" href="../learning-path/">&#161;Python de cero a Pro!</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../learning-path/python-developer/">Desarrollador Python</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../learning-path/web-developer/">Desarrollador Web</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../learning-path/data-science/">Ciencias de Datos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../learning-path/cloud-devops/">Cloud y DevOps</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../learning-path/machine-learning-ai/">Machine Learning e IA</a></li>
+</ul>
+</li>
+</ul>
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="lside-overlay js-menu" role="button" aria-label="Close left sidebar" aria-controls="lside" aria-expanded="false"></div>
+  <aside id="rside" class="sy-rside pb-3 w-64 shrink-0 order-last">
+    <button class="rside-close js-menu xl:hidden" aria-label="Close Table of Contents" type="button" aria-controls="rside" aria-expanded="false">
+      <i class="i-lucide close"></i>
+    </button>
+    <div class="sy-scrollbar sy-rside-inner px-6 xl:top-16 xl:sticky xl:pl-0 pt-6 pb-4"><div class="localtoc"><h3>En esta página</h3><ul>
+<li><a class="reference internal" href="#">Conducta</a></li>
+<li><a class="reference internal" href="#moderacion">Moderación</a></li>
+</ul>
+</div><div id="ethical-ad-placement" data-ea-publisher="readthedocs"></div></div>
+  </aside>
+  <div class="rside-overlay js-menu" role="button" aria-label="Close Table of Contents" aria-controls="rside" aria-expanded="false"></div>
+  <main class="sy-main w-full max-sm:max-w-full print:pt-6"><div class="sy-breadcrumbs" role="navigation">
+  <div class="sy-breadcrumbs-inner flex items-center">
+    <div class="md:hidden mr-3">
+      <button class="js-menu" aria-label="Menu" type="button" aria-controls="lside" aria-expanded="false">
+        <i class="i-lucide menu"></i>
+      </button>
+    </div>
+    <ol class="flex-1" itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="../"><span itemprop="name">Python Perú</span></a>
+        <span>/</span>
+        <meta itemprop="position" content="1" />
+      </li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <strong itemprop="name">Conducta</strong>
+        <meta itemprop="position" content="2" />
+      </li></ol>
+    <div class="xl:hidden ml-1">
+      <button class="js-menu" aria-label="Show table of contents" type="button" aria-controls="rside"
+        aria-expanded="false">
+        <i class="i-lucide outdent"></i>
+      </button>
+    </div>
+  </div>
+</div><div class="flex flex-col break-words justify-between">
+      <div class="min-w-0 max-w-6xl px-6 pb-6 pt-8 xl:px-12">
+        <article class="yue" role="main">
+          <section class="tex2jax_ignore mathjax_ignore" id="conducta">
+<h1>Conducta<a class="headerlink" href="#conducta" title="Link to this heading">¶</a></h1>
+<ul class="simple">
+<li><p>Nos comprometemos a proporcionar un entorno amigable, seguro y acogedor para
+todos, independientemente del nivel de experiencia, identidad de género y
+expresión, orientación sexual, discapacidad, apariencia personal, tamaño
+corporal, raza, etnia, edad, religión, nacionalidad u otra característica
+similar.</p></li>
+<li><p>Por favor, evita el uso de alias o apodos de naturaleza sexual u otros que
+puedan afectar la amabilidad, seguridad y bienvenida para todos.</p></li>
+<li><p>Sé amable y cortés. No es necesario ser grosero o maleducado.</p></li>
+<li><p>Respeta que las personas tengan diferencias de opinión y que cada elección de
+diseño o implementación conlleva un intercambio y numerosos costos. Rara vez
+hay una única respuesta correcta.</p></li>
+<li><p>Por favor, limita las críticas no estructuradas. Si tienes ideas sólidas que
+desees experimentar, haz una copia y observa cómo funciona.</p></li>
+<li><p>Te excluiremos de la interacción si insultas, menosprecias o acosas a alguien.
+Ese comportamiento no es bienvenido. Interpretamos el término “acoso” según la
+definición en el <a class="reference external" href="https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md">Citizen Code of
+Conduct</a>;
+si tienes dudas sobre lo que podría incluirse en ese concepto, por favor,
+consulta su definición. En particular, no toleramos el comportamiento que
+excluye a personas pertenecientes a grupos socialmente marginados.</p></li>
+<li><p>El acoso privado también es inaceptable. No importa quién seas, si sientes que
+has sido acosado o te sientes incómodo por un miembro de la comunidad, por
+favor ponte en contacto inmediatamente con uno de los operadores del canal o con
+cualquier miembro del equipo de moderación de Python Perú. Ya seas un
+colaborador habitual o un recién llegado, nos importa que esta comunidad sea un
+lugar seguro para ti y te respaldamos.</p></li>
+<li><p>Del mismo modo, cualquier forma de spam, troleo, provocación o comportamiento
+que llame la atención no es bienvenido.</p></li>
+</ul>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="moderacion">
+<h1>Moderación<a class="headerlink" href="#moderacion" title="Link to this heading">¶</a></h1>
+<p>Estas son las políticas para mantener los estándares de conducta de nuestra
+comunidad. Si sientes que un hilo necesita moderación, por favor contacta al
+equipo de moderación de Python Perú.</p>
+<ol class="arabic simple">
+<li><p>Los comentarios que violen los estándares de conducta de Python Perú,
+incluidos los comentarios odiosos, hirientes, opresivos o excluyentes, no están
+permitidos.  (Se permite el uso de palabras malsonantes, pero nunca dirigidas a
+otro usuario y nunca de manera odiosa).</p></li>
+<li><p>Los comentarios que los moderadores consideren inapropiados, ya sea que estén
+enumerados en el código de conducta o no, tampoco están permitidos.</p></li>
+<li><p>Los moderadores responderán inicialmente a dichos comentarios con una
+advertencia.</p></li>
+<li><p>Si la advertencia no es atendida, el usuario será “expulsado”, es decir,
+eliminado del canal de comunicación para calmarse.</p></li>
+<li><p>Si el usuario regresa y continúa causando problemas, será baneado, es decir,
+excluido indefinidamente.</p></li>
+<li><p>Los moderadores pueden optar, a su discreción, desbanear al usuario si fue la
+primera ofensa y ofrece una disculpa genuina a la parte ofendida.</p></li>
+<li><p>Si un moderador banea a alguien y consideras que fue injustificado, por favor
+trátalo con ese moderador, o con un moderador diferente, en privado. Las quejas
+sobre baneos en el canal no están permitidas.</p></li>
+<li><p>Los moderadores están sujetos a un estándar más alto que otros miembros de la
+comunidad. Si un moderador crea una situación inapropiada, deben esperar menos
+margen de maniobra que los demás.</p></li>
+</ol>
+<p>En la comunidad de Python Perú, nos esforzamos por dar un paso adicional para
+cuidarnos mutuamente. No solo apuntes a ser técnicamente impeclable, intenta ser
+tu mejor versión. En particular, evita coquetear con temas ofensivos o
+sensibles, especialmente si son fuera de tema; esto conduce con demasiada
+frecuencia a peleas innecesarias, sentimientos heridos y falta de confianza;
+peor aún, puede alejar por completo a las personas de la comunidad.</p>
+<p>Y si alguien cuestiona algo que dijiste o hiciste, resiste la tentación de ser
+defensivo. Simplemente deja de hacer lo que te reclamaron y discúlpate. Incluso
+si sientes que fuiste malinterpretado o acusado injustamente, es probable que
+haya algo que podrías haber comunicado mejor; recuerda que es tu responsabilidad
+hacer que tus compañeros Pythonistas se sientan cómodos. Todos quieren llevarse
+bien y estamos todos aquí en primer lugar porque queremos hablar sobre
+tecnología genial. Descubrirás que la gente estará deseosa de asumir una buena
+intención y perdonar siempre que ganes su confianza.</p>
+<p>Las políticas de aplicación enumeradas arriba se aplican a todos los lugares
+oficiales de Python Perú. Para otros proyectos que adopten el Código de Conducta
+de Python Perú, por favor contacta a los mantenedores de esos proyectos para la
+aplicación. Si deseas utilizar este código de conducta para tu propio proyecto,
+considera mencionar explícitamente tu política de moderación o hacer una copia
+con tu propia política de moderación para evitar confusiones.</p>
+<p>Adaptado de la <a class="reference external" href="http://blog.izs.me/post/30036893703/policy-on-trolling">Node.js Policy on
+Trolling</a>, así como de
+la <a class="reference external" href="https://www.contributor-covenant.org/version/1/3/0/">Contributor Covenant
+v1.3.0</a>.</p>
+</section>
+
+        </article><button class="back-to-top" type="button">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+  </svg>
+  <span>Reen al supro</span>
+</button></div>
+    </div>
+  </main>
+</div>
+<footer class="sy-foot">
+  <div class="sy-foot-inner sy-container mx-auto">
+    <div class="sy-foot-reserved md:flex justify-between items-center">
+      <div class="sy-foot-copyright"><p>Copyright © 2024, Python Perú</p>
+  
+  <p>
+    Made with
+    
+    <a href="https://www.sphinx-doc.org/">Sphinx</a> and
+    
+    <a href="https://shibuya.lepture.com">Shibuya theme</a>.
+  </p>
+</div>
+      <div class="sy-foot-socials"></div>
+    </div>
+  </div>
+</footer>
+      <script src="../_static/documentation_options.js?v=a20647df"></script>
+      <script src="../_static/doctools.js?v=888ff710"></script>
+      <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../_static/copybutton.js?v=f281be69"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="../_static/togglebutton.js?v=4a39c7ea"></script>
+      <script src="../_static/translations.js?v=efdbd0b9"></script>
+      <script src="../_static/design-tabs.js?v=36754332"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+      <script src="../_static/shibuya.js?v=e2230717"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script></body>
+</html>
