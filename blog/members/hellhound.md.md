@@ -91,7 +91,7 @@ correr el proyecto y la última para depurar ¡Genial!
 ### ¿Tienes algún aporte a la comunidad de Python?
 
 La verdad que tengo alguno que otro aporte muy pequeño que he hecho a lo largo
-de mi carrera, solo algunos scriptcillos que están en mi cuenta de GitHub. A
+de mi carrera, solo algunos scriptcillos que están en mi cuenta de GitHub.a
 
 ### ¿Estás disponible para hacer mentoring, consultorías, charlas?
 
