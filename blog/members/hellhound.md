@@ -1,13 +1,14 @@
 ---
 blogpost: true
-date: 19 Apr, 2024
-author: hellhound
-location: Lima, Perú
+author: Jean-Pierre Chauvel
+location: Lima
 category: members
 language: Español
 image: 1
 excerpt: 1
 ---
+
+% NOTA: No olvidar poner la fecha de publicación debajo de `blogpost: true`
 
 # Jean-Pierre Chauvel
 
@@ -64,9 +65,6 @@ class: "member-gravatar"
 
 :Homepage: https://chauvel.org
 
-
-## Sobre mí
-
 ### ¿Quién eres y a qué te dedicas?
 
 Trabajo como Ingeniero de Software desde hace varios años.
@@ -93,7 +91,7 @@ correr el proyecto y la última para depurar ¡Genial!
 ### ¿Tienes algún aporte a la comunidad de Python?
 
 La verdad que tengo alguno que otro aporte muy pequeño que he hecho a lo largo
-de mi carrera, solo algunos scriptcillos que están en mi cuenta de GitHub.
+de mi carrera, solo algunos scriptcillos que están en mi cuenta de GitHub.ab
 
 ### ¿Estás disponible para hacer mentoring, consultorías, charlas?
 
