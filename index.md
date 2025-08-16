@@ -35,6 +35,11 @@ myst:
         </a>
     </li>
     <li>
+        <a class="external reference" href="https://www.youtube.com/@pythonperu">
+            <iconify-icon icon="simple-icons:youtube" style="font-size:2em"></iconify-icon>
+        </a>
+    </li>
+    <li>
         <a class="external reference" href="https://www.twitch.tv/pythonperu">
             <iconify-icon icon="simple-icons:twitch" style="font-size:2em"></iconify-icon>
         </a>
