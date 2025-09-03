@@ -97,4 +97,4 @@ de mi carrera, solo algunos scriptcillos que están en mi cuenta de GitHub.
 
 ### ¿Estás disponible para hacer mentoring, consultorías, charlas?
 
-¡Claro!1
+¡Claro!
