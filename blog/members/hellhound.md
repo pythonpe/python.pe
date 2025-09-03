@@ -1,13 +1,14 @@
 ---
 blogpost: true
-date: 19 Apr, 2024
-author: hellhound
-location: Lima, Perú
+author: Jean-Pierre Chauvel
+location: Lima
 category: members
 language: Español
 image: 1
 excerpt: 1
 ---
+
+% NOTA: No olvidar poner la fecha de publicación debajo de `blogpost: true`
 
 # Jean-Pierre Chauvel
 
@@ -63,7 +64,6 @@ class: "member-gravatar"
 :Ciudad: Lima
 
 :Homepage: https://chauvel.org
-
 
 ## Sobre mí
 
