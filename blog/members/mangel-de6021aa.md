@@ -32,7 +32,7 @@ class: "member-gravatar"
 
 :Ciudad: Lima, Perú
 
-:Homepage: https://mangel-portfolio.vercel.com
+:Homepage: https://mangel-portfolio.vercel.app
 
 ## Sobre mí
 
