@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
+  <id>https://python.pe</id>
+  <title>Python Perú | Aprende y explora</title>
+  <updated>2025-09-04T18:14:55.572376+00:00</updated>
+  <link href="https://python.pe"/>
+  <link href="https://python.pe/blog/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.io/" version="0.11.6">ABlog</generator>
+  <entry>
+    <id>https://python.pe/blog/members/mangel-de6021aa/</id>
+    <title>Miguel Ángel Fernández Rodríguez</title>
+    <updated>2025-09-04T00:00:00+00:00</updated>
+    <author>
+      <name>Miguel Angel Fernández Rodríguez</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;Mangel&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/cf7aa296aff79759801072883aa86a49?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/mangel-de6021aa/"/>
+    <summary>MangelPython developer</summary>
+    <published>2025-09-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/events/2025-08-07-segundo-meetup/</id>
+    <title>¡Segundo Meetup del 2025!</title>
+    <updated>2025-08-04T00:00:00+00:00</updated>
+    <author>
+      <name>Jean-Pierre Chauvel</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;&lt;img alt="Imagen del Meetup de Python Perú" src="https://python.pe/_images/2025-08-07-segundo-meetup.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;¡Regresa el meetup mensual de la comunidad &lt;strong&gt;Python Perú&lt;/strong&gt;! Este jueves 7 de
+agosto tendremos una noche cargada de contenido, buenas prácticas, herramientas
+modernas y mucha comunidad. Tres charlas con enfoque práctico sobre desarrollo
+en Python, observabilidad, testing, arquitecturas limpias y herramientas en la
+nube. El evento es &lt;strong&gt;gratuito y abierto al público&lt;/strong&gt;, pensado tanto para
+quienes están iniciando como para quienes ya tienen experiencia.&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/events/2025-08-07-segundo-meetup/"/>
+    <summary>Imagen del Meetup de Python Perú¡Regresa el meetup mensual de la comunidad Python Perú! Este jueves 7 de
+agosto tendremos una noche cargada de contenido, buenas prácticas, herramientas
+modernas y mucha comunidad. Tres charlas con enfoque práctico sobre desarrollo
+en Python, observabilidad, testing, arquitecturas limpias y herramientas en la
+nube. El evento es gratuito y abierto al público, pensado tanto para
+quienes están iniciando como para quienes ya tienen experiencia.</summary>
+    <published>2025-08-04T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/erickgnavar/</id>
+    <title>Erick Navarro</title>
+    <updated>2025-03-15T00:00:00+00:00</updated>
+    <author>
+      <name>Erick Navarro </name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;erickgnavar&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/0c44573e5cbcd1b3d32c27e7d7b367da?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/erickgnavar/"/>
+    <summary>erickgnavarPython developer</summary>
+    <published>2025-03-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/events/2025-01-24-primer-meetup/</id>
+    <title>¡Primer Meetup del 2025!</title>
+    <updated>2025-01-24T00:00:00+00:00</updated>
+    <author>
+      <name>Jean-Pierre Chauvel</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;&lt;img alt="Imagen del Meetup de Python Perú" src="https://python.pe/_images/2025-01-24-primer-meetup.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;Comencemos el 2025 con energía! Únete al primer meetup del año de la comunidad
+Python Perú, un espacio para compartir ideas, aprender de charlas inspiradoras y
+conectar con otros apasionados por Python. Este evento está diseñado para todos,
+desde principiantes hasta expertos, con el objetivo de planificar juntos las
+actividades del año, fortalecer nuestra comunidad y soñar con un futuro PyCon en
+Perú. 🌟&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/events/2025-01-24-primer-meetup/"/>
+    <summary>Imagen del Meetup de Python PerúComencemos el 2025 con energía! Únete al primer meetup del año de la comunidad
+Python Perú, un espacio para compartir ideas, aprender de charlas inspiradoras y
+conectar con otros apasionados por Python. Este evento está diseñado para todos,
+desde principiantes hasta expertos, con el objetivo de planificar juntos las
+actividades del año, fortalecer nuestra comunidad y soñar con un futuro PyCon en
+Perú. 🌟</summary>
+    <published>2025-01-24T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/events/2024-12-12-ultimo-byte-meetup/</id>
+    <title>El Último Byte: Encuentro de Fin de Año</title>
+    <updated>2024-12-10T00:00:00+00:00</updated>
+    <author>
+      <name>Jean-Pierre Chauvel</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;&lt;img alt="Imagen del Meetup de Python Perú" src="https://python.pe/_images/2024-12-12-ultimo-byte-meetup.webp" /&gt;&lt;/p&gt;
+&lt;p&gt;Únete al evento de cierre de año de la comunidad Python Perú, donde
+compartiremos conocimiento y construiremos juntos el camino para un 2025 lleno
+de aprendizaje y colaboración.&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/events/2024-12-12-ultimo-byte-meetup/"/>
+    <summary>Imagen del Meetup de Python PerúÚnete al evento de cierre de año de la comunidad Python Perú, donde
+compartiremos conocimiento y construiremos juntos el camino para un 2025 lleno
+de aprendizaje y colaboración.</summary>
+    <published>2024-12-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/zodiacfireworks/</id>
+    <title>Martin Vuelta</title>
+    <updated>2024-06-15T00:00:00+00:00</updated>
+    <author>
+      <name>zodiacfireworks</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;zodiacfireworks&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/8c312c2ba99fcb12205b7b2554503a87?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/zodiacfireworks/"/>
+    <summary>zodiacfireworksPython developer</summary>
+    <published>2024-06-15T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/mario21ic/</id>
+    <title>Mario Inga</title>
+    <updated>2024-06-14T00:00:00+00:00</updated>
+    <author>
+      <name>Mario Inga </name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;mario21ic&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/a706ed6a9fc17a2bc2b8067432d1e4ab?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/mario21ic/"/>
+    <summary>mario21icPython developer</summary>
+    <published>2024-06-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/jbolo/</id>
+    <title>Jonathan Bolo Desposorio</title>
+    <updated>2024-06-14T00:00:00+00:00</updated>
+    <author>
+      <name>Jonathan Bolo</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;jbolo&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/f3ddabbbd86e31001c3a36c5c8bf073a?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/jbolo/"/>
+    <summary>jboloPython developer</summary>
+    <published>2024-06-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/jotisa/</id>
+    <title>Jonatan Tisnado</title>
+    <updated>2024-06-14T00:00:00+00:00</updated>
+    <author>
+      <name>Jonatan Tisnado</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;jo&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/8fa49c6cc5d73d028ef3b502daa3212a?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/jotisa/"/>
+    <summary>joPython developer</summary>
+    <published>2024-06-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/manduinca/</id>
+    <title>Jean Pierre Mandujano Gutierrez</title>
+    <updated>2024-06-14T00:00:00+00:00</updated>
+    <author>
+      <name>Jean Pierre Mandujano Gutierrez</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;manduinca&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/cf2dcb3ade5e91d815eadcbb79d1cfb0?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/manduinca/"/>
+    <summary>manduincaPython developer</summary>
+    <published>2024-06-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/darwin/</id>
+    <title>Darwin Vasquez</title>
+    <updated>2024-06-14T00:00:00+00:00</updated>
+    <author>
+      <name>Darwin Vasquez </name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;Darwin&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/2f34db3a3210f04d6173c0a394323264?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/darwin/"/>
+    <summary>DarwinPython developer</summary>
+    <published>2024-06-14T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/events/2024-06-11-primer-meetup-presencial-2004/</id>
+    <title>Primer Meetup Presencial 2024</title>
+    <updated>2024-06-10T00:00:00+00:00</updated>
+    <author>
+      <name>Ider Delzo</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;&lt;img alt="Imagen del Meetup de Python Perú" src="https://python.pe/_images/2024-06-11-meetup-headline.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;¡Te esperamos para una noche llena de aprendizaje, networking y crecimiento profesional en el Meetup Python Perú!&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/events/2024-06-11-primer-meetup-presencial-2004/"/>
+    <summary>Imagen del Meetup de Python Perú¡Te esperamos para una noche llena de aprendizaje, networking y crecimiento profesional en el Meetup Python Perú!</summary>
+    <published>2024-06-10T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/oscargicast/</id>
+    <title>Oscar Giraldo Castillo</title>
+    <updated>2024-04-27T00:00:00+00:00</updated>
+    <author>
+      <name>Oscar Giraldo Castillo</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;oscargicast&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/2e9457bf0bb37c03d1850b8ab8bf06b8?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/oscargicast/"/>
+    <summary>oscargicastPython developer</summary>
+    <published>2024-04-27T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/richi/</id>
+    <title>Richard Cancino</title>
+    <updated>2024-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Richard Cancino</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;richi&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/e0abbdf781d6e6142466c3cb0bceb590?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/richi/"/>
+    <summary>richiPython developer</summary>
+    <published>2024-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/soloidx/</id>
+    <title>Ider Delzo</title>
+    <updated>2024-04-22T00:00:00+00:00</updated>
+    <author>
+      <name>Ider Delzo</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;soloidx&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/32720c91d98b15d57166dcc8404f0d1e?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/soloidx/"/>
+    <summary>soloidxPython developer</summary>
+    <published>2024-04-22T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/members/hellhound/</id>
+    <title>Jean-Pierre Chauvel</title>
+    <updated>2024-04-19T00:00:00+00:00</updated>
+    <author>
+      <name>Jean-Pierre Chauvel</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;hellhound&lt;/p&gt;
+&lt;img alt="Python developer" class="member-gravatar" src="https://www.gravatar.com/avatar/0d520a59095b64003f74c59589ccbc3a?s=200" /&gt;&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/members/hellhound/"/>
+    <summary>hellhoundPython developer</summary>
+    <published>2024-04-19T00:00:00+00:00</published>
+  </entry>
+  <entry>
+    <id>https://python.pe/blog/events/2023-10-21-segundo-meetup/</id>
+    <title>Segundo Meetup de Python Perú</title>
+    <updated>2023-10-21T00:00:00+00:00</updated>
+    <author>
+      <name>Ider Delzo</name>
+    </author>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;&lt;img alt="Imagen del segundo Meetup de Python Perú" src="https://python.pe/_images/2023-10-21-segundo-meetup.png" /&gt;&lt;/p&gt;
+&lt;p&gt;Descubre las aplicaciones de Python en Interligencia artificial y Programación de Hardware.&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://python.pe/blog/events/2023-10-21-segundo-meetup/"/>
+    <summary>Imagen del segundo Meetup de Python PerúDescubre las aplicaciones de Python en Interligencia artificial y Programación de Hardware.</summary>
+    <published>2023-10-21T00:00:00+00:00</published>
+  </entry>
+</feed>

@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="es" data-accent-color="tomato" data-content_root="../../">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Desarrollador Web - Python Perú</title><link rel="shortcut icon" href="../../_static/favicon-48x48.png"/><link rel="author" title="Sobre este documento" href="../../about/" /><link rel="index" title="Índice" href="../../genindex/" /><link rel="search" title="Búsqueda" href="../../search/" /><link rel="next" title="Ciencias de Datos" href="../data-science/" /><link rel="prev" title="Desarrollador Python" href="../python-developer/" />
+      <link rel="canonical" href="https://python.pe/learning-path/web-developer/" /><script>
+    function setColorMode(t){let e=document.documentElement;e.setAttribute("data-color-mode",t);let a=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches,s=t;"auto"===t&&(s=a?"dark":"light"),"light"===s?(e.classList.remove("dark"),e.classList.add("light")):(e.classList.remove("light"),e.classList.add("dark"))}
+    setColorMode(localStorage._theme||"auto");
+  </script><link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=397bb51e" />
+    <link rel="stylesheet" type="text/css" href="../../_static/shibuya.css?v=3b41e830" />
+    <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="../../_static/tabs.css?v=a5c4661c" />
+    <link rel="stylesheet" type="text/css" href="../../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
+    <link media="print" rel="stylesheet" type="text/css" href="../../_static/print.css?v=20ff2c19" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/markdown.css?v=c2aafb25" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --sy-f-text: "Inter", var(--sy-f-sys), var(--sy-f-cjk), sans-serif;
+  --sy-f-heading: "Inter", var(--sy-f-sys), var(--sy-f-cjk), sans-serif;
+}
+</style>
+    
+    <meta property="og:type" content="website"/>
+<meta property="og:url" content="https://python.pe/learning-path/web-developer/"/>
+<meta property="og:title" content="Desarrollador Web"/>
+<meta name="twitter:card" content="summary"/>
+  
+    
+    
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="Desarrollador Web" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.python.pe/learning-path/web-developer/" />
+<meta property="og:site_name" content="Python Perú" />
+<meta property="og:description" content="En esta sección, hemos recopilado cuidadosamente una variedad de recursos especialmente seleccionados para potenciar las habilidades de los Pythonistas enfocados en el desarrollo web. Tanto si está..." />
+<meta property="og:image" content="https://www.python.pe/_static/logo/logo.png" />
+<meta property="og:image:alt" content="Python Perú" />
+<meta name="description" content="En esta sección, hemos recopilado cuidadosamente una variedad de recursos especialmente seleccionados para potenciar las habilidades de los Pythonistas enfocados en el desarrollo web. Tanto si está..." />
+
+    
+    
+    
+       <meta name="robots" content="follow, index">
+       <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+</head>
+<body><div class="sy-head">
+  <div class="sy-head-blur"></div>
+  <div class="sy-head-inner sy-container mx-auto">
+    <a class="sy-head-brand" href="../../">
+      <img class="light-logo" src="../../_static/logo.svg" alt="Python Perú" height="28" loading="lazy" />
+      <img class="dark-logo" src="../../_static/logo.svg" alt="Python Perú" height="28" loading="lazy" />
+      <strong>Python Perú</strong>
+    </a>
+    <div class="sy-head-nav" id="HeadNav">
+      <nav class="sy-head-links"></nav>
+      <div class="sy-head-extra flex items-center print:hidden"><form class="searchbox flex items-center" action="../../search/" method="get">
+  <input type="text" name="q" placeholder="Búsqueda" />
+  <kbd>/</kbd>
+</form><div class="sy-head-socials"></div></div>
+    </div>
+    <div class="sy-head-actions flex items-center shrink-0 print:hidden"><button class="js-theme theme-switch flex items-center"
+data-aria-auto="Cambiar a modo claro"
+data-aria-light="Cambiar a modo oscuro"
+data-aria-dark="Cambiar a modo aŭtomata">
+<i class="i-lucide theme-icon"></i>
+</button><button class="md:hidden flex items-center js-menu" aria-label="Menu" type="button" aria-controls="HeadNav" aria-expanded="false">
+        <div class="hamburger">
+          <span class="hamburger_1"></span>
+          <span class="hamburger_2 -translate-x-2"></span>
+          <span class="hamburger_3 -translate-x-1"></span>
+        </div>
+      </button>
+    </div>
+  </div>
+</div>
+<div class="sy-page sy-container flex mx-auto">
+  <aside id="lside" class="sy-lside md:w-72 md:shrink-0 print:hidden">
+    <div class="sy-lside-inner md:sticky">
+      <div class="sy-scrollbar p-6">
+        <div class="globaltoc" data-expand-depth="1"><p class="caption" role="heading" aria-level="3"><span class="caption-text">Secciones</span></p>
+<ul class="current">
+<li class="toctree-l1 _expand"><a class="reference internal" href="../../about/">Acerca de la Comunidad de Python Per&#250;</a></li>
+<li class="toctree-l1 _expand"><a class="reference internal" href="../../events/">Eventos</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="../../talk-brainstorming/">Brainstorming de Charlas</a></li>
+</ul>
+</li>
+<li class="toctree-l1 _expand"><a class="reference internal" href="../../code-of-conduct/">Conducta</a></li>
+<li class="toctree-l1 _expand"><a class="reference internal" href="../../code-of-conduct/#moderacion">Moderaci&#243;n</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../">&#161;Python de cero a Pro!</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../python-developer/">Desarrollador Python</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Desarrollador Web</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../data-science/">Ciencias de Datos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../cloud-devops/">Cloud y DevOps</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../machine-learning-ai/">Machine Learning e IA</a></li>
+</ul>
+</li>
+</ul>
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="lside-overlay js-menu" role="button" aria-label="Close left sidebar" aria-controls="lside" aria-expanded="false"></div>
+  <aside id="rside" class="sy-rside pb-3 w-64 shrink-0 order-last">
+    <button class="rside-close js-menu xl:hidden" aria-label="Close Table of Contents" type="button" aria-controls="rside" aria-expanded="false">
+      <i class="i-lucide close"></i>
+    </button>
+    <div class="sy-scrollbar sy-rside-inner px-6 xl:top-16 xl:sticky xl:pl-0 pt-6 pb-4"><div class="localtoc"><h3>En esta página</h3><ul>
+<li><a class="reference internal" href="#desarrollador-i">Desarrollador I</a></li>
+<li><a class="reference internal" href="#desarrollador-ii">Desarrollador II</a></li>
+</ul>
+</div><div id="ethical-ad-placement" data-ea-publisher="readthedocs"></div></div>
+  </aside>
+  <div class="rside-overlay js-menu" role="button" aria-label="Close Table of Contents" aria-controls="rside" aria-expanded="false"></div>
+  <main class="sy-main w-full max-sm:max-w-full print:pt-6"><div class="sy-breadcrumbs" role="navigation">
+  <div class="sy-breadcrumbs-inner flex items-center">
+    <div class="md:hidden mr-3">
+      <button class="js-menu" aria-label="Menu" type="button" aria-controls="lside" aria-expanded="false">
+        <i class="i-lucide menu"></i>
+      </button>
+    </div>
+    <ol class="flex-1" itemscope itemtype="https://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="../../"><span itemprop="name">Python Perú</span></a>
+        <span>/</span>
+        <meta itemprop="position" content="1" />
+      </li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <a itemprop="item" href="../"><span itemprop="name">¡Python de cero a Pro!</span></a>
+        <span>/</span>
+        <meta itemprop="position" content="2" />
+      </li><li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        <strong itemprop="name">Desarrollador Web</strong>
+        <meta itemprop="position" content="3" />
+      </li></ol>
+    <div class="xl:hidden ml-1">
+      <button class="js-menu" aria-label="Show table of contents" type="button" aria-controls="rside"
+        aria-expanded="false">
+        <i class="i-lucide outdent"></i>
+      </button>
+    </div>
+  </div>
+</div><div class="flex flex-col break-words justify-between">
+      <div class="min-w-0 max-w-6xl px-6 pb-6 pt-8 xl:px-12">
+        <article class="yue" role="main">
+          <section class="tex2jax_ignore mathjax_ignore" id="desarrollador-web">
+<h1>Desarrollador Web<a class="headerlink" href="#desarrollador-web" title="Link to this heading">¶</a></h1>
+<p>En esta sección, hemos recopilado cuidadosamente una variedad de recursos
+especialmente seleccionados para potenciar las habilidades de los Pythonistas
+enfocados en el desarrollo web. Tanto si estás dando tus primeros pasos en el
+mundo de Python para web como si ya eres un experto, encontrarás enlaces a
+herramientas fundamentales, libros especializados, blogs destacados y videos
+tutoriales que te guiarán en la creación de aplicaciones web robustas y
+eficientes con Python.</p>
+<p>Para desarrolladores web que están comenzando con Python, te aconsejamos
+explorar recursos que te enseñen conceptos básicos de Python aplicados al
+desarrollo web, frameworks populares como Django o Flask, manejo de bases de
+datos y creación de API RESTful con Python. Estos recursos te brindarán una base
+sólida para crear aplicaciones web desde cero y familiarizarte con las mejores
+prácticas del desarrollo web.</p>
+<p>Para los Pythonistas con experiencia en desarrollo web, te ofrecemos recursos
+avanzados tales como libros especializados en construcción de aplicaciones web
+escalables, blogs que exploran temas actuales en el mundo del desarrollo web con
+Python, videos sobre técnicas avanzadas de optimización y seguridad, así como
+tutoriales prácticos que te desafiarán a mejorar tus habilidades y a estar al
+tanto de las últimas tendencias en el desarrollo web. Con estos recursos a tu
+disposición, podrás perfeccionar tus habilidades y convertirte en un Pythonista
+aún más competente y exitoso en el mundo del desarrollo web. ¡Explora, aprende y
+lleva tus habilidades a nuevos horizontes!</p>
+<p><strong>Leyenda:</strong></p>
+<p>📗: Libro</p>
+<p>📹: Video tutorial</p>
+<p>🎓: Curso</p>
+<p>🧑‍💻: Código práctico</p>
+<p>📝: Blog post</p>
+<p>Los nombres con asterisco al final (*) son con contenido en inglés.</p>
+<section id="desarrollador-i">
+<h2>Desarrollador I<a class="headerlink" href="#desarrollador-i" title="Link to this heading">¶</a></h2>
+</section>
+<section id="desarrollador-ii">
+<h2>Desarrollador II<a class="headerlink" href="#desarrollador-ii" title="Link to this heading">¶</a></h2>
+</section>
+</section>
+
+        </article><button class="back-to-top" type="button">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+  </svg>
+  <span>Reen al supro</span>
+</button></div>
+    </div>
+  </main>
+</div>
+<footer class="sy-foot">
+  <div class="sy-foot-inner sy-container mx-auto">
+    <div class="sy-foot-reserved md:flex justify-between items-center">
+      <div class="sy-foot-copyright"><p>Copyright © 2024, Python Perú</p>
+  
+  <p>
+    Made with
+    
+    <a href="https://www.sphinx-doc.org/">Sphinx</a> and
+    
+    <a href="https://shibuya.lepture.com">Shibuya theme</a>.
+  </p>
+</div>
+      <div class="sy-foot-socials"></div>
+    </div>
+  </div>
+</footer>
+      <script src="../../_static/documentation_options.js?v=a20647df"></script>
+      <script src="../../_static/doctools.js?v=888ff710"></script>
+      <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../../_static/copybutton.js?v=f281be69"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="../../_static/togglebutton.js?v=4a39c7ea"></script>
+      <script src="../../_static/translations.js?v=efdbd0b9"></script>
+      <script src="../../_static/design-tabs.js?v=36754332"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+      <script src="../../_static/shibuya.js?v=e2230717"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script></body>
+</html>
