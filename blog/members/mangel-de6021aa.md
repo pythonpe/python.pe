@@ -9,7 +9,7 @@ image: 1
 excerpt: 1
 ---
 
-# Miguel Angel Fernández Rodríguez
+# Miguel Ángel Fernández Rodríguez
 
 ```{gravatar} mangelryujin@gmail.com
 ---
@@ -46,7 +46,7 @@ print("Hola Mundo").... Era broma. Programo principalmente usando frameworks com
 
 ### ¿Tienes algún aporte a la comunidad de Python?
 
-He contribuido en el paquete de edit-python-pe de la comunidad de Python.pe. Esperemos por más....
+He contribuido en el paquete de edit-python-pe de la comunidad de python.pe. Esperemos por más....
 
 ### ¿Estás disponible para hacer mentoring, consultorías, charlas?
 
