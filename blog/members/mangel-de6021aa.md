@@ -1,6 +1,6 @@
 ---
 blogpost: true
-date: 04 Sep, 2025
+date: 05 Sep, 2025
 author: Mangel
 location: Lima, Perú
 category: members
@@ -18,7 +18,7 @@ class: "member-gravatar"
 ---
 ```
 
-```{raw} html
+```{{raw}} html
 <ul class="social-media profile">
     <li>
         <a class="external reference" href="https://github.com/MangelRyujin">
