@@ -1,8 +1,8 @@
 ---
 blogpost: true
-date: 19 Apr, 2024
+date: 05 Sep, 2025
 author: hellhound
-location: Lima, Perú
+location: Lima
 category: members
 language: Español
 image: 1
@@ -18,7 +18,7 @@ class: "member-gravatar"
 ---
 ```
 
-```{raw} html
+```{{raw}} html
 <ul class="social-media profile">
     <li>
         <a class="external reference" href="https://github.com/jpchauvel">
@@ -64,7 +64,6 @@ class: "member-gravatar"
 
 :Homepage: https://chauvel.org
 
-
 ## Sobre mí
 
 ### ¿Quién eres y a qué te dedicas?
@@ -97,4 +96,4 @@ de mi carrera, solo algunos scriptcillos que están en mi cuenta de GitHub.
 
 ### ¿Estás disponible para hacer mentoring, consultorías, charlas?
 
-¡Claro!
+¡Claro!1
