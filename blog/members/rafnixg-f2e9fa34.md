@@ -33,7 +33,7 @@ class: "member-gravatar"
 </ul>
 ```
 
-:Aliases: rafnixg
+:Aliases: rafnixg :Ciudad: Lima :Homepage: https://links.rafnixg.dev
 
 ## Sobre mí
 
@@ -61,24 +61,18 @@ Estoy profundamente comprometido con el uso y la promoción de tecnologías libr
 - Compartición de Conocimiento y Mentoría
 Contribuyo invirtiendo en el talento futuro y compartiendo experiencia:
 
-Mentoría: Como Desarrollador Senior Python/Odoo, he proporcionado mentoría técnica y capacitación a miembros del equipo Junior y Trainee, ayudando directamente a desarrollar habilidades dentro del ecosistema Python/Odoo.
+- Mentoría: Como Desarrollador Senior Python/Odoo, he proporcionado mentoría técnica y capacitación a miembros del equipo Junior y Trainee, ayudando directamente a desarrollar habilidades dentro del ecosistema Python/Odoo.
 
-Redacción Técnica: Contribuyo con documentación y tutoriales valiosos, como publicaciones de blog que detallan:
-
-Cómo automatizar librerías de paquetes de Python en PyPI utilizando GitHub Actions.
-
-Una guía paso a paso sobre cómo publicar tu propia librería de Python.
-
-Operaciones avanzadas y configuración de entornos para el desarrollo Odoo/Python (por ejemplo, usando VSCode o la shell de la CLI de Odoo).
+- Redacción Técnica: Contribuyo con documentación y tutoriales valiosos, como publicaciones de blog que detallan:
+    - Cómo automatizar librerías de paquetes de Python en PyPI utilizando GitHub Actions.
+    - Una guía paso a paso sobre cómo publicar tu propia librería de Python.
+    - Operaciones avanzadas y configuración de entornos para el desarrollo Odoo/Python (por ejemplo, usando VSCode o la shell de la CLI de Odoo).
 
 - Proyectos de Código Abierto (GitHub)
 Contribuyo código a través de repositorios públicos en mi perfil de GitHub, demostrando la aplicación práctica de Python:
-
-API de Tasa de Cambio BCV (bcv-api): Un proyecto de API pública escrito en Python para recuperar la tasa de cambio del Banco Central de Venezuela (BCV).
-
-Proyectos de Utilidad Personal: Incluye varios proyectos pequeños que utilizan Python, como la implementación de un servidor HTTP básico, demostrando habilidades de programación fundamentales.
-
-Entornos de Desarrollo Odoo: Proporciono configuraciones disponibles públicamente para ayudar a otros desarrolladores a configurar y optimizar sus entornos de desarrollo Odoo utilizando herramientas como VSCode.
+    - API de Tasa de Cambio BCV (bcv-api): Un proyecto de API pública escrito en Python para recuperar la tasa de cambio del Banco Central de Venezuela (BCV).
+    - Proyectos de Utilidad Personal: Incluye varios proyectos pequeños que utilizan Python, como la implementación de un servidor HTTP básico, demostrando habilidades de programación fundamentales.
+    - Entornos de Desarrollo Odoo: Proporciono configuraciones disponibles públicamente para ayudar a otros desarrolladores a configurar y optimizar sus entornos de desarrollo Odoo utilizando herramientas como VSCode.
 
 ### ¿Estás disponible para hacer mentoring, consultorías, charlas?
 
